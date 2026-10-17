@@ -1,0 +1,709 @@
+[
+  {
+    "path": "assets/advanced_ae/textures/part/advanced_io_bus.png",
+    "sha256": "f676d0343fd5a357ca5f9558a12cd8846f000910bb01a6664765d8562e8175c4",
+    "jar": "AdvancedAE-1.6.11-1.21.1.jar",
+    "jar_sha256": "891e1f8ee0f3ac1bbce03fc2848b761f9c52bea4533eb3419ae849582e15ced7",
+    "reason": "missing_effective_override"
+  },
+  {
+    "path": "assets/advanced_ae/textures/part/advanced_io_bus_back.png",
+    "sha256": "aabff338db5fc8846d5ef9257f231f1134b1dc29e1622e66e64fb2e797eab1d2",
+    "jar": "AdvancedAE-1.6.11-1.21.1.jar",
+    "jar_sha256": "891e1f8ee0f3ac1bbce03fc2848b761f9c52bea4533eb3419ae849582e15ced7",
+    "reason": "missing_effective_override"
+  },
+  {
+    "path": "assets/advanced_ae/textures/part/advanced_io_bus_sides.png",
+    "sha256": "8544433e37ff90e925461e6633394b7e47aee042f239eaea69071562500b19c4",
+    "jar": "AdvancedAE-1.6.11-1.21.1.jar",
+    "jar_sha256": "891e1f8ee0f3ac1bbce03fc2848b761f9c52bea4533eb3419ae849582e15ced7",
+    "reason": "missing_effective_override"
+  },
+  {
+    "path": "assets/advanced_ae/textures/part/quantum_crafter_terminal_bright.png",
+    "sha256": "310f4b7ee36bd6945d6bcf68d1f683979b646205b75bd84274b10389d7467a3e",
+    "jar": "AdvancedAE-1.6.11-1.21.1.jar",
+    "jar_sha256": "891e1f8ee0f3ac1bbce03fc2848b761f9c52bea4533eb3419ae849582e15ced7",
+    "reason": "missing_effective_override"
+  },
+  {
+    "path": "assets/advanced_ae/textures/part/quantum_crafter_terminal_dark.png",
+    "sha256": "17afa3e7870de965382b152b1629a2393979408f47161c443ef20ae1f657f630",
+    "jar": "AdvancedAE-1.6.11-1.21.1.jar",
+    "jar_sha256": "891e1f8ee0f3ac1bbce03fc2848b761f9c52bea4533eb3419ae849582e15ced7",
+    "reason": "missing_effective_override"
+  },
+  {
+    "path": "assets/advanced_ae/textures/part/quantum_crafter_terminal_medium.png",
+    "sha256": "6e279bd8b08dcfe40d2c79d7e33d1ad90666d723bc4180adbf297865699af11c",
+    "jar": "AdvancedAE-1.6.11-1.21.1.jar",
+    "jar_sha256": "891e1f8ee0f3ac1bbce03fc2848b761f9c52bea4533eb3419ae849582e15ced7",
+    "reason": "missing_effective_override"
+  },
+  {
+    "path": "assets/ae2cs/textures/block/mirror_pattern_provider/alternate.png",
+    "sha256": "ca1a2074b9d1b68dea0899bbdd0878d70b0e8439ed6d36e04eb65b69180c38d2",
+    "jar": "ae2-crystal-science-1.21.1-ae2cs-1.21.1-1.2.1.jar",
+    "jar_sha256": "fb0d921c68d43e3ff76c9da16b6e3b8ba4944849064fd42aeb27e0f9ed099dde",
+    "reason": "missing_effective_override"
+  },
+  {
+    "path": "assets/ae2cs/textures/block/mirror_pattern_provider/alternate_arrow.png",
+    "sha256": "e936212a74690add226f13b051ee4ffc3f0bfc70825e551c6c395e52c9a6aa8c",
+    "jar": "ae2-crystal-science-1.21.1-ae2cs-1.21.1-1.2.1.jar",
+    "jar_sha256": "fb0d921c68d43e3ff76c9da16b6e3b8ba4944849064fd42aeb27e0f9ed099dde",
+    "reason": "missing_effective_override"
+  },
+  {
+    "path": "assets/ae2cs/textures/block/mirror_pattern_provider/alternate_front.png",
+    "sha256": "4ba230f6e6ccefbe73d752b35b1700d72738faf1757470fbeb2f91892d4ea240",
+    "jar": "ae2-crystal-science-1.21.1-ae2cs-1.21.1-1.2.1.jar",
+    "jar_sha256": "fb0d921c68d43e3ff76c9da16b6e3b8ba4944849064fd42aeb27e0f9ed099dde",
+    "reason": "missing_effective_override"
+  },
+  {
+    "path": "assets/ae2cs/textures/block/mirror_pattern_provider/back.png",
+    "sha256": "319838b74d03944aac70b4a3eb8a60e62576a6c54e8b137c6a0c72eb5e7d87fd",
+    "jar": "ae2-crystal-science-1.21.1-ae2cs-1.21.1-1.2.1.jar",
+    "jar_sha256": "fb0d921c68d43e3ff76c9da16b6e3b8ba4944849064fd42aeb27e0f9ed099dde",
+    "reason": "missing_effective_override"
+  },
+  {
+    "path": "assets/ae2cs/textures/block/mirror_pattern_provider/base.png",
+    "sha256": "4a5f990d1036f6aff6dde09748bf550fe59b944a94d4f0b9ec5e4c844b5c33a3",
+    "jar": "ae2-crystal-science-1.21.1-ae2cs-1.21.1-1.2.1.jar",
+    "jar_sha256": "fb0d921c68d43e3ff76c9da16b6e3b8ba4944849064fd42aeb27e0f9ed099dde",
+    "reason": "missing_effective_override"
+  },
+  {
+    "path": "assets/ae2cs/textures/item/link_crystal_dust.png",
+    "sha256": "cee642aa8b02f3ef22e51751c0ed80efa7ef7f144d7694cfda50beecf0ec2ad4",
+    "jar": "ae2-crystal-science-1.21.1-ae2cs-1.21.1-1.2.1.jar",
+    "jar_sha256": "fb0d921c68d43e3ff76c9da16b6e3b8ba4944849064fd42aeb27e0f9ed099dde",
+    "reason": "missing_effective_override"
+  },
+  {
+    "path": "assets/ae2cs/textures/item/link_crystal_seed_0.png",
+    "sha256": "6b215c8f0e19bd01bb797a7460fa67380e677321952bcc15a3d5e48ae4aa780b",
+    "jar": "ae2-crystal-science-1.21.1-ae2cs-1.21.1-1.2.1.jar",
+    "jar_sha256": "fb0d921c68d43e3ff76c9da16b6e3b8ba4944849064fd42aeb27e0f9ed099dde",
+    "reason": "missing_effective_override"
+  },
+  {
+    "path": "assets/ae2cs/textures/item/link_crystal_seed_1.png",
+    "sha256": "2fde2792ab50c4d5f044e0d8f34b8848859bce94e74de284e67a97962e51dca0",
+    "jar": "ae2-crystal-science-1.21.1-ae2cs-1.21.1-1.2.1.jar",
+    "jar_sha256": "fb0d921c68d43e3ff76c9da16b6e3b8ba4944849064fd42aeb27e0f9ed099dde",
+    "reason": "missing_effective_override"
+  },
+  {
+    "path": "assets/ae2cs/textures/item/link_crystal_seed_2.png",
+    "sha256": "7baefd645567dccb88ace40966968b0f0c26a9e1fd84f74d7aafe33b844f3274",
+    "jar": "ae2-crystal-science-1.21.1-ae2cs-1.21.1-1.2.1.jar",
+    "jar_sha256": "fb0d921c68d43e3ff76c9da16b6e3b8ba4944849064fd42aeb27e0f9ed099dde",
+    "reason": "missing_effective_override"
+  },
+  {
+    "path": "assets/ae2cs/textures/item/mirror_linker.png",
+    "sha256": "d75cde3ecacea950e7b8392b2136c73a1e36ed63339a4a3c7f6475e665260632",
+    "jar": "ae2-crystal-science-1.21.1-ae2cs-1.21.1-1.2.1.jar",
+    "jar_sha256": "fb0d921c68d43e3ff76c9da16b6e3b8ba4944849064fd42aeb27e0f9ed099dde",
+    "reason": "missing_effective_override"
+  },
+  {
+    "path": "assets/ae2cs/textures/item/overload_card.png",
+    "sha256": "097f4a34ffdab20fa5a31f3c767ac2a36a43d3db6f70c117c48bd12c74092dcc",
+    "jar": "ae2-crystal-science-1.21.1-ae2cs-1.21.1-1.2.1.jar",
+    "jar_sha256": "fb0d921c68d43e3ff76c9da16b6e3b8ba4944849064fd42aeb27e0f9ed099dde",
+    "reason": "missing_effective_override"
+  },
+  {
+    "path": "assets/ae2cs/textures/item/purified_link_crystal.png",
+    "sha256": "662b35089f09730c2fbef9ff685304eaef0776fd1c8f2a060415d7ad39a9eefc",
+    "jar": "ae2-crystal-science-1.21.1-ae2cs-1.21.1-1.2.1.jar",
+    "jar_sha256": "fb0d921c68d43e3ff76c9da16b6e3b8ba4944849064fd42aeb27e0f9ed099dde",
+    "reason": "missing_effective_override"
+  },
+  {
+    "path": "assets/ae2cs/textures/item/resonating_linker.png",
+    "sha256": "ac9a509c6b96d587cbc81e29484246cff97ac95f58f41dd4493856b66d8887ef",
+    "jar": "ae2-crystal-science-1.21.1-ae2cs-1.21.1-1.2.1.jar",
+    "jar_sha256": "fb0d921c68d43e3ff76c9da16b6e3b8ba4944849064fd42aeb27e0f9ed099dde",
+    "reason": "missing_effective_override"
+  },
+  {
+    "path": "assets/ae2cs/textures/item/resonating_memory_card.png",
+    "sha256": "641a316fd95eeb4d35096ced2012642b867d7da32b5deb2c79f99706213ce6f6",
+    "jar": "ae2-crystal-science-1.21.1-ae2cs-1.21.1-1.2.1.jar",
+    "jar_sha256": "fb0d921c68d43e3ff76c9da16b6e3b8ba4944849064fd42aeb27e0f9ed099dde",
+    "reason": "missing_effective_override"
+  },
+  {
+    "path": "assets/extendedae_plus/textures/block/lattra_crystal_block.png",
+    "sha256": "85b3a61193787f6e13c168fea6173df8730cb047fcbce18f80e530d1eb7727f0",
+    "jar": "extendedae-plus-1.21.1-extendedae_plus-1.6.3.jar",
+    "jar_sha256": "1d89b055a7de508ec8dd5595ead646f4734c8fc5f7d843d7606454088118b41a",
+    "reason": "missing_effective_override"
+  },
+  {
+    "path": "assets/extendedae_plus/textures/block/tag_inventory_me_interface.png",
+    "sha256": "09069bf0a6591694faa8da03bd87f716cc9e9c00b6863cfd197b47f4c48919b9",
+    "jar": "extendedae-plus-1.21.1-extendedae_plus-1.6.3.jar",
+    "jar_sha256": "1d89b055a7de508ec8dd5595ead646f4734c8fc5f7d843d7606454088118b41a",
+    "reason": "missing_effective_override"
+  },
+  {
+    "path": "assets/extendedae_plus/textures/item/extended_pattern_provider_expansion_card_plus.png",
+    "sha256": "9f66274816f7af5da292577752a18a5010598fb1369401f2eec2cfdc75eb86a3",
+    "jar": "extendedae-plus-1.21.1-extendedae_plus-1.6.3.jar",
+    "jar_sha256": "1d89b055a7de508ec8dd5595ead646f4734c8fc5f7d843d7606454088118b41a",
+    "reason": "missing_effective_override"
+  },
+  {
+    "path": "assets/extendedae_plus/textures/item/large_quartz_bud.png",
+    "sha256": "4a52d25383d5f072740b0ce3f39b3cf1e52eb7d353c13b343cfbc0970f7ed499",
+    "jar": "extendedae-plus-1.21.1-extendedae_plus-1.6.3.jar",
+    "jar_sha256": "1d89b055a7de508ec8dd5595ead646f4734c8fc5f7d843d7606454088118b41a",
+    "reason": "missing_effective_override"
+  },
+  {
+    "path": "assets/extendedae_plus/textures/item/medium_quartz_bud.png",
+    "sha256": "c5a4e6a1562eab3983b4723f506d823d169c75864eca8610062ddaabe118ab01",
+    "jar": "extendedae-plus-1.21.1-extendedae_plus-1.6.3.jar",
+    "jar_sha256": "1d89b055a7de508ec8dd5595ead646f4734c8fc5f7d843d7606454088118b41a",
+    "reason": "missing_effective_override"
+  },
+  {
+    "path": "assets/extendedae_plus/textures/item/quartz_cluster.png",
+    "sha256": "79052c7b1d232872ee4c333ae744f80a8efc5d73bea6ef573108e7f84ec3a57e",
+    "jar": "extendedae-plus-1.21.1-extendedae_plus-1.6.3.jar",
+    "jar_sha256": "1d89b055a7de508ec8dd5595ead646f4734c8fc5f7d843d7606454088118b41a",
+    "reason": "missing_effective_override"
+  },
+  {
+    "path": "assets/extendedae_plus/textures/item/small_quartz_bud.png",
+    "sha256": "d734d9407c18109abc9fbd53ff7077deb0edb69f88be1f2f3bf9a9cd298e271f",
+    "jar": "extendedae-plus-1.21.1-extendedae_plus-1.6.3.jar",
+    "jar_sha256": "1d89b055a7de508ec8dd5595ead646f4734c8fc5f7d843d7606454088118b41a",
+    "reason": "missing_effective_override"
+  },
+  {
+    "path": "assets/ae2/textures/item/engineering_processor_press.png",
+    "sha256": "821ee07a6c91f0f4918d4e7435b77c6ec28232f466f03c9d147699a622a9d0a9",
+    "jar": "appliedenergistics2-19.2.18.jar",
+    "jar_sha256": "df15a07f86ca1ca93aa66373f9d5d84dd3d4586631fceb38f4fbc85dad591e39",
+    "reason": "different_AE2_item_pixels"
+  },
+  {
+    "path": "assets/ae2/textures/item/logic_processor.png",
+    "sha256": "b48ebdf04ee2db09d2b2a59cbae2552b591c5a911bee6df459e2b32f855eb4f1",
+    "jar": "appliedenergistics2-19.2.18.jar",
+    "jar_sha256": "df15a07f86ca1ca93aa66373f9d5d84dd3d4586631fceb38f4fbc85dad591e39",
+    "reason": "different_AE2_item_pixels"
+  },
+  {
+    "path": "assets/ae2/textures/item/logic_processor_press.png",
+    "sha256": "6973e212e7c4d4b91ff32a8dcc95e1433c7b020f2ee648be6085dafca795703c",
+    "jar": "appliedenergistics2-19.2.18.jar",
+    "jar_sha256": "df15a07f86ca1ca93aa66373f9d5d84dd3d4586631fceb38f4fbc85dad591e39",
+    "reason": "different_AE2_item_pixels"
+  },
+  {
+    "path": "assets/ae2/textures/item/printed_calculation_processor.png",
+    "sha256": "615c7b7eadd633c4cb049c0c157d0c563c31122c788ee53dde5b6a16c75b54e7",
+    "jar": "appliedenergistics2-19.2.18.jar",
+    "jar_sha256": "df15a07f86ca1ca93aa66373f9d5d84dd3d4586631fceb38f4fbc85dad591e39",
+    "reason": "different_AE2_item_pixels"
+  },
+  {
+    "path": "assets/ae2/textures/item/printed_logic_processor.png",
+    "sha256": "580a515fc0cfef3b248736434be496c81550b239d9a2f550b0b319ff80858f6c",
+    "jar": "appliedenergistics2-19.2.18.jar",
+    "jar_sha256": "df15a07f86ca1ca93aa66373f9d5d84dd3d4586631fceb38f4fbc85dad591e39",
+    "reason": "different_AE2_item_pixels"
+  },
+  {
+    "path": "assets/ae2/textures/item/silicon_press.png",
+    "sha256": "e7e109916127a7efd144906dcf47bf0ba210551cdc825fcff62953247eefcd54",
+    "jar": "appliedenergistics2-19.2.18.jar",
+    "jar_sha256": "df15a07f86ca1ca93aa66373f9d5d84dd3d4586631fceb38f4fbc85dad591e39",
+    "reason": "different_AE2_item_pixels"
+  },
+  {
+    "path": "assets/advanced_ae/textures/item/wireless_quantum_crafter_terminal.png",
+    "sha256": "d34aca374b04c80baaeec4bb5342dd05c7e6f28da05610c460bba999a6b2e3df",
+    "jar": "AdvancedAE-1.6.11-1.21.1.jar",
+    "jar_sha256": "891e1f8ee0f3ac1bbce03fc2848b761f9c52bea4533eb3419ae849582e15ced7",
+    "reason": "same_generated_item_texture_mapping"
+  },
+  {
+    "path": "assets/ae2_toggleable_view_cell/textures/item/toggleable_view_cell.png",
+    "sha256": "f5256e8d0bbbcc843a8fb75b6d20822837f26aa2dbc74934f16c3c247b269a2a",
+    "jar": "ae2-toggleable-viewcell-1.21.1-AE2ToggleableViewCell-21.1-2.0.3.jar",
+    "jar_sha256": "b8375f9cd92d561f47caf9e3bce786900502e8e31b436d18e54e333dd7547fe6",
+    "reason": "same_generated_item_texture_mapping"
+  },
+  {
+    "path": "assets/ae2_toggleable_view_cell/textures/item/toggleable_view_cell_enabled.png",
+    "sha256": "18a7fc4751735b199d36b660dbb134faeba4c2d7066eca1a9006cb7b4423331c",
+    "jar": "ae2-toggleable-viewcell-1.21.1-AE2ToggleableViewCell-21.1-2.0.3.jar",
+    "jar_sha256": "b8375f9cd92d561f47caf9e3bce786900502e8e31b436d18e54e333dd7547fe6",
+    "reason": "same_generated_item_texture_mapping"
+  },
+  {
+    "path": "assets/ae2additions/textures/item/cell_component_1024.png",
+    "sha256": "215cdb0f85ae89824fd667bfc5925af126ee6b8c2ea83a4f6f731e87ff0406a9",
+    "jar": "ae-additions-1.21.1-AEAdditions-1.21.1-6.0.2.jar",
+    "jar_sha256": "3e9c0834e043fc0075a87a40013a11d8406581ef8c1564cc2e94a0ffb5792101",
+    "reason": "same_generated_item_texture_mapping"
+  },
+  {
+    "path": "assets/ae2additions/textures/item/cell_component_16384.png",
+    "sha256": "27096b42c378c54d3715a51baaafbebaf606b92bcd5e388593c0a9b8b52e7575",
+    "jar": "ae-additions-1.21.1-AEAdditions-1.21.1-6.0.2.jar",
+    "jar_sha256": "3e9c0834e043fc0075a87a40013a11d8406581ef8c1564cc2e94a0ffb5792101",
+    "reason": "same_generated_item_texture_mapping"
+  },
+  {
+    "path": "assets/ae2additions/textures/item/cell_component_4096.png",
+    "sha256": "88024b03d7458aaf22011c21b987e07f07b151b7ca54a3c329e0c7d31e6b6b94",
+    "jar": "ae-additions-1.21.1-AEAdditions-1.21.1-6.0.2.jar",
+    "jar_sha256": "3e9c0834e043fc0075a87a40013a11d8406581ef8c1564cc2e94a0ffb5792101",
+    "reason": "same_generated_item_texture_mapping"
+  },
+  {
+    "path": "assets/ae2additions/textures/item/cell_component_65536.png",
+    "sha256": "ef58e12e7f43b72aa4f60db0743fdcad58bc1002501dddd77a86052364a41204",
+    "jar": "ae-additions-1.21.1-AEAdditions-1.21.1-6.0.2.jar",
+    "jar_sha256": "3e9c0834e043fc0075a87a40013a11d8406581ef8c1564cc2e94a0ffb5792101",
+    "reason": "same_generated_item_texture_mapping"
+  },
+  {
+    "path": "assets/ae2additions/textures/item/chemical_storage_cell_1024.png",
+    "sha256": "6a2bfa453d3cbe8b7c2f47ba132254ac9917bb3b45a62e987295596d34a21230",
+    "jar": "ae-additions-1.21.1-AEAdditions-1.21.1-6.0.2.jar",
+    "jar_sha256": "3e9c0834e043fc0075a87a40013a11d8406581ef8c1564cc2e94a0ffb5792101",
+    "reason": "same_generated_item_texture_mapping"
+  },
+  {
+    "path": "assets/ae2additions/textures/item/chemical_storage_cell_16384.png",
+    "sha256": "44cc9f239977027be1cbb94cfa5690bd5b1c929da1e9fdec8f4b69cb8425c9c7",
+    "jar": "ae-additions-1.21.1-AEAdditions-1.21.1-6.0.2.jar",
+    "jar_sha256": "3e9c0834e043fc0075a87a40013a11d8406581ef8c1564cc2e94a0ffb5792101",
+    "reason": "same_generated_item_texture_mapping"
+  },
+  {
+    "path": "assets/ae2additions/textures/item/chemical_storage_cell_4096.png",
+    "sha256": "44cc9f239977027be1cbb94cfa5690bd5b1c929da1e9fdec8f4b69cb8425c9c7",
+    "jar": "ae-additions-1.21.1-AEAdditions-1.21.1-6.0.2.jar",
+    "jar_sha256": "3e9c0834e043fc0075a87a40013a11d8406581ef8c1564cc2e94a0ffb5792101",
+    "reason": "same_generated_item_texture_mapping"
+  },
+  {
+    "path": "assets/ae2additions/textures/item/fluid_storage_cell_1024.png",
+    "sha256": "791ece2ef2d8375c103f8e6201f5f07fe98ef2bac4706106f47cb5db4f642e5b",
+    "jar": "ae-additions-1.21.1-AEAdditions-1.21.1-6.0.2.jar",
+    "jar_sha256": "3e9c0834e043fc0075a87a40013a11d8406581ef8c1564cc2e94a0ffb5792101",
+    "reason": "same_generated_item_texture_mapping"
+  },
+  {
+    "path": "assets/ae2additions/textures/item/fluid_storage_cell_16384.png",
+    "sha256": "73f087c5dbbd2c5030ee773780171464e69f1005cee6fbba6af086957cc9613b",
+    "jar": "ae-additions-1.21.1-AEAdditions-1.21.1-6.0.2.jar",
+    "jar_sha256": "3e9c0834e043fc0075a87a40013a11d8406581ef8c1564cc2e94a0ffb5792101",
+    "reason": "same_generated_item_texture_mapping"
+  },
+  {
+    "path": "assets/ae2additions/textures/item/fluid_storage_cell_4096.png",
+    "sha256": "73f087c5dbbd2c5030ee773780171464e69f1005cee6fbba6af086957cc9613b",
+    "jar": "ae-additions-1.21.1-AEAdditions-1.21.1-6.0.2.jar",
+    "jar_sha256": "3e9c0834e043fc0075a87a40013a11d8406581ef8c1564cc2e94a0ffb5792101",
+    "reason": "same_generated_item_texture_mapping"
+  },
+  {
+    "path": "assets/ae2additions/textures/item/item_storage_cell_1024.png",
+    "sha256": "9981194743d3801f9daa2891eb6f4e0605d13aaa43bdd6609ac976ee7a2ac6b2",
+    "jar": "ae-additions-1.21.1-AEAdditions-1.21.1-6.0.2.jar",
+    "jar_sha256": "3e9c0834e043fc0075a87a40013a11d8406581ef8c1564cc2e94a0ffb5792101",
+    "reason": "same_generated_item_texture_mapping"
+  },
+  {
+    "path": "assets/ae2additions/textures/item/item_storage_cell_16384.png",
+    "sha256": "8ed3d475066a1855438cfc20fce6b47f93dfe92573363b37489c69c7fde26bc7",
+    "jar": "ae-additions-1.21.1-AEAdditions-1.21.1-6.0.2.jar",
+    "jar_sha256": "3e9c0834e043fc0075a87a40013a11d8406581ef8c1564cc2e94a0ffb5792101",
+    "reason": "same_generated_item_texture_mapping"
+  },
+  {
+    "path": "assets/ae2additions/textures/item/item_storage_cell_4096.png",
+    "sha256": "82495b62bc7a9d1577bb067adc596099ea2a67b31ee787f1fd1f0801902864a3",
+    "jar": "ae-additions-1.21.1-AEAdditions-1.21.1-6.0.2.jar",
+    "jar_sha256": "3e9c0834e043fc0075a87a40013a11d8406581ef8c1564cc2e94a0ffb5792101",
+    "reason": "same_generated_item_texture_mapping"
+  },
+  {
+    "path": "assets/ae2additions/textures/item/item_storage_cell_65536.png",
+    "sha256": "2260dfbb234f00d59c47535c0aa6cf5f71c10de048433141040a267516f7043b",
+    "jar": "ae-additions-1.21.1-AEAdditions-1.21.1-6.0.2.jar",
+    "jar_sha256": "3e9c0834e043fc0075a87a40013a11d8406581ef8c1564cc2e94a0ffb5792101",
+    "reason": "same_generated_item_texture_mapping"
+  },
+  {
+    "path": "assets/ae2additions/textures/item/super_cell_component_1024k.png",
+    "sha256": "dff11cb19279efb9e15a761365da863336b27c20a962e23362672d19b5bfe55e",
+    "jar": "ae-additions-1.21.1-AEAdditions-1.21.1-6.0.2.jar",
+    "jar_sha256": "3e9c0834e043fc0075a87a40013a11d8406581ef8c1564cc2e94a0ffb5792101",
+    "reason": "same_generated_item_texture_mapping"
+  },
+  {
+    "path": "assets/ae2additions/textures/item/super_cell_component_16k.png",
+    "sha256": "a368f2ad845bf4eb08f50b24dfda92d403d8640ab7d240f31dd557994fc195b4",
+    "jar": "ae-additions-1.21.1-AEAdditions-1.21.1-6.0.2.jar",
+    "jar_sha256": "3e9c0834e043fc0075a87a40013a11d8406581ef8c1564cc2e94a0ffb5792101",
+    "reason": "same_generated_item_texture_mapping"
+  },
+  {
+    "path": "assets/ae2additions/textures/item/super_cell_component_16m.png",
+    "sha256": "d6e510a888c3b3dcf1e8afcfb6fa0f654ec1f47568630eed70f50697155a2c54",
+    "jar": "ae-additions-1.21.1-AEAdditions-1.21.1-6.0.2.jar",
+    "jar_sha256": "3e9c0834e043fc0075a87a40013a11d8406581ef8c1564cc2e94a0ffb5792101",
+    "reason": "same_generated_item_texture_mapping"
+  },
+  {
+    "path": "assets/ae2additions/textures/item/super_cell_component_1k.png",
+    "sha256": "3d9b2aa8ee3ab047cd03913ad88992517ad40a03b0d527c011680926f02eeabc",
+    "jar": "ae-additions-1.21.1-AEAdditions-1.21.1-6.0.2.jar",
+    "jar_sha256": "3e9c0834e043fc0075a87a40013a11d8406581ef8c1564cc2e94a0ffb5792101",
+    "reason": "same_generated_item_texture_mapping"
+  },
+  {
+    "path": "assets/ae2additions/textures/item/super_cell_component_256k.png",
+    "sha256": "764b6860ad6e2c5bd1436523a9d2ef626cf708f12d622e5b0dabbe302eafd7bc",
+    "jar": "ae-additions-1.21.1-AEAdditions-1.21.1-6.0.2.jar",
+    "jar_sha256": "3e9c0834e043fc0075a87a40013a11d8406581ef8c1564cc2e94a0ffb5792101",
+    "reason": "same_generated_item_texture_mapping"
+  },
+  {
+    "path": "assets/ae2additions/textures/item/super_cell_component_4096k.png",
+    "sha256": "ee0e7fc74e3ae9c3546cbf6952e7678aeaeacb76ce58d30f5eb8d9298c397c31",
+    "jar": "ae-additions-1.21.1-AEAdditions-1.21.1-6.0.2.jar",
+    "jar_sha256": "3e9c0834e043fc0075a87a40013a11d8406581ef8c1564cc2e94a0ffb5792101",
+    "reason": "same_generated_item_texture_mapping"
+  },
+  {
+    "path": "assets/ae2additions/textures/item/super_cell_component_4k.png",
+    "sha256": "b550722642aa15776ac9e644542ccf642d59ab502a52088d9d5f9391b50928ca",
+    "jar": "ae-additions-1.21.1-AEAdditions-1.21.1-6.0.2.jar",
+    "jar_sha256": "3e9c0834e043fc0075a87a40013a11d8406581ef8c1564cc2e94a0ffb5792101",
+    "reason": "same_generated_item_texture_mapping"
+  },
+  {
+    "path": "assets/ae2additions/textures/item/super_cell_component_64k.png",
+    "sha256": "9553aba95d458ebecfd27407c2d9346f8f263f7e5f9c43d6e72a91a0ca2e8ff8",
+    "jar": "ae-additions-1.21.1-AEAdditions-1.21.1-6.0.2.jar",
+    "jar_sha256": "3e9c0834e043fc0075a87a40013a11d8406581ef8c1564cc2e94a0ffb5792101",
+    "reason": "same_generated_item_texture_mapping"
+  },
+  {
+    "path": "assets/ae2additions/textures/item/super_cell_component_65m.png",
+    "sha256": "5101f623dc6636a80811a103a3fe1c0fb7732f15be51f4f76ab84d643f36cc02",
+    "jar": "ae-additions-1.21.1-AEAdditions-1.21.1-6.0.2.jar",
+    "jar_sha256": "3e9c0834e043fc0075a87a40013a11d8406581ef8c1564cc2e94a0ffb5792101",
+    "reason": "same_generated_item_texture_mapping"
+  },
+  {
+    "path": "assets/ae2additions/textures/item/super_cell_housing.png",
+    "sha256": "02cf6c6b32d101bac49f19a8c05eb2257e09e778aa1e6fd628e144b1a19d28e3",
+    "jar": "ae-additions-1.21.1-AEAdditions-1.21.1-6.0.2.jar",
+    "jar_sha256": "3e9c0834e043fc0075a87a40013a11d8406581ef8c1564cc2e94a0ffb5792101",
+    "reason": "same_generated_item_texture_mapping"
+  },
+  {
+    "path": "assets/ae2additions/textures/item/super_storage_cell_1024k.png",
+    "sha256": "ddfa1808ba39fe02209b4461a1012333efdc745c6a29879b08a01ef5c3c3940a",
+    "jar": "ae-additions-1.21.1-AEAdditions-1.21.1-6.0.2.jar",
+    "jar_sha256": "3e9c0834e043fc0075a87a40013a11d8406581ef8c1564cc2e94a0ffb5792101",
+    "reason": "same_generated_item_texture_mapping"
+  },
+  {
+    "path": "assets/ae2additions/textures/item/super_storage_cell_16k.png",
+    "sha256": "8ec1e7473c5c486322b8ebad109ddb2cedc75bd33903b5cff7b0a4eeacba8cc6",
+    "jar": "ae-additions-1.21.1-AEAdditions-1.21.1-6.0.2.jar",
+    "jar_sha256": "3e9c0834e043fc0075a87a40013a11d8406581ef8c1564cc2e94a0ffb5792101",
+    "reason": "same_generated_item_texture_mapping"
+  },
+  {
+    "path": "assets/ae2additions/textures/item/super_storage_cell_16m.png",
+    "sha256": "96481a46b54e87612c3b54990b193ac5cda4caa9a3b815a2ac93b4dda963433c",
+    "jar": "ae-additions-1.21.1-AEAdditions-1.21.1-6.0.2.jar",
+    "jar_sha256": "3e9c0834e043fc0075a87a40013a11d8406581ef8c1564cc2e94a0ffb5792101",
+    "reason": "same_generated_item_texture_mapping"
+  },
+  {
+    "path": "assets/ae2additions/textures/item/super_storage_cell_1k.png",
+    "sha256": "3730773ae2077786d588f7725da293177d1db0aa9055782876eb6c87c1a1eac5",
+    "jar": "ae-additions-1.21.1-AEAdditions-1.21.1-6.0.2.jar",
+    "jar_sha256": "3e9c0834e043fc0075a87a40013a11d8406581ef8c1564cc2e94a0ffb5792101",
+    "reason": "same_generated_item_texture_mapping"
+  },
+  {
+    "path": "assets/ae2additions/textures/item/super_storage_cell_256k.png",
+    "sha256": "9849dffb55d044b7794349e798b3c89680bbc379d2e06bd35db378ca8fe285f0",
+    "jar": "ae-additions-1.21.1-AEAdditions-1.21.1-6.0.2.jar",
+    "jar_sha256": "3e9c0834e043fc0075a87a40013a11d8406581ef8c1564cc2e94a0ffb5792101",
+    "reason": "same_generated_item_texture_mapping"
+  },
+  {
+    "path": "assets/ae2additions/textures/item/super_storage_cell_4096k.png",
+    "sha256": "b7f71c7d1d4cb4b10e2604fcfe72729a4010bbeb2a6f1ea2eb6031ee0ee50acc",
+    "jar": "ae-additions-1.21.1-AEAdditions-1.21.1-6.0.2.jar",
+    "jar_sha256": "3e9c0834e043fc0075a87a40013a11d8406581ef8c1564cc2e94a0ffb5792101",
+    "reason": "same_generated_item_texture_mapping"
+  },
+  {
+    "path": "assets/ae2additions/textures/item/super_storage_cell_4k.png",
+    "sha256": "3da72fce5e006c097683f123a753cf7fed1cb837eaa6b5b0614196d9f1937b14",
+    "jar": "ae-additions-1.21.1-AEAdditions-1.21.1-6.0.2.jar",
+    "jar_sha256": "3e9c0834e043fc0075a87a40013a11d8406581ef8c1564cc2e94a0ffb5792101",
+    "reason": "same_generated_item_texture_mapping"
+  },
+  {
+    "path": "assets/ae2additions/textures/item/super_storage_cell_64k.png",
+    "sha256": "cfaec0024dd246e30955241ddb7d141ed4e4c5e43691b55b71fa28f570650104",
+    "jar": "ae-additions-1.21.1-AEAdditions-1.21.1-6.0.2.jar",
+    "jar_sha256": "3e9c0834e043fc0075a87a40013a11d8406581ef8c1564cc2e94a0ffb5792101",
+    "reason": "same_generated_item_texture_mapping"
+  },
+  {
+    "path": "assets/ae2additions/textures/item/super_storage_cell_65m.png",
+    "sha256": "a3c6a4690bb12b869411b59e10404361e174984a5de73d2ea73b34d44fb32e6b",
+    "jar": "ae-additions-1.21.1-AEAdditions-1.21.1-6.0.2.jar",
+    "jar_sha256": "3e9c0834e043fc0075a87a40013a11d8406581ef8c1564cc2e94a0ffb5792101",
+    "reason": "same_generated_item_texture_mapping"
+  },
+  {
+    "path": "assets/ae2cs/textures/item/extended_integrated_interface_upgrade.png",
+    "sha256": "1507e8260cb66f6b7813d877021c0996137881b2b1ca2aa1deeefa905cd776a1",
+    "jar": "ae2-crystal-science-1.21.1-ae2cs-1.21.1-1.2.1.jar",
+    "jar_sha256": "fb0d921c68d43e3ff76c9da16b6e3b8ba4944849064fd42aeb27e0f9ed099dde",
+    "reason": "same_generated_item_texture_mapping"
+  },
+  {
+    "path": "assets/ae2cs/textures/item/integrated_interface_upgrade.png",
+    "sha256": "dcf6d7048af647b358a8df757f351820eb986d980072854d64e42663c155c9c0",
+    "jar": "ae2-crystal-science-1.21.1-ae2cs-1.21.1-1.2.1.jar",
+    "jar_sha256": "fb0d921c68d43e3ff76c9da16b6e3b8ba4944849064fd42aeb27e0f9ed099dde",
+    "reason": "same_generated_item_texture_mapping"
+  },
+  {
+    "path": "assets/ae2cs/textures/item/resonating_processor.png",
+    "sha256": "295ba16cada89f3003e4a2a3839fa23fd0fefdf15b673fcd394a374cce9c8612",
+    "jar": "ae2-crystal-science-1.21.1-ae2cs-1.21.1-1.2.1.jar",
+    "jar_sha256": "fb0d921c68d43e3ff76c9da16b6e3b8ba4944849064fd42aeb27e0f9ed099dde",
+    "reason": "same_generated_item_texture_mapping"
+  },
+  {
+    "path": "assets/ae2netanalyser/textures/item/network_analyser.png",
+    "sha256": "836ccbc334e32087238c506c171db5d1f91eb5427fa2fc62dfef39c89ee581c2",
+    "jar": "AE2NetworkAnalyzer-1.21-2.1.5-neoforge.jar",
+    "jar_sha256": "74b68e9ec57dbf21a0417ce099d61b834f88efb0de3cccba4413e5dcf9d69f3c",
+    "reason": "same_generated_item_texture_mapping"
+  },
+  {
+    "path": "assets/appflux/textures/item/fe_16m_cell.png",
+    "sha256": "be03a4bc00ba644646a397ef41295be61bf62da4859a501e97ba6e8a524d6a61",
+    "jar": "AppliedFlux-1.21-2.1.5-neoforge.jar",
+    "jar_sha256": "57e6a2c0f38e660c9e8416f9081d8c515f5ad096d6793d7b7f039e8e210d245b",
+    "reason": "same_generated_item_texture_mapping"
+  },
+  {
+    "path": "assets/appflux/textures/item/fe_1m_cell.png",
+    "sha256": "bae0fea21b938e99b9eed1d4665427b5a59a89959bb364fc6e6bd253681a5010",
+    "jar": "AppliedFlux-1.21-2.1.5-neoforge.jar",
+    "jar_sha256": "57e6a2c0f38e660c9e8416f9081d8c515f5ad096d6793d7b7f039e8e210d245b",
+    "reason": "same_generated_item_texture_mapping"
+  },
+  {
+    "path": "assets/appflux/textures/item/fe_256m_cell.png",
+    "sha256": "663df9e7366038ca1de498f766a94b0f286645b34a7305d1ee51109126f0416a",
+    "jar": "AppliedFlux-1.21-2.1.5-neoforge.jar",
+    "jar_sha256": "57e6a2c0f38e660c9e8416f9081d8c515f5ad096d6793d7b7f039e8e210d245b",
+    "reason": "same_generated_item_texture_mapping"
+  },
+  {
+    "path": "assets/appflux/textures/item/fe_4m_cell.png",
+    "sha256": "a16c4dc3ee4bb8973f3d3cdc58272136e89a2211bf455b9cae3feeb4cbf40a1b",
+    "jar": "AppliedFlux-1.21-2.1.5-neoforge.jar",
+    "jar_sha256": "57e6a2c0f38e660c9e8416f9081d8c515f5ad096d6793d7b7f039e8e210d245b",
+    "reason": "same_generated_item_texture_mapping"
+  },
+  {
+    "path": "assets/appflux/textures/item/fe_64m_cell.png",
+    "sha256": "ce671c40b971f3a8990ddbe3b2e966cf382d05385d668c0605b619b813788444",
+    "jar": "AppliedFlux-1.21-2.1.5-neoforge.jar",
+    "jar_sha256": "57e6a2c0f38e660c9e8416f9081d8c515f5ad096d6793d7b7f039e8e210d245b",
+    "reason": "same_generated_item_texture_mapping"
+  },
+  {
+    "path": "assets/expatternprovider/textures/item/emc_interface_upgrade.png",
+    "sha256": "88060c045484f56a88d9a7341855cb58e83aa2bbd9d93cc53aa385232c7d2391",
+    "jar": "ExtendedAE-1.21-2.2.33-neoforge.jar",
+    "jar_sha256": "6652ed1ea4b71f585d48c05a195a77594a7a2bd1ecea0fc805db2122aafad734",
+    "reason": "same_generated_item_texture_mapping"
+  },
+  {
+    "path": "assets/expatternprovider/textures/item/emc_io_bus_upgrade.png",
+    "sha256": "6cf44723a967dad1eb754c6d43e6f44ca3c3e9b7b39716caf76b283929d74e36",
+    "jar": "ExtendedAE-1.21-2.2.33-neoforge.jar",
+    "jar_sha256": "6652ed1ea4b71f585d48c05a195a77594a7a2bd1ecea0fc805db2122aafad734",
+    "reason": "same_generated_item_texture_mapping"
+  },
+  {
+    "path": "assets/extendedae_plus/textures/item/mirror_pattern_binding_tool.png",
+    "sha256": "1f3d3fd0cb2c6b434564891eb5070ee4a82ac6bfcd41ca74b204e1232d2826a5",
+    "jar": "extendedae-plus-1.21.1-extendedae_plus-1.6.3.jar",
+    "jar_sha256": "1d89b055a7de508ec8dd5595ead646f4734c8fc5f7d843d7606454088118b41a",
+    "reason": "same_generated_item_texture_mapping"
+  },
+  {
+    "path": "assets/ae2additions/textures/block/crafting/1024k_storage.png",
+    "sha256": "3b69600a6ad2a50f6420ab7314e6accd10381e4a65293c2aa54515f8c0ae1a69",
+    "jar": "ae-additions-1.21.1-AEAdditions-1.21.1-6.0.2.jar",
+    "jar_sha256": "3e9c0834e043fc0075a87a40013a11d8406581ef8c1564cc2e94a0ffb5792101",
+    "reason": "same_model_geometry_and_texture_mapping"
+  },
+  {
+    "path": "assets/ae2additions/textures/block/crafting/16384k_storage.png",
+    "sha256": "2b030dd6a533a08e7b0fb07f276116790a10e29953a3d84724fc8742bcd4b61b",
+    "jar": "ae-additions-1.21.1-AEAdditions-1.21.1-6.0.2.jar",
+    "jar_sha256": "3e9c0834e043fc0075a87a40013a11d8406581ef8c1564cc2e94a0ffb5792101",
+    "reason": "same_model_geometry_and_texture_mapping"
+  },
+  {
+    "path": "assets/ae2additions/textures/block/crafting/4096k_storage.png",
+    "sha256": "f06701b504a4581f1b1e84476fda31025c16bfa278f6c16692a8c20f693f7f3a",
+    "jar": "ae-additions-1.21.1-AEAdditions-1.21.1-6.0.2.jar",
+    "jar_sha256": "3e9c0834e043fc0075a87a40013a11d8406581ef8c1564cc2e94a0ffb5792101",
+    "reason": "same_model_geometry_and_texture_mapping"
+  },
+  {
+    "path": "assets/ae2additions/textures/block/crafting/65536k_storage.png",
+    "sha256": "5fc18a8255cfd8ac9216a40b514cf478737ab17a251486742f7fc2216a570426",
+    "jar": "ae-additions-1.21.1-AEAdditions-1.21.1-6.0.2.jar",
+    "jar_sha256": "3e9c0834e043fc0075a87a40013a11d8406581ef8c1564cc2e94a0ffb5792101",
+    "reason": "same_model_geometry_and_texture_mapping"
+  },
+  {
+    "path": "assets/ae2cs/textures/block/extended_integrated_interface/alternate.png",
+    "sha256": "ecbe3c58c54296ec95d1cc4c21f10eed38f3a741521144d52a7f51c80918c3d9",
+    "jar": "ae2-crystal-science-1.21.1-ae2cs-1.21.1-1.2.1.jar",
+    "jar_sha256": "fb0d921c68d43e3ff76c9da16b6e3b8ba4944849064fd42aeb27e0f9ed099dde",
+    "reason": "same_model_geometry_and_texture_mapping"
+  },
+  {
+    "path": "assets/ae2cs/textures/block/extended_integrated_interface/alternate_arrow.png",
+    "sha256": "bd9cf1c0668ba7bcf2630e4189057a61a8ab5fab543bcce1e4155dfea27b7b76",
+    "jar": "ae2-crystal-science-1.21.1-ae2cs-1.21.1-1.2.1.jar",
+    "jar_sha256": "fb0d921c68d43e3ff76c9da16b6e3b8ba4944849064fd42aeb27e0f9ed099dde",
+    "reason": "same_model_geometry_and_texture_mapping"
+  },
+  {
+    "path": "assets/ae2cs/textures/block/extended_integrated_interface/alternate_front.png",
+    "sha256": "cfd1b86b572aab31ce95bd47cc9fe56f11e2d67aa15a8717c0fc878ba06460d5",
+    "jar": "ae2-crystal-science-1.21.1-ae2cs-1.21.1-1.2.1.jar",
+    "jar_sha256": "fb0d921c68d43e3ff76c9da16b6e3b8ba4944849064fd42aeb27e0f9ed099dde",
+    "reason": "same_model_geometry_and_texture_mapping"
+  },
+  {
+    "path": "assets/ae2cs/textures/block/extended_integrated_interface/back.png",
+    "sha256": "93a8ccdf18e1ac2081b2da54292e20d218eced59d5798ee8c3ba898dfaf8e988",
+    "jar": "ae2-crystal-science-1.21.1-ae2cs-1.21.1-1.2.1.jar",
+    "jar_sha256": "fb0d921c68d43e3ff76c9da16b6e3b8ba4944849064fd42aeb27e0f9ed099dde",
+    "reason": "same_model_geometry_and_texture_mapping"
+  },
+  {
+    "path": "assets/ae2cs/textures/block/extended_integrated_interface/base.png",
+    "sha256": "22ae4c17a0a365576147ca8baaaa205d47885818113f9dc167a8f3f2980b85a9",
+    "jar": "ae2-crystal-science-1.21.1-ae2cs-1.21.1-1.2.1.jar",
+    "jar_sha256": "fb0d921c68d43e3ff76c9da16b6e3b8ba4944849064fd42aeb27e0f9ed099dde",
+    "reason": "same_model_geometry_and_texture_mapping"
+  },
+  {
+    "path": "assets/ae2cs/textures/block/integrated_interface/alternate.png",
+    "sha256": "d6b69d7ee3a62dc5b68b4d1f9392cecefc436def25b4bba500a33fb779c870c1",
+    "jar": "ae2-crystal-science-1.21.1-ae2cs-1.21.1-1.2.1.jar",
+    "jar_sha256": "fb0d921c68d43e3ff76c9da16b6e3b8ba4944849064fd42aeb27e0f9ed099dde",
+    "reason": "same_model_geometry_and_texture_mapping"
+  },
+  {
+    "path": "assets/ae2cs/textures/block/integrated_interface/alternate_arrow.png",
+    "sha256": "038c139d6199c33b1dcc4250903a58d181cf76b6beabc31aa538346983105420",
+    "jar": "ae2-crystal-science-1.21.1-ae2cs-1.21.1-1.2.1.jar",
+    "jar_sha256": "fb0d921c68d43e3ff76c9da16b6e3b8ba4944849064fd42aeb27e0f9ed099dde",
+    "reason": "same_model_geometry_and_texture_mapping"
+  },
+  {
+    "path": "assets/ae2cs/textures/block/integrated_interface/alternate_front.png",
+    "sha256": "aa9ecb0914dc2bed9ef1363880356de354e40f32ae4928f4c17c637649a80249",
+    "jar": "ae2-crystal-science-1.21.1-ae2cs-1.21.1-1.2.1.jar",
+    "jar_sha256": "fb0d921c68d43e3ff76c9da16b6e3b8ba4944849064fd42aeb27e0f9ed099dde",
+    "reason": "same_model_geometry_and_texture_mapping"
+  },
+  {
+    "path": "assets/ae2cs/textures/block/integrated_interface/back.png",
+    "sha256": "93a8ccdf18e1ac2081b2da54292e20d218eced59d5798ee8c3ba898dfaf8e988",
+    "jar": "ae2-crystal-science-1.21.1-ae2cs-1.21.1-1.2.1.jar",
+    "jar_sha256": "fb0d921c68d43e3ff76c9da16b6e3b8ba4944849064fd42aeb27e0f9ed099dde",
+    "reason": "same_model_geometry_and_texture_mapping"
+  },
+  {
+    "path": "assets/ae2cs/textures/block/integrated_interface/base.png",
+    "sha256": "603446ff19df9011e99e20766ec277a10ac409ac58aacef5ac7437f8a844db75",
+    "jar": "ae2-crystal-science-1.21.1-ae2cs-1.21.1-1.2.1.jar",
+    "jar_sha256": "fb0d921c68d43e3ff76c9da16b6e3b8ba4944849064fd42aeb27e0f9ed099dde",
+    "reason": "same_model_geometry_and_texture_mapping"
+  },
+  {
+    "path": "assets/expatternprovider/textures/block/ex_emc_interface.png",
+    "sha256": "e751b9b85be7297bae25d3d657544ddf7a67185a1df0a021062b8fada6547756",
+    "jar": "ExtendedAE-1.21-2.2.33-neoforge.jar",
+    "jar_sha256": "6652ed1ea4b71f585d48c05a195a77594a7a2bd1ecea0fc805db2122aafad734",
+    "reason": "same_model_geometry_and_texture_mapping"
+  },
+  {
+    "path": "assets/expatternprovider/textures/part/ex_emc_interface.png",
+    "sha256": "dac1a3755ded750b0325058792090b2dd54d9e55fe8165d2ecc525a19b016cb0",
+    "jar": "ExtendedAE-1.21-2.2.33-neoforge.jar",
+    "jar_sha256": "6652ed1ea4b71f585d48c05a195a77594a7a2bd1ecea0fc805db2122aafad734",
+    "reason": "same_model_geometry_and_texture_mapping"
+  },
+  {
+    "path": "assets/extendedae_plus/textures/block/mirror_pattern_provider/mirror_pattern_provider_back.png",
+    "sha256": "b6d172758d398b37ff01cbf343040dec2097906141b73b86ff67485e1823d003",
+    "jar": "extendedae-plus-1.21.1-extendedae_plus-1.6.3.jar",
+    "jar_sha256": "1d89b055a7de508ec8dd5595ead646f4734c8fc5f7d843d7606454088118b41a",
+    "reason": "same_model_geometry_and_texture_mapping"
+  },
+  {
+    "path": "assets/extendedae_plus/textures/block/mirror_pattern_provider/mirror_pattern_provider_default.png",
+    "sha256": "bd1cada394449a443cac726d912171efa753e6bc1dfac83c5f8446f686c3faad",
+    "jar": "extendedae-plus-1.21.1-extendedae_plus-1.6.3.jar",
+    "jar_sha256": "1d89b055a7de508ec8dd5595ead646f4734c8fc5f7d843d7606454088118b41a",
+    "reason": "same_model_geometry_and_texture_mapping"
+  },
+  {
+    "path": "assets/extendedae_plus/textures/block/mirror_pattern_provider/mirror_pattern_provider_front.png",
+    "sha256": "a891ff257fd100e976f1108048af484635c12c619322b7d3594ab85404fe73f2",
+    "jar": "extendedae-plus-1.21.1-extendedae_plus-1.6.3.jar",
+    "jar_sha256": "1d89b055a7de508ec8dd5595ead646f4734c8fc5f7d843d7606454088118b41a",
+    "reason": "same_model_geometry_and_texture_mapping"
+  },
+  {
+    "path": "assets/extendedae_plus/textures/block/mirror_pattern_provider/mirror_pattern_provider_side.png",
+    "sha256": "4e8f1a8fc2a1608bbef707c13c78abb0143933cf213dd1a036b77cd65c709aaa",
+    "jar": "extendedae-plus-1.21.1-extendedae_plus-1.6.3.jar",
+    "jar_sha256": "1d89b055a7de508ec8dd5595ead646f4734c8fc5f7d843d7606454088118b41a",
+    "reason": "same_model_geometry_and_texture_mapping"
+  }
+]

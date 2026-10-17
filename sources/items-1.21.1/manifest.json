@@ -1,0 +1,27 @@
+[
+  {
+    "jar": "megacells-4.11.0.jar",
+    "local_source": "D:\\.minecraft\\versions\\All the Mods 10\\mods\\megacells-4.11.0.jar",
+    "project": "https://github.com/62832/MEGACells",
+    "jar_sha256": "a386bbf12afb11729b0dcf77f64221893d250f22e6185a4d728b9799b230bc55",
+    "files": {
+      "assets/megacells/models/item/accumulation_processor.json": "3931369dee4d423b6b5bcba6e26fc90fb5c446b1cb9e92a74c5ce25f4af6f060",
+      "assets/megacells/textures/item/accumulation_processor.png": "c9939e1d69e0d5011652ffa9cd9932892d58506d2da228966849a4d448d52d88",
+      "assets/megacells/models/item/printed_accumulation_processor.json": "8987a039716a1613e27e23bb001457c281646cf2d9a7606aec1188333c4d7384",
+      "assets/megacells/textures/item/printed_accumulation_processor.png": "b78248d22e60d4452b600f2c3919c6a0afe63ae1cbbd4c086169a97adbbef67d",
+      "assets/megacells/models/item/accumulation_processor_press.json": "ba5b12810898a9e2a001035689b3c0db85eca1ed902ce2ed9108e301fabb93fe",
+      "assets/megacells/textures/item/accumulation_processor_press.png": "cfa47b3aec593297fbfd14a5f393bbcbcd31d6112115df58d5e202fbe31bd689",
+      "LICENSE_megacells": "e3a994d82e644b03a792a930f574002658412f62407f5fee083f2555c5f23118"
+    }
+  },
+  {
+    "jar": "AdvancedAE-1.6.11-1.21.1.jar",
+    "local_source": "D:\\.minecraft\\versions\\All the Mods 10\\mods\\AdvancedAE-1.6.11-1.21.1.jar",
+    "project": "https://github.com/pedroksl/AdvancedAE",
+    "jar_sha256": "891e1f8ee0f3ac1bbce03fc2848b761f9c52bea4533eb3419ae849582e15ced7",
+    "files": {
+      "assets/advanced_ae/models/item/quantum_structure.json": "eb756d4f1bcf21ccb609d773cd5255447883843127c5001110e5d3ae8266a9ee",
+      "assets/advanced_ae/textures/block/crafting/quantum_structure.png": "c3369134f933e1148e2038becb6160242721e198f66c3a77aaeb88964e74b5af"
+    }
+  }
+]

@@ -1,0 +1,6 @@
+{
+  "$schema": "schema.json",
+  "includes": [
+    "crafting_status.json"
+  ]
+}

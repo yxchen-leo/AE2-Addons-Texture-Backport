@@ -1,0 +1,61 @@
+AE2 Combined Light - Minecraft 1.20.1 - personal merged resource pack
+
+Base GUI, AE2 and addon assets:
+  AE-Light-UI-1.20.1-v3.6.0, supplied by the user.
+  Pack metadata credits LeeQianXi (https://github.com/LeeQianXi).
+  Included original license: licenses/AE-Light-UI-LICENSE.txt (LGPL v3 text).
+
+AdvancedAE world quantum computer textures and animations,
+appflux atlas registration, fulleng textures:
+  AE2LightMode-1.20.1-V1.0.6, supplied by the user.
+  This supplied archive contains no author or license notice beyond its pack
+  metadata. No additional author or redistribution permission is inferred.
+
+Original mod assets remain credited to their respective AE2 and addon authors.
+This merge does not replace or relicense the original authors' work.
+
+Changes made 2026-10-15:
+- Retained only AE2 and AE2-addon namespaces from the base pack.
+- Removed vanilla GUI and unrelated-mod overrides.
+- Matched the second pack's quantum-computer assets; removed the base pack's
+  computer model/blockstate overrides so the installed mod supplies them.
+- In v1.0.0, used the second pack's MEGA processor/printed circuit/press textures.
+- Kept the first pack's GUI styles and dark label text palette.
+- Relocated its shared widgets.png into the private ae2isolatedui namespace;
+  only the optional client companion reads that private texture.
+
+This is an unofficial personal merge; no endorsement by original authors.
+Before public redistribution, confirm the original assets' applicable licenses.
+
+v1.0.1 corrections, 2026-10-16:
+- MEGA processor, printed circuit and press now use verified upstream textures
+  and item models from MEGA Cells 4.11.0 for Minecraft 1.21.1, by 90 / 62832.
+  Project: https://github.com/62832/MEGACells
+  Included original license: licenses/MEGACells-LICENSE.txt.
+- Quantum structure glass inventory model and texture use AdvancedAE
+  1.6.11-1.21.1, by pedroksl. Its PNG is copied without alteration into an
+  item-only path so this fix does not change world or multiblock rendering.
+  Project: https://github.com/pedroksl/AdvancedAE
+- These source jars were read from the user's local Minecraft 1.21.1 instance.
+  Source file hashes and jar hashes are recorded in sources/items-1.21.1/manifest.json.
+
+v1.0.2 audit corrections, 2026-10-16:
+- Six AE2 item images use Applied Energistics 2 19.2.18 for Minecraft 1.21.1.
+  Project: https://github.com/AppliedEnergistics/Applied-Energistics-2
+- Twenty-seven previously absent texture overrides use the actual 1.21.1
+  assets from AdvancedAE 1.6.11, AE2 Crystal Science 1.2.1, and ExtendedAE Plus 1.6.3.
+  Projects: https://github.com/pedroksl/AdvancedAE
+            https://modrinth.com/mod/ae2-crystal-science
+            https://modrinth.com/mod/extendedae-plus
+- Source JAR hashes and individual image hashes: sources/audit-fixes/manifest.json.
+- A further 48 flat item images and 20 block/part images use their actual
+  1.21.1 counterparts after checking matching item texture mappings or identical
+  model geometry. This includes AE Additions, AE2 Crystal Science, Applied Flux,
+  AdvancedAE, AE2 Toggleable View Cell, AE2 Network Analyser, ExtendedAE, and
+  ExtendedAE Plus. The exact source versions are recorded per file in the manifest.
+- Ten static AE2/MEGA storage-light images explicitly suppress inherited old
+  animation metadata. Twelve model files bind undefined texture variables to
+  existing local textures; geometry and UV coordinates remain unchanged.
+- Source-pack GUI and quantum-computer world effects are preserved.
+- This is a compatibility-oriented merge, not a byte-identical port of every
+  upstream asset. The detailed audit lists remaining differences and missing references.
