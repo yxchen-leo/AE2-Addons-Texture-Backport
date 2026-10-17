@@ -3,3 +3,6 @@
 *.md text eol=lf
 *.json text eol=lf
 *.mcmeta text eol=lf
+
+# Preserve exact upstream asset bytes, including line endings.
+pack/** -text
