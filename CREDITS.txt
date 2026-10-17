@@ -59,3 +59,16 @@ v1.0.2 audit corrections, 2026-10-16:
 - Source-pack GUI and quantum-computer world effects are preserved.
 - This is a compatibility-oriented merge, not a byte-identical port of every
   upstream asset. The detailed audit lists remaining differences and missing references.
+
+
+v1.1.0 toolbar backport, 2026-10-18:
+- Added the continuous toolbar background and dedicated button atlas from
+  AppliedEnergistics/Applied-Energistics-2, 1.21.1 branch, commit db17504a86128fdf3dae31f5fb7a112a646e0b93.
+- vertical_buttons_bg.png is copied unchanged from textures/gui/sprites/;
+  toolbar_buttons.png is an unchanged copy of textures/guis/states.png.
+- Source: https://github.com/AppliedEnergistics/Applied-Energistics-2/blob/db17504a86128fdf3dae31f5fb7a112a646e0b93/README.md#license
+- Texture attribution: (c) 2020 Ridanisaurus Rid, (c) 2013-2020 AlgorithmX2 et al.
+  Upstream textures and models: CC BY-NC-SA 3.0.
+  https://creativecommons.org/licenses/by-nc-sa/3.0/
+- Set the common toolbar origin to left=3, top=1. Requires companion mod 1.1.0.
+  Source paths and SHA-256 values: sources/toolbar-1.21.1/manifest.json.

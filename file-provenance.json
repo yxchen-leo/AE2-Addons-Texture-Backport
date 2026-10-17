@@ -5368,8 +5368,8 @@
     "sha256": "6795a0d93687c79b7e958592b383aa67a507eee04342a5083b560608e95e73ac"
   },
   "assets/ae2/screens/common/common.json": {
-    "source": "AE-Light-UI-1.20.1-v3.6.0",
-    "sha256": "1eef7cad040313052b626fcb32c6c8aef59e9e0efe958048f229d781d86da295"
+    "source": "AE-Light-UI-1.20.1-v3.6.0 + toolbar 1.1.0 update",
+    "sha256": "089dbcd099f4ab1aa5af1b3eb0fddb5eaa523cf4e7d036d3ba9adc95f14899e1"
   },
   "assets/ae2/screens/common/palette.json": {
     "source": "AE-Light-UI-1.20.1-v3.6.0",
@@ -19914,5 +19914,25 @@
   "assets/minecraft/atlases/blocks.json": {
     "source": "AE2LightMode-1.20.1-V1.0.6",
     "sha256": "f7af640590ea247a2c420cf7b565a7b99318e4cf4f64f77df23d9f21f4262e1a"
+  },
+  "assets/ae2lightuicompat/textures/gui/vertical_buttons_bg.png": {
+    "source": "AE2 1.21.1 toolbar backport",
+    "sha256": "62150f9869ee17cbd15bda963542287bf798482ceed1f18f0e24dd82381f7715",
+    "source_url": "https://github.com/AppliedEnergistics/Applied-Energistics-2/blob/db17504a86128fdf3dae31f5fb7a112a646e0b93/src/main/resources/assets/ae2/textures/gui/sprites/vertical_buttons_bg.png",
+    "commit": "db17504a86128fdf3dae31f5fb7a112a646e0b93",
+    "license": "CC-BY-NC-SA-3.0",
+    "modified": false
+  },
+  "assets/ae2lightuicompat/textures/gui/toolbar_buttons.png": {
+    "source": "AE2 1.21.1 toolbar backport",
+    "sha256": "0996b0084c7bf37f65a97a745982ab681ebd86f142fade526f14c823c4727e55",
+    "source_url": "https://github.com/AppliedEnergistics/Applied-Energistics-2/blob/db17504a86128fdf3dae31f5fb7a112a646e0b93/src/main/resources/assets/ae2/textures/guis/states.png",
+    "commit": "db17504a86128fdf3dae31f5fb7a112a646e0b93",
+    "license": "CC-BY-NC-SA-3.0",
+    "modified": false
+  },
+  "CREDITS.txt": {
+    "source": "Local attribution + toolbar 1.1.0 update",
+    "sha256": "5182c32898e720e270016c729091b76a637984c45f24e6c92a1df1778bf71bab"
   }
 }
