@@ -8,7 +8,7 @@ AE2 及附属高版本材质移植，适用于 Minecraft 1.20.1。当前资源�
 
 下载本仓库 Release 附件 ZIP，放入游戏实例的 `resourcepacks` 文件夹并启用。停用之前的合并包及两个来源包，避免覆盖冲突。
 
-侧栏和按钮适配需要 **AE2 Light UI Compat 1.1.1**，升级时同时替换模组 JAR 与资源包 ZIP。新增动态侧栏底板、18×20 按钮背景和对应定位，详情见 [1.1.1 修正说明](docs/1.1.1-按钮修正.md)。本次本地构建尚未发布到 GitHub Releases。
+侧栏和按钮适配需要 **AE2 Light UI Compat 1.1.1**，升级时同时替换模组 JAR 与资源包 ZIP。新增动态侧栏底板、18×20 按钮背景和对应定位，详情见 [1.1.1 修正说明](docs/1.1.1-按钮修正.md)。ZIP 已发布到本仓库的 [GitHub Releases](https://github.com/yxchen-leo/AE2-Addons-Texture-Backport/releases)。
 
 ## 文件说明
 
