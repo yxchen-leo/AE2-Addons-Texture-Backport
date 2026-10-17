@@ -72,3 +72,9 @@ v1.1.0 toolbar backport, 2026-10-18:
   https://creativecommons.org/licenses/by-nc-sa/3.0/
 - Set the common toolbar origin to left=3, top=1. Requires companion mod 1.1.0.
   Source paths and SHA-256 values: sources/toolbar-1.21.1/manifest.json.
+
+
+v1.1.1 toolbar correction, 2026-10-18:
+- Adjusted crafting-status toolbar origin from -85 to -84 to account for
+  the backported CPU selector texture transparent left column.
+- Companion 1.1.1 also fixes text colors/shadows and addon toolbar rendering.

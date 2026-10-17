@@ -5432,8 +5432,8 @@
     "sha256": "ef7e1876e939eecc11fc8a3b77bab3d1b41d6511379befbcc7efff63134c4a38"
   },
   "assets/ae2/screens/crafting_status.json": {
-    "source": "AE-Light-UI-1.20.1-v3.6.0",
-    "sha256": "d388007557e303d9ed46945feff6d9e14510045be5cee6e96907a0b5b647fa82"
+    "source": "AE-Light-UI-1.20.1-v3.6.0 + toolbar 1.1.1 correction",
+    "sha256": "bb571429dd95ffd191b91fbdb7e7c101235e352af97d8607e9d7e0f78f780348"
   },
   "assets/ae2/screens/crystal_aggregator_menu.json": {
     "source": "AE-Light-UI-1.20.1-v3.6.0",
@@ -19932,7 +19932,7 @@
     "modified": false
   },
   "CREDITS.txt": {
-    "source": "Local attribution + toolbar 1.1.0 update",
-    "sha256": "5182c32898e720e270016c729091b76a637984c45f24e6c92a1df1778bf71bab"
+    "source": "Local attribution + toolbar 1.1.0 update + toolbar 1.1.1 correction",
+    "sha256": "fda0e4a065ab5474be5f71dc373679f9b30e7095a7adc3349da4f90df4461adb"
   }
 }
