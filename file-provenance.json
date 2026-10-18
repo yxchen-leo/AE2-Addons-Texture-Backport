@@ -5980,8 +5980,8 @@
     "sha256": "7cf3831990a104746f6fefdcb920140bb1c7e4082b1a741d55286325bdc2a60a"
   },
   "assets/ae2/screens/wtlib/trash.json": {
-    "source": "AE-Light-UI-1.20.1-v3.6.0",
-    "sha256": "71bd77dd62060fbf503ad6915e40c0006a6c8c16ad110a5511c6947fb6ff6493"
+    "source": "Existing backport layout + back widget aligned with AE2WTLib 19.5.1",
+    "sha256": "32f3b6ad71b0e51ed169365ee954add32e4649cd649c7cf221ad9794a062d192"
   },
   "assets/ae2/screens/wtlib/universal_terminal_no_viewcells.json": {
     "source": "AE-Light-UI-1.20.1-v3.6.0",
@@ -19932,7 +19932,31 @@
     "modified": false
   },
   "CREDITS.txt": {
-    "source": "Local attribution + toolbar 1.1.0 update + toolbar 1.1.1 correction",
-    "sha256": "fda0e4a065ab5474be5f71dc373679f9b30e7095a7adc3349da4f90df4461adb"
+    "source": "Existing credits + 1.1.2 change record",
+    "sha256": "fc2e81b3e75ee09e5339d7079cd042e508300cabdcfdd52a7626bf466aae8d99"
+  },
+  "pack.mcmeta": {
+    "source": "Existing pack metadata; inventoried in 1.1.2 without byte changes",
+    "sha256": "7d024869420b22fc3a5f91e0cbc65026a17e6fb49240021117898f5ad0d5df0f"
+  },
+  "pack.png": {
+    "source": "Existing pack metadata; inventoried in 1.1.2 without byte changes",
+    "sha256": "976df9ff053dfadc676873a2f4749f1b6c309a809037f548e66eda35cf3da25d"
+  },
+  "licenses/AE-Light-UI-LICENSE.txt": {
+    "source": "Existing pack metadata; inventoried in 1.1.2 without byte changes",
+    "sha256": "ea8af5e789cb2d4e9b10bce3874982ade163b749b6bfbdb32e2df21c4d106de1"
+  },
+  "licenses/MEGACells-LICENSE.txt": {
+    "source": "Existing pack metadata; inventoried in 1.1.2 without byte changes",
+    "sha256": "e3a994d82e644b03a792a930f574002658412f62407f5fee083f2555c5f23118"
+  },
+  "assets/ae2lightuicompat/textures/gui/tab_buttons.png": {
+    "source": "AE2 1.21.1 db17504a86128fdf3dae31f5fb7a112a646e0b93 states.png; byte-for-byte copy",
+    "sha256": "0996b0084c7bf37f65a97a745982ab681ebd86f142fade526f14c823c4727e55"
+  },
+  "assets/ae2/screens/wtlib/wireless_terminal_settings.json": {
+    "source": "AE2WTLib 15.3.3 layout + back widget aligned with AE2WTLib 19.5.1",
+    "sha256": "6de6b251afcd90a4b081e84a1bd676735d0caa3c01e71b2d02927dbfe00466c4"
   }
 }

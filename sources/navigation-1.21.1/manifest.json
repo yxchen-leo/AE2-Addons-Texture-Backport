@@ -1,0 +1,14 @@
+{
+  "assets/ae2lightuicompat/textures/gui/tab_buttons.png": {
+    "source": "AE2 1.21.1 db17504a86128fdf3dae31f5fb7a112a646e0b93 states.png; byte-for-byte copy",
+    "sha256": "0996b0084c7bf37f65a97a745982ab681ebd86f142fade526f14c823c4727e55"
+  },
+  "assets/ae2/screens/wtlib/trash.json": {
+    "source": "Existing backport layout + back widget aligned with AE2WTLib 19.5.1",
+    "sha256": "32f3b6ad71b0e51ed169365ee954add32e4649cd649c7cf221ad9794a062d192"
+  },
+  "assets/ae2/screens/wtlib/wireless_terminal_settings.json": {
+    "source": "AE2WTLib 15.3.3 layout + back widget aligned with AE2WTLib 19.5.1",
+    "sha256": "6de6b251afcd90a4b081e84a1bd676735d0caa3c01e71b2d02927dbfe00466c4"
+  }
+}

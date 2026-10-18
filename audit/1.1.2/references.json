@@ -1,0 +1,1537 @@
+[
+  {
+    "file": "AdvancedAE-1.3.6-1.20.1.jar",
+    "path": "C:\\Users\\cyx\\Documents\\ChatGPT\\Minecraft整合包\\research\\audit-1.1.2\\1.20.1\\AdvancedAE-1.3.6-1.20.1.jar",
+    "set": "downloaded-1.20.1",
+    "namespaces": [
+      "advanced_ae",
+      "ae2"
+    ],
+    "sha256": "e216f95ac73eb4c1e8f3db22cc3d30f37f2612a7cb1762b9ebce148d0d5657b2"
+  },
+  {
+    "file": "ae2cs-1.20.1-1.2.0.jar",
+    "path": "C:\\Users\\cyx\\Documents\\ChatGPT\\Minecraft整合包\\research\\audit-1.1.2\\1.20.1\\ae2cs-1.20.1-1.2.0.jar",
+    "set": "downloaded-1.20.1",
+    "namespaces": [
+      "ae2",
+      "ae2cs"
+    ],
+    "sha256": "956c77707d8ef745af31f6f0610812dfd2d5b5ca7569f8360b279a54024358ba"
+  },
+  {
+    "file": "ae2insertexportcard-1.20.1-1.3.0.jar",
+    "path": "C:\\Users\\cyx\\Documents\\ChatGPT\\Minecraft整合包\\research\\audit-1.1.2\\1.20.1\\ae2insertexportcard-1.20.1-1.3.0.jar",
+    "set": "downloaded-1.20.1",
+    "namespaces": [
+      "ae2",
+      "ae2insertexportcard"
+    ],
+    "sha256": "329dff2184edc476e7261b073f17239015636543a22c16df1161fafe547d6b1c"
+  },
+  {
+    "file": "ae2lt-forge-1.20.1-2.1.2-beta2.jar",
+    "path": "C:\\Users\\cyx\\Documents\\ChatGPT\\Minecraft整合包\\research\\audit-1.1.2\\1.20.1\\ae2lt-forge-1.20.1-2.1.2-beta2.jar",
+    "set": "downloaded-1.20.1",
+    "namespaces": [
+      "advanced_ae",
+      "ae2",
+      "ae2lt",
+      "minecraft"
+    ],
+    "sha256": "654e9e8eb13249588b82e9e667f7d4fd18e6eceb8bd2eab821d4a539442b0695"
+  },
+  {
+    "file": "AE2ToggleableViewCell-1.20.1-1.1.0.jar",
+    "path": "C:\\Users\\cyx\\Documents\\ChatGPT\\Minecraft整合包\\research\\audit-1.1.2\\1.20.1\\AE2ToggleableViewCell-1.20.1-1.1.0.jar",
+    "set": "downloaded-1.20.1",
+    "namespaces": [
+      "ae2_toggleable_view_cell"
+    ],
+    "sha256": "c08a7e4c180310a457b0b83b76863ad4017bd25b64dc07b9ad14d4293b97bb47"
+  },
+  {
+    "file": "ae2wtlib-15.3.3-forge.jar",
+    "path": "C:\\Users\\cyx\\Documents\\ChatGPT\\Minecraft整合包\\research\\audit-1.1.2\\1.20.1\\ae2wtlib-15.3.3-forge.jar",
+    "set": "downloaded-1.20.1",
+    "namespaces": [
+      "ae2",
+      "ae2wtlib"
+    ],
+    "sha256": "39e5cede37d5c6a07592d6c1e83398791e037f3d434bc44f7460cd085a4de5f4"
+  },
+  {
+    "file": "AEAdditions-1.20.1-5.1.1.jar",
+    "path": "C:\\Users\\cyx\\Documents\\ChatGPT\\Minecraft整合包\\research\\audit-1.1.2\\1.20.1\\AEAdditions-1.20.1-5.1.1.jar",
+    "set": "downloaded-1.20.1",
+    "namespaces": [
+      "ae2additions"
+    ],
+    "sha256": "f2615ff8bc8adc1285410bf3851e1cc3a214088251b63dacaa87ada33196455c"
+  },
+  {
+    "file": "AEInfinityBooster-1.20.1-1.0.0+20.jar",
+    "path": "C:\\Users\\cyx\\Documents\\ChatGPT\\Minecraft整合包\\research\\audit-1.1.2\\1.20.1\\AEInfinityBooster-1.20.1-1.0.0+20.jar",
+    "set": "downloaded-1.20.1",
+    "namespaces": [
+      "aeinfinitybooster"
+    ],
+    "sha256": "d3bb341583ef1287ba28993c62b7ada6dbb07016d231f7cb5480844bc458ccf8"
+  },
+  {
+    "file": "applied-botanics-forge-1.5.2.jar",
+    "path": "C:\\Users\\cyx\\Documents\\ChatGPT\\Minecraft整合包\\research\\audit-1.1.2\\1.20.1\\applied-botanics-forge-1.5.2.jar",
+    "set": "downloaded-1.20.1",
+    "namespaces": [
+      "ae2",
+      "appbot"
+    ],
+    "sha256": "b6003288ca4e41e4def0390665167ece13aaf548bf6da8941084221d0cf8d5c2"
+  },
+  {
+    "file": "Applied-Mekanistics-1.4.3.jar",
+    "path": "C:\\Users\\cyx\\Documents\\ChatGPT\\Minecraft整合包\\research\\audit-1.1.2\\1.20.1\\Applied-Mekanistics-1.4.3.jar",
+    "set": "downloaded-1.20.1",
+    "namespaces": [
+      "ae2",
+      "appmek"
+    ],
+    "sha256": "e1aafd9c2ae1cab7bb6905ec61718aed41b9f07c05148c9a033e4bb886173d2c"
+  },
+  {
+    "file": "appliede-0.14.3.jar",
+    "path": "C:\\Users\\cyx\\Documents\\ChatGPT\\Minecraft整合包\\research\\audit-1.1.2\\1.20.1\\appliede-0.14.3.jar",
+    "set": "downloaded-1.20.1",
+    "namespaces": [
+      "ae2",
+      "appliede"
+    ],
+    "sha256": "76a863b993a77c6939c34f78385b92cdb08312701220552c06865924aaf0021b"
+  },
+  {
+    "file": "appliedenergistics2-forge-15.4.11.jar",
+    "path": "C:\\Users\\cyx\\Documents\\ChatGPT\\Minecraft整合包\\research\\audit-1.1.2\\1.20.1\\appliedenergistics2-forge-15.4.11.jar",
+    "set": "downloaded-1.20.1",
+    "namespaces": [
+      "ae2",
+      "minecraft"
+    ],
+    "sha256": "f2ff9ee5122b037d4e93537425ab9fbe49860fc9c3977db13b20a50ca7d30f9e"
+  },
+  {
+    "file": "AppliedFlux-1.20-1.3.7-forge.jar",
+    "path": "C:\\Users\\cyx\\Documents\\ChatGPT\\Minecraft整合包\\research\\audit-1.1.2\\1.20.1\\AppliedFlux-1.20-1.3.7-forge.jar",
+    "set": "downloaded-1.20.1",
+    "namespaces": [
+      "ae2",
+      "appflux",
+      "minecraft"
+    ],
+    "sha256": "7673b0e44ee5f247fe224c09b8178f500a01a96e7d07baa77a4a5a110462eaea"
+  },
+  {
+    "file": "arseng-1.2.0.jar",
+    "path": "C:\\Users\\cyx\\Documents\\ChatGPT\\Minecraft整合包\\research\\audit-1.1.2\\1.20.1\\arseng-1.2.0.jar",
+    "set": "downloaded-1.20.1",
+    "namespaces": [
+      "arseng"
+    ],
+    "sha256": "02850730d3535afeb19d94311c31693ee1986d07795934e4dc50282f7956e827"
+  },
+  {
+    "file": "bigger_ae2-1.20.1-20.2.1.jar",
+    "path": "C:\\Users\\cyx\\Documents\\ChatGPT\\Minecraft整合包\\research\\audit-1.1.2\\1.20.1\\bigger_ae2-1.20.1-20.2.1.jar",
+    "set": "downloaded-1.20.1",
+    "namespaces": [
+      "bigger_ae2"
+    ],
+    "sha256": "e8f27203a0468b52840b83e854fdcad9cd8a8f8c18b07a2b7b5073511bb35fb2"
+  },
+  {
+    "file": "expandedae-1.2.2.jar",
+    "path": "C:\\Users\\cyx\\Documents\\ChatGPT\\Minecraft整合包\\research\\audit-1.1.2\\1.20.1\\expandedae-1.2.2.jar",
+    "set": "downloaded-1.20.1",
+    "namespaces": [
+      "ae2",
+      "expandedae"
+    ],
+    "sha256": "536d5d48feec7ddce1a89f6de6e35eb822b3e19bbe374e63235574aabdf63a0c"
+  },
+  {
+    "file": "extendedae_plus-1.6.3.jar",
+    "path": "C:\\Users\\cyx\\Documents\\ChatGPT\\Minecraft整合包\\research\\audit-1.1.2\\1.20.1\\extendedae_plus-1.6.3.jar",
+    "set": "downloaded-1.20.1",
+    "namespaces": [
+      "ae2",
+      "extendedae_plus"
+    ],
+    "sha256": "d8634db4ca56fe725799084b3c2c67b17874db50377ea497670379221d374764"
+  },
+  {
+    "file": "fulleng-forge-1.7.3-1.20.1.jar",
+    "path": "C:\\Users\\cyx\\Documents\\ChatGPT\\Minecraft整合包\\research\\audit-1.1.2\\1.20.1\\fulleng-forge-1.7.3-1.20.1.jar",
+    "set": "downloaded-1.20.1",
+    "namespaces": [
+      "fulleng"
+    ],
+    "sha256": "2eea4456392ce44ee5f26c713fbfcd2cd02f714e977362fd3fc801c7aac55161"
+  },
+  {
+    "file": "mae2-2.1.0.jar",
+    "path": "C:\\Users\\cyx\\Documents\\ChatGPT\\Minecraft整合包\\research\\audit-1.1.2\\1.20.1\\mae2-2.1.0.jar",
+    "set": "downloaded-1.20.1",
+    "namespaces": [
+      "mae2"
+    ],
+    "sha256": "b931dcaa01b9703320d1461cebb2a9dea5dbfc2105f7e202004616232528b8d4"
+  },
+  {
+    "file": "megacells-forge-2.4.6-1.20.1.jar",
+    "path": "C:\\Users\\cyx\\Documents\\ChatGPT\\Minecraft整合包\\research\\audit-1.1.2\\1.20.1\\megacells-forge-2.4.6-1.20.1.jar",
+    "set": "downloaded-1.20.1",
+    "namespaces": [
+      "ae2",
+      "megacells"
+    ],
+    "sha256": "19f59cc793950a3fa80dc1b29ef3bdad587344cd5efe25c5e010f4db1ea4a79c"
+  },
+  {
+    "file": "merequester-forge-1.20.1-1.2.1.jar",
+    "path": "C:\\Users\\cyx\\Documents\\ChatGPT\\Minecraft整合包\\research\\audit-1.1.2\\1.20.1\\merequester-forge-1.20.1-1.2.1.jar",
+    "set": "downloaded-1.20.1",
+    "namespaces": [
+      "ae2",
+      "merequester"
+    ],
+    "sha256": "490de12be0237e5699aba8ae57d9c40a97ae7491d6ae33ecb1fc5d3b30f391ea"
+  },
+  {
+    "file": "AdvancedAE-1.3.6-1.20.1.jar",
+    "path": "C:\\Users\\cyx\\AppData\\Roaming\\PrismLauncher\\instances\\1.20.1\\minecraft\\mods\\AdvancedAE-1.3.6-1.20.1.jar",
+    "set": "installed-1.20.1",
+    "namespaces": [
+      "advanced_ae",
+      "ae2"
+    ],
+    "sha256": "e216f95ac73eb4c1e8f3db22cc3d30f37f2612a7cb1762b9ebce148d0d5657b2"
+  },
+  {
+    "file": "ae2cs-1.20.1-1.2.0.jar",
+    "path": "C:\\Users\\cyx\\AppData\\Roaming\\PrismLauncher\\instances\\1.20.1\\minecraft\\mods\\ae2cs-1.20.1-1.2.0.jar",
+    "set": "installed-1.20.1",
+    "namespaces": [
+      "ae2",
+      "ae2cs"
+    ],
+    "sha256": "956c77707d8ef745af31f6f0610812dfd2d5b5ca7569f8360b279a54024358ba"
+  },
+  {
+    "file": "ae2ct-1.20.1-1.1.1.jar",
+    "path": "C:\\Users\\cyx\\AppData\\Roaming\\PrismLauncher\\instances\\1.20.1\\minecraft\\mods\\ae2ct-1.20.1-1.1.1.jar",
+    "set": "installed-1.20.1",
+    "namespaces": [
+      "ae2",
+      "ae2ct"
+    ],
+    "sha256": "0996cd736e5a951593f94125c059710800056de8def77995deb7ba6b50099367"
+  },
+  {
+    "file": "ae2lt-forge-1.20.1-2.1.2-beta2.jar",
+    "path": "C:\\Users\\cyx\\AppData\\Roaming\\PrismLauncher\\instances\\1.20.1\\minecraft\\mods\\ae2lt-forge-1.20.1-2.1.2-beta2.jar",
+    "set": "installed-1.20.1",
+    "namespaces": [
+      "advanced_ae",
+      "ae2",
+      "ae2lt",
+      "minecraft"
+    ],
+    "sha256": "654e9e8eb13249588b82e9e667f7d4fd18e6eceb8bd2eab821d4a539442b0695"
+  },
+  {
+    "file": "ae2wtlib-15.3.3-forge.jar",
+    "path": "C:\\Users\\cyx\\AppData\\Roaming\\PrismLauncher\\instances\\1.20.1\\minecraft\\mods\\ae2wtlib-15.3.3-forge.jar",
+    "set": "installed-1.20.1",
+    "namespaces": [
+      "ae2",
+      "ae2wtlib"
+    ],
+    "sha256": "39e5cede37d5c6a07592d6c1e83398791e037f3d434bc44f7460cd085a4de5f4"
+  },
+  {
+    "file": "Applied-Mekanistics-1.4.3.jar",
+    "path": "C:\\Users\\cyx\\AppData\\Roaming\\PrismLauncher\\instances\\1.20.1\\minecraft\\mods\\Applied-Mekanistics-1.4.3.jar",
+    "set": "installed-1.20.1",
+    "namespaces": [
+      "ae2",
+      "appmek"
+    ],
+    "sha256": "e1aafd9c2ae1cab7bb6905ec61718aed41b9f07c05148c9a033e4bb886173d2c"
+  },
+  {
+    "file": "appliedenergistics2-forge-15.4.11.jar",
+    "path": "C:\\Users\\cyx\\AppData\\Roaming\\PrismLauncher\\instances\\1.20.1\\minecraft\\mods\\appliedenergistics2-forge-15.4.11.jar",
+    "set": "installed-1.20.1",
+    "namespaces": [
+      "ae2",
+      "minecraft"
+    ],
+    "sha256": "f2ff9ee5122b037d4e93537425ab9fbe49860fc9c3977db13b20a50ca7d30f9e"
+  },
+  {
+    "file": "Aquaculture-1.20.1-2.5.7.jar",
+    "path": "C:\\Users\\cyx\\AppData\\Roaming\\PrismLauncher\\instances\\1.20.1\\minecraft\\mods\\Aquaculture-1.20.1-2.5.7.jar",
+    "set": "installed-1.20.1",
+    "namespaces": [
+      "minecraft"
+    ],
+    "sha256": "4c96cf0dd3363a8e15f9ef6b6bfc00ac7d4791e8e9eeebe19b8092c59e800f8f"
+  },
+  {
+    "file": "curios-forge-5.14.1+1.20.1.jar",
+    "path": "C:\\Users\\cyx\\AppData\\Roaming\\PrismLauncher\\instances\\1.20.1\\minecraft\\mods\\curios-forge-5.14.1+1.20.1.jar",
+    "set": "installed-1.20.1",
+    "namespaces": [
+      "minecraft"
+    ],
+    "sha256": "1e817919a35b37cf30524aaec73f0ca5130452f23f168f844854df282eb8e51f"
+  },
+  {
+    "file": "embeddium-0.3.31+mc1.20.1.jar",
+    "path": "C:\\Users\\cyx\\AppData\\Roaming\\PrismLauncher\\instances\\1.20.1\\minecraft\\mods\\embeddium-0.3.31+mc1.20.1.jar",
+    "set": "installed-1.20.1",
+    "namespaces": [
+      "minecraft"
+    ],
+    "sha256": "eed3d1325f2acc2fd4e69bb495e5ccb91d962126ac5330f0582ebc2a3daf47fb"
+  },
+  {
+    "file": "EnigmaticLegacy-2.30.1.jar",
+    "path": "C:\\Users\\cyx\\AppData\\Roaming\\PrismLauncher\\instances\\1.20.1\\minecraft\\mods\\EnigmaticLegacy-2.30.1.jar",
+    "set": "installed-1.20.1",
+    "namespaces": [
+      "minecraft"
+    ],
+    "sha256": "cf8488350ccb03fdc5e1f3508a30137234b6dc85ea258b9ee37ceaa485f34024"
+  },
+  {
+    "file": "expandedae-1.4.3.jar",
+    "path": "C:\\Users\\cyx\\AppData\\Roaming\\PrismLauncher\\instances\\1.20.1\\minecraft\\mods\\expandedae-1.4.3.jar",
+    "set": "installed-1.20.1",
+    "namespaces": [
+      "ae2",
+      "expandedae"
+    ],
+    "sha256": "321d23bbbb4c95036e0d6f2f1576008f42ad5d330a03072d25611f9f5199f0e2"
+  },
+  {
+    "file": "ExtendedAE-1.20-1.4.21-forge.jar",
+    "path": "C:\\Users\\cyx\\AppData\\Roaming\\PrismLauncher\\instances\\1.20.1\\minecraft\\mods\\ExtendedAE-1.20-1.4.21-forge.jar",
+    "set": "installed-1.20.1",
+    "namespaces": [
+      "ae2",
+      "expatternprovider"
+    ],
+    "sha256": "30fc8abe66d4b96919f0fd7b33badd0bb2013b31e2ee57f6aeaa63ffae37df4b"
+  },
+  {
+    "file": "goety-2.5.58.4.jar",
+    "path": "C:\\Users\\cyx\\AppData\\Roaming\\PrismLauncher\\instances\\1.20.1\\minecraft\\mods\\goety-2.5.58.4.jar",
+    "set": "installed-1.20.1",
+    "namespaces": [
+      "minecraft"
+    ],
+    "sha256": "b97f9a5928b5b3665cc7de88d5a1b52a4b07b6ed260f64ef9584b0c4603bee52"
+  },
+  {
+    "file": "IceAndFireCE-1.2.10-1.20.1-forge.jar",
+    "path": "C:\\Users\\cyx\\AppData\\Roaming\\PrismLauncher\\instances\\1.20.1\\minecraft\\mods\\IceAndFireCE-1.2.10-1.20.1-forge.jar",
+    "set": "installed-1.20.1",
+    "namespaces": [
+      "minecraft"
+    ],
+    "sha256": "5cc32b61327aa19bd24276a55131b0d9a67d721ff51ff9bbfc66bf2df18432f2"
+  },
+  {
+    "file": "irons_spellbooks-1.20.1-3.16.3.jar",
+    "path": "C:\\Users\\cyx\\AppData\\Roaming\\PrismLauncher\\instances\\1.20.1\\minecraft\\mods\\irons_spellbooks-1.20.1-3.16.3.jar",
+    "set": "installed-1.20.1",
+    "namespaces": [
+      "minecraft"
+    ],
+    "sha256": "54b5aaa52887c38f570fbd820288171234d8541c17a5e953f9271189fdd480fb"
+  },
+  {
+    "file": "L_Enders_Cataclysm-3.31.jar",
+    "path": "C:\\Users\\cyx\\AppData\\Roaming\\PrismLauncher\\instances\\1.20.1\\minecraft\\mods\\L_Enders_Cataclysm-3.31.jar",
+    "set": "installed-1.20.1",
+    "namespaces": [
+      "minecraft"
+    ],
+    "sha256": "c29dcf940168208517b72f2d9965828b106a6b94cbea55d5001558c69a27b362"
+  },
+  {
+    "file": "megacells-forge-2.4.6-1.20.1.jar",
+    "path": "C:\\Users\\cyx\\AppData\\Roaming\\PrismLauncher\\instances\\1.20.1\\minecraft\\mods\\megacells-forge-2.4.6-1.20.1.jar",
+    "set": "installed-1.20.1",
+    "namespaces": [
+      "ae2",
+      "megacells"
+    ],
+    "sha256": "19f59cc793950a3fa80dc1b29ef3bdad587344cd5efe25c5e010f4db1ea4a79c"
+  },
+  {
+    "file": "Mekanism-1.20.1-10.4.16.80.jar",
+    "path": "C:\\Users\\cyx\\AppData\\Roaming\\PrismLauncher\\instances\\1.20.1\\minecraft\\mods\\Mekanism-1.20.1-10.4.16.80.jar",
+    "set": "installed-1.20.1",
+    "namespaces": [
+      "minecraft"
+    ],
+    "sha256": "3b0d191fa4a45e662f9725991d76a30192f30186abb2ba694b873b5f7b9358d2"
+  },
+  {
+    "file": "MekanismGenerators-1.20.1-10.4.16.80.jar",
+    "path": "C:\\Users\\cyx\\AppData\\Roaming\\PrismLauncher\\instances\\1.20.1\\minecraft\\mods\\MekanismGenerators-1.20.1-10.4.16.80.jar",
+    "set": "installed-1.20.1",
+    "namespaces": [
+      "minecraft"
+    ],
+    "sha256": "be2d5b8553f8638cfabf491002f95cef6acef210f627addb391f5af713502512"
+  },
+  {
+    "file": "MekanismTools-1.20.1-10.4.16.80.jar",
+    "path": "C:\\Users\\cyx\\AppData\\Roaming\\PrismLauncher\\instances\\1.20.1\\minecraft\\mods\\MekanismTools-1.20.1-10.4.16.80.jar",
+    "set": "installed-1.20.1",
+    "namespaces": [
+      "minecraft"
+    ],
+    "sha256": "29089222fd52d272d767d7d2f62b9e6b401b3280a212be096eaedb0fc48aacfb"
+  },
+  {
+    "file": "merequester-forge-1.20.1-1.2.1.jar",
+    "path": "C:\\Users\\cyx\\AppData\\Roaming\\PrismLauncher\\instances\\1.20.1\\minecraft\\mods\\merequester-forge-1.20.1-1.2.1.jar",
+    "set": "installed-1.20.1",
+    "namespaces": [
+      "ae2",
+      "merequester"
+    ],
+    "sha256": "490de12be0237e5699aba8ae57d9c40a97ae7491d6ae33ecb1fc5d3b30f391ea"
+  },
+  {
+    "file": "TConstruct-1.20.1-3.11.2.166.jar",
+    "path": "C:\\Users\\cyx\\AppData\\Roaming\\PrismLauncher\\instances\\1.20.1\\minecraft\\mods\\TConstruct-1.20.1-3.11.2.166.jar",
+    "set": "installed-1.20.1",
+    "namespaces": [
+      "minecraft"
+    ],
+    "sha256": "653b49d73481a1325ba78adc7273dee6c765a51bafdf264a7510576d6ef91c43"
+  },
+  {
+    "file": "thunderbolt-forge-1.20.1-2.0.3-beta2.jar",
+    "path": "C:\\Users\\cyx\\AppData\\Roaming\\PrismLauncher\\instances\\1.20.1\\minecraft\\mods\\thunderbolt-forge-1.20.1-2.0.3-beta2.jar",
+    "set": "installed-1.20.1",
+    "namespaces": [
+      "ae2"
+    ],
+    "sha256": "f3b58a63ed6fad9149d8d85fba4cdd5036170369694aa8cec8f8785eb19bff51"
+  },
+  {
+    "file": "[1.21.1] SecurityCraft v1.10.2.1.jar",
+    "path": "D:\\.minecraft\\versions\\All the Mods 10\\mods\\[1.21.1] SecurityCraft v1.10.2.1.jar",
+    "set": "ATM10-1.21.1",
+    "namespaces": [
+      "minecraft"
+    ],
+    "sha256": "75ac9e73c60caf58df7069f167dbacc00a640e1418207dff654f56a5fdb5f229"
+  },
+  {
+    "file": "AdditionalEnchantedMiner-1.21.1-neoforge-21.1.157.jar",
+    "path": "D:\\.minecraft\\versions\\All the Mods 10\\mods\\AdditionalEnchantedMiner-1.21.1-neoforge-21.1.157.jar",
+    "set": "ATM10-1.21.1",
+    "namespaces": [
+      "minecraft"
+    ],
+    "sha256": "99e9a776ef3b321d51ee96bff492968d771bce783dd36b17236cb786a7c9a708"
+  },
+  {
+    "file": "AdvancedAE-1.6.11-1.21.1.jar",
+    "path": "D:\\.minecraft\\versions\\All the Mods 10\\mods\\AdvancedAE-1.6.11-1.21.1.jar",
+    "set": "ATM10-1.21.1",
+    "namespaces": [
+      "advanced_ae",
+      "ae2"
+    ],
+    "sha256": "891e1f8ee0f3ac1bbce03fc2848b761f9c52bea4533eb3419ae849582e15ced7"
+  },
+  {
+    "file": "ae2ct-1.21.1-1.1.1.jar",
+    "path": "D:\\.minecraft\\versions\\All the Mods 10\\mods\\ae2ct-1.21.1-1.1.1.jar",
+    "set": "ATM10-1.21.1",
+    "namespaces": [
+      "ae2",
+      "ae2ct"
+    ],
+    "sha256": "70a704742cf8bc13778a201a2338d0f4108dc0700bca47ed265aba02180f6777"
+  },
+  {
+    "file": "ae2importexportcard-1.21.1-1.5.0.jar",
+    "path": "D:\\.minecraft\\versions\\All the Mods 10\\mods\\ae2importexportcard-1.21.1-1.5.0.jar",
+    "set": "ATM10-1.21.1",
+    "namespaces": [
+      "ae2",
+      "ae2insertexportcard"
+    ],
+    "sha256": "63c59264947c2b386f5576971cd5c2fee0efd9eec6da7fb2992ef38117dc35bd"
+  },
+  {
+    "file": "AE2NetworkAnalyzer-1.21-2.1.5-neoforge.jar",
+    "path": "D:\\.minecraft\\versions\\All the Mods 10\\mods\\AE2NetworkAnalyzer-1.21-2.1.5-neoforge.jar",
+    "set": "ATM10-1.21.1",
+    "namespaces": [
+      "ae2",
+      "ae2netanalyser"
+    ],
+    "sha256": "74b68e9ec57dbf21a0417ce099d61b834f88efb0de3cccba4413e5dcf9d69f3c"
+  },
+  {
+    "file": "ae2wtlib-19.5.1.jar",
+    "path": "D:\\.minecraft\\versions\\All the Mods 10\\mods\\ae2wtlib-19.5.1.jar",
+    "set": "ATM10-1.21.1",
+    "namespaces": [
+      "ae2",
+      "ae2wtlib"
+    ],
+    "sha256": "407e7300351353cb4cb7698286e180aef2bd6e7a97ec7efc6493f9daa4dbffe5"
+  },
+  {
+    "file": "aeinfinitybooster-neoforge-1.21.1-1.0.0.58.jar",
+    "path": "D:\\.minecraft\\versions\\All the Mods 10\\mods\\aeinfinitybooster-neoforge-1.21.1-1.0.0.58.jar",
+    "set": "ATM10-1.21.1",
+    "namespaces": [
+      "aeinfinitybooster"
+    ],
+    "sha256": "4b5140cd5ac4a7bc3cd99c339885614978bfa675eb320f4a4a39491e40af4bca"
+  },
+  {
+    "file": "aether-1.21.1-1.5.10-neoforge.jar",
+    "path": "D:\\.minecraft\\versions\\All the Mods 10\\mods\\aether-1.21.1-1.5.10-neoforge.jar",
+    "set": "ATM10-1.21.1",
+    "namespaces": [
+      "minecraft"
+    ],
+    "sha256": "b19386301560a017a458e9790a7b59999e270f93010def0b61e7cbe4c8630dbf"
+  },
+  {
+    "file": "allthemodium-3.0.1_mc_1.21.1.jar",
+    "path": "D:\\.minecraft\\versions\\All the Mods 10\\mods\\allthemodium-3.0.1_mc_1.21.1.jar",
+    "set": "ATM10-1.21.1",
+    "namespaces": [
+      "minecraft"
+    ],
+    "sha256": "870004c1d6fbd0891ff322b9ff9e8d42c6aaa082ace7562e25948f1636b5c6f1"
+  },
+  {
+    "file": "allthetweaks-1.21.1-2.9.4.jar",
+    "path": "D:\\.minecraft\\versions\\All the Mods 10\\mods\\allthetweaks-1.21.1-2.9.4.jar",
+    "set": "ATM10-1.21.1",
+    "namespaces": [
+      "minecraft"
+    ],
+    "sha256": "150d7c0e057230898b6d2ed24828e064451d52b6f8e3600a42348b8172715f96"
+  },
+  {
+    "file": "amendments-neoforge-1.21-2.1.7.jar",
+    "path": "D:\\.minecraft\\versions\\All the Mods 10\\mods\\amendments-neoforge-1.21-2.1.7.jar",
+    "set": "ATM10-1.21.1",
+    "namespaces": [
+      "minecraft"
+    ],
+    "sha256": "f2ab59fedfbfa09b67c55271599c9e31a2b44cdcbcf60cc2ee70b69c2fe0cf84"
+  },
+  {
+    "file": "Applied-Mekanistics-1.6.3.jar",
+    "path": "D:\\.minecraft\\versions\\All the Mods 10\\mods\\Applied-Mekanistics-1.6.3.jar",
+    "set": "ATM10-1.21.1",
+    "namespaces": [
+      "ae2",
+      "appmek"
+    ],
+    "sha256": "8946fea39451dbce8e709dedbef40a52ba337bdf7a25ac0c4b503800b1bf0773"
+  },
+  {
+    "file": "appliedenergistics2-19.2.17.jar",
+    "path": "D:\\.minecraft\\versions\\All the Mods 10\\mods\\appliedenergistics2-19.2.17.jar",
+    "set": "ATM10-1.21.1",
+    "namespaces": [
+      "ae2",
+      "minecraft"
+    ],
+    "sha256": "460d779a0609b81409907d9956de8f6f70a1b0912257e3e5c3c7e75ac9630e95"
+  },
+  {
+    "file": "AppliedFlux-1.21-2.1.5-neoforge.jar",
+    "path": "D:\\.minecraft\\versions\\All the Mods 10\\mods\\AppliedFlux-1.21-2.1.5-neoforge.jar",
+    "set": "ATM10-1.21.1",
+    "namespaces": [
+      "ae2",
+      "appflux",
+      "minecraft"
+    ],
+    "sha256": "57e6a2c0f38e660c9e8416f9081d8c515f5ad096d6793d7b7f039e8e210d245b"
+  },
+  {
+    "file": "Aquaculture-1.21.1-2.7.21.jar",
+    "path": "D:\\.minecraft\\versions\\All the Mods 10\\mods\\Aquaculture-1.21.1-2.7.21.jar",
+    "set": "ATM10-1.21.1",
+    "namespaces": [
+      "minecraft"
+    ],
+    "sha256": "45f00f9059838b2fecc988861111d8b3d4613a5f1b3688a8dbfa8655751b85bb"
+  },
+  {
+    "file": "ars_elemental-1.21.1-0.7.10.1.jar",
+    "path": "D:\\.minecraft\\versions\\All the Mods 10\\mods\\ars_elemental-1.21.1-0.7.10.1.jar",
+    "set": "ATM10-1.21.1",
+    "namespaces": [
+      "minecraft"
+    ],
+    "sha256": "7a3aea48d7210ce0f150cace1c1c30fca78c7ede50f80ae70e7a692328dfa548"
+  },
+  {
+    "file": "ars_nouveau-1.21.1-5.12.1.jar",
+    "path": "D:\\.minecraft\\versions\\All the Mods 10\\mods\\ars_nouveau-1.21.1-5.12.1.jar",
+    "set": "ATM10-1.21.1",
+    "namespaces": [
+      "minecraft"
+    ],
+    "sha256": "b24412acce7303baf5c46bf4130ba6add5c349047a6dfc445e1add0cd8528fa2"
+  },
+  {
+    "file": "arseng-2.1.1-beta.jar",
+    "path": "D:\\.minecraft\\versions\\All the Mods 10\\mods\\arseng-2.1.1-beta.jar",
+    "set": "ATM10-1.21.1",
+    "namespaces": [
+      "arseng"
+    ],
+    "sha256": "9e2b78101f08bf325589cb98ffba9d91171fdd76ba587d54bdef9d5de18080bc"
+  },
+  {
+    "file": "artifacts-neoforge-13.2.1.jar",
+    "path": "D:\\.minecraft\\versions\\All the Mods 10\\mods\\artifacts-neoforge-13.2.1.jar",
+    "set": "ATM10-1.21.1",
+    "namespaces": [
+      "minecraft"
+    ],
+    "sha256": "4a8e1f4d5702937a707861e478829695e432286bcd9e58f5834d82c6d998eea8"
+  },
+  {
+    "file": "cc-tweaked-1.21.1-forge-1.113.1.jar",
+    "path": "D:\\.minecraft\\versions\\All the Mods 10\\mods\\cc-tweaked-1.21.1-forge-1.113.1.jar",
+    "set": "ATM10-1.21.1",
+    "namespaces": [
+      "minecraft"
+    ],
+    "sha256": "f001e5fb2064d9007bb1e5a8177860fa15d9d92b75724871b0e0ae2177ca2f3f"
+  },
+  {
+    "file": "cc-tweaked-1.21.1-forge-1.120.0.jar",
+    "path": "D:\\.minecraft\\versions\\All the Mods 10\\mods\\cc-tweaked-1.21.1-forge-1.120.0.jar",
+    "set": "ATM10-1.21.1",
+    "namespaces": [
+      "minecraft"
+    ],
+    "sha256": "81a903710d109d129c249c105695a96f4bad5e0acf7068920fb191ba791c14ce"
+  },
+  {
+    "file": "colorfulhearts-neoforge-1.21.1-10.5.9.jar",
+    "path": "D:\\.minecraft\\versions\\All the Mods 10\\mods\\colorfulhearts-neoforge-1.21.1-10.5.9.jar",
+    "set": "ATM10-1.21.1",
+    "namespaces": [
+      "minecraft"
+    ],
+    "sha256": "332a7f3df1274cabeae05e9361c41561c42a670787adc7e4b6795961b4721401"
+  },
+  {
+    "file": "comforts-neoforge-9.0.5+1.21.1.jar",
+    "path": "D:\\.minecraft\\versions\\All the Mods 10\\mods\\comforts-neoforge-9.0.5+1.21.1.jar",
+    "set": "ATM10-1.21.1",
+    "namespaces": [
+      "minecraft"
+    ],
+    "sha256": "6b0fd35a1349107e08a45539adbde9683bb203febc43a3305f6fc4ac73e59615"
+  },
+  {
+    "file": "connectedglass-1.1.14-neoforge-mc1.21.jar",
+    "path": "D:\\.minecraft\\versions\\All the Mods 10\\mods\\connectedglass-1.1.14-neoforge-mc1.21.jar",
+    "set": "ATM10-1.21.1",
+    "namespaces": [
+      "minecraft"
+    ],
+    "sha256": "e5b2a1cd8ef1b8a49a322aeccfc5cd9a53d8303613b9f30718f12a1e525d49fe"
+  },
+  {
+    "file": "create-1.21.1-6.0.10.jar",
+    "path": "D:\\.minecraft\\versions\\All the Mods 10\\mods\\create-1.21.1-6.0.10.jar",
+    "set": "ATM10-1.21.1",
+    "namespaces": [
+      "minecraft"
+    ],
+    "sha256": "ef87fe5709f1ba1f5b8bb20a2925b5afb4669e178fd6d8bf10c167759eefe37a"
+  },
+  {
+    "file": "create-enchantment-industry-2.5.0-preview-alpha1.jar",
+    "path": "D:\\.minecraft\\versions\\All the Mods 10\\mods\\create-enchantment-industry-2.5.0-preview-alpha1.jar",
+    "set": "ATM10-1.21.1",
+    "namespaces": [
+      "minecraft"
+    ],
+    "sha256": "b25cc57696e6a26fef16437d88f3fe5a2690090e6f9728b6c72ca3e945cb07eb"
+  },
+  {
+    "file": "createaddition-1.6.0.jar",
+    "path": "D:\\.minecraft\\versions\\All the Mods 10\\mods\\createaddition-1.6.0.jar",
+    "set": "ATM10-1.21.1",
+    "namespaces": [
+      "minecraft"
+    ],
+    "sha256": "41876c3780b70365a1848994d146a73423cc19fbe86485885795d9e7d855e7e9"
+  },
+  {
+    "file": "CreateDragonsPlus-1.11.2b.jar",
+    "path": "D:\\.minecraft\\versions\\All the Mods 10\\mods\\CreateDragonsPlus-1.11.2b.jar",
+    "set": "ATM10-1.21.1",
+    "namespaces": [
+      "minecraft"
+    ],
+    "sha256": "9b15e464465a639de9ef5a935ae9fd94ea545904517d1428bc784a4012e0a1e2"
+  },
+  {
+    "file": "CTM-1.21-1.2.1+3.jar",
+    "path": "D:\\.minecraft\\versions\\All the Mods 10\\mods\\CTM-1.21-1.2.1+3.jar",
+    "set": "ATM10-1.21.1",
+    "namespaces": [
+      "minecraft"
+    ],
+    "sha256": "bf1bfdf13a7fd8d9f0521b9ef9466e57dabfebaa54d972563bcb0f379c4c8b35"
+  },
+  {
+    "file": "curios-neoforge-9.5.1+1.21.1.jar",
+    "path": "D:\\.minecraft\\versions\\All the Mods 10\\mods\\curios-neoforge-9.5.1+1.21.1.jar",
+    "set": "ATM10-1.21.1",
+    "namespaces": [
+      "minecraft"
+    ],
+    "sha256": "a45df2125c26219974aba7507ffc9afe7b83acc941a386af3faacb1cc0056fde"
+  },
+  {
+    "file": "deeperdarker-neoforge-1.21.1-1.4.1.jar",
+    "path": "D:\\.minecraft\\versions\\All the Mods 10\\mods\\deeperdarker-neoforge-1.21.1-1.4.1.jar",
+    "set": "ATM10-1.21.1",
+    "namespaces": [
+      "minecraft"
+    ],
+    "sha256": "eee3f51222b0bcc714def002ff089ac9e131d3cae4575b542fd0a7dd101fe0af"
+  },
+  {
+    "file": "domum-ornamentum-1.0.234-snapshot-main.jar",
+    "path": "D:\\.minecraft\\versions\\All the Mods 10\\mods\\domum-ornamentum-1.0.234-snapshot-main.jar",
+    "set": "ATM10-1.21.1",
+    "namespaces": [
+      "minecraft"
+    ],
+    "sha256": "538f8364299d06a9e75252b4e6f63d8b3b520c38debd72d0ff97ba14e6cc372c"
+  },
+  {
+    "file": "Draconic-Evolution-1.21.1-3.1.4.632.jar",
+    "path": "D:\\.minecraft\\versions\\All the Mods 10\\mods\\Draconic-Evolution-1.21.1-3.1.4.632.jar",
+    "set": "ATM10-1.21.1",
+    "namespaces": [
+      "minecraft"
+    ],
+    "sha256": "623d7d58e58428a206015b56bf67387c79ff6d97f7221cff23b1dad0bed9544e"
+  },
+  {
+    "file": "dyenamicsandfriends-1.21.1-2.2.2.jar",
+    "path": "D:\\.minecraft\\versions\\All the Mods 10\\mods\\dyenamicsandfriends-1.21.1-2.2.2.jar",
+    "set": "ATM10-1.21.1",
+    "namespaces": [
+      "minecraft"
+    ],
+    "sha256": "c9797951ec4773d885cad8e15944374d9e33a43102cfafdb883a71d142a3510f"
+  },
+  {
+    "file": "endermanoverhaul-neoforge-1.21.1-2.0.3.jar",
+    "path": "D:\\.minecraft\\versions\\All the Mods 10\\mods\\endermanoverhaul-neoforge-1.21.1-2.0.3.jar",
+    "set": "ATM10-1.21.1",
+    "namespaces": [
+      "minecraft"
+    ],
+    "sha256": "fe6c04dcfdbb8815058ebf1102d64cb4c86060a0a1b7350121e4a976d4a92248"
+  },
+  {
+    "file": "entangled-1.3.21-neoforge-mc1.21.jar",
+    "path": "D:\\.minecraft\\versions\\All the Mods 10\\mods\\entangled-1.3.21-neoforge-mc1.21.jar",
+    "set": "ATM10-1.21.1",
+    "namespaces": [
+      "minecraft"
+    ],
+    "sha256": "ed3d17b890029613da36146fd558d5d614595eefc6a9b9e6447ae95b0970d9c4"
+  },
+  {
+    "file": "eternalstarlight-0.8.1+1.21.1+neoforge.jar",
+    "path": "D:\\.minecraft\\versions\\All the Mods 10\\mods\\eternalstarlight-0.8.1+1.21.1+neoforge.jar",
+    "set": "ATM10-1.21.1",
+    "namespaces": [
+      "minecraft"
+    ],
+    "sha256": "acb8fa7a69c4f7d4f1dfa3fba1dbdc96976478ea80b2f9025e43f0c4ee1ceb19"
+  },
+  {
+    "file": "evilcraft-1.21.1-neoforge-1.2.89.jar",
+    "path": "D:\\.minecraft\\versions\\All the Mods 10\\mods\\evilcraft-1.21.1-neoforge-1.2.89.jar",
+    "set": "ATM10-1.21.1",
+    "namespaces": [
+      "minecraft"
+    ],
+    "sha256": "883435407556fff0c88fa40812f3422c7bac7bdb62a734119b31d7f943b0d0e2"
+  },
+  {
+    "file": "expandedae-2.1.1.jar",
+    "path": "D:\\.minecraft\\versions\\All the Mods 10\\mods\\expandedae-2.1.1.jar",
+    "set": "ATM10-1.21.1",
+    "namespaces": [
+      "ae2",
+      "expandedae"
+    ],
+    "sha256": "f39c0eb9c6271f54a44ffee092a29520f53000d1005849e6afada3ad9dffba14"
+  },
+  {
+    "file": "extended-industrialization-1.15.45-1.21.1.jar",
+    "path": "D:\\.minecraft\\versions\\All the Mods 10\\mods\\extended-industrialization-1.15.45-1.21.1.jar",
+    "set": "ATM10-1.21.1",
+    "namespaces": [
+      "minecraft"
+    ],
+    "sha256": "e137faae4fef0a5ec180167bbb3c73abd1e23d9281ca569ba068129293f91c08"
+  },
+  {
+    "file": "ExtendedAE-1.21-2.2.33-neoforge.jar",
+    "path": "D:\\.minecraft\\versions\\All the Mods 10\\mods\\ExtendedAE-1.21-2.2.33-neoforge.jar",
+    "set": "ATM10-1.21.1",
+    "namespaces": [
+      "ae2",
+      "expatternprovider"
+    ],
+    "sha256": "6652ed1ea4b71f585d48c05a195a77594a7a2bd1ecea0fc805db2122aafad734"
+  },
+  {
+    "file": "ExtremeReactors2-1.21.1-2.4.28.jar",
+    "path": "D:\\.minecraft\\versions\\All the Mods 10\\mods\\ExtremeReactors2-1.21.1-2.4.28.jar",
+    "set": "ATM10-1.21.1",
+    "namespaces": [
+      "minecraft"
+    ],
+    "sha256": "74fdfdfc91c3c8e5a439d411e6f081d12193635fffe2c55142f2f28f75b9d621"
+  },
+  {
+    "file": "fancymenu_neoforge_3.9.8_MC_1.21.1.jar",
+    "path": "D:\\.minecraft\\versions\\All the Mods 10\\mods\\fancymenu_neoforge_3.9.8_MC_1.21.1.jar",
+    "set": "ATM10-1.21.1",
+    "namespaces": [
+      "minecraft"
+    ],
+    "sha256": "76a79cb865883362d326c3d53c6473e2884f204df0143934eae8185bd1887f64"
+  },
+  {
+    "file": "fireproofboats-1.21.1-1.0.4.jar",
+    "path": "D:\\.minecraft\\versions\\All the Mods 10\\mods\\fireproofboats-1.21.1-1.0.4.jar",
+    "set": "ATM10-1.21.1",
+    "namespaces": [
+      "minecraft"
+    ],
+    "sha256": "9dc6829a699b16c21079a6a9c39ad006048ac9efa547fbbeb223b35e55297714"
+  },
+  {
+    "file": "formations-1.0.4-neoforge-mc1.21.jar",
+    "path": "D:\\.minecraft\\versions\\All the Mods 10\\mods\\formations-1.0.4-neoforge-mc1.21.jar",
+    "set": "ATM10-1.21.1",
+    "namespaces": [
+      "minecraft"
+    ],
+    "sha256": "2d9b50575fdf42e59d5dacda23ce5d01fc5cb19db02a1278329e3ad40893848e"
+  },
+  {
+    "file": "FramedBlocks-10.6.1.jar",
+    "path": "D:\\.minecraft\\versions\\All the Mods 10\\mods\\FramedBlocks-10.6.1.jar",
+    "set": "ATM10-1.21.1",
+    "namespaces": [
+      "minecraft"
+    ],
+    "sha256": "3337f29e1fa3331e8740eef9c20b0750d81fd86d1057fb81012a5c4792aa3369"
+  },
+  {
+    "file": "ftb-chunks-neoforge-2101.1.20.jar",
+    "path": "D:\\.minecraft\\versions\\All the Mods 10\\mods\\ftb-chunks-neoforge-2101.1.20.jar",
+    "set": "ATM10-1.21.1",
+    "namespaces": [
+      "ae2",
+      "minecraft"
+    ],
+    "sha256": "3bcd6f0032cec7310dc90b02b5a00e4cf1dd7a507f758bb353de864cb5e9241e"
+  },
+  {
+    "file": "ftb-library-neoforge-2101.1.33.jar",
+    "path": "D:\\.minecraft\\versions\\All the Mods 10\\mods\\ftb-library-neoforge-2101.1.33.jar",
+    "set": "ATM10-1.21.1",
+    "namespaces": [
+      "minecraft"
+    ],
+    "sha256": "6e8f7b57f243caf5cbb2c80387924df7b555b98d0fc6e1e575d4b5d74f5ff2e2"
+  },
+  {
+    "file": "ftb-quests-neoforge-2101.1.27.jar",
+    "path": "D:\\.minecraft\\versions\\All the Mods 10\\mods\\ftb-quests-neoforge-2101.1.27.jar",
+    "set": "ATM10-1.21.1",
+    "namespaces": [
+      "minecraft"
+    ],
+    "sha256": "460b163ebefb4580e1ad32e1f94f1ea4bdc8f763692ee821628ace10bde49a03"
+  },
+  {
+    "file": "Glassential-renewed-1.21.1-3.4.5.jar",
+    "path": "D:\\.minecraft\\versions\\All the Mods 10\\mods\\Glassential-renewed-1.21.1-3.4.5.jar",
+    "set": "ATM10-1.21.1",
+    "namespaces": [
+      "minecraft"
+    ],
+    "sha256": "1f0c8f7533bf3b2002575219ba795fd32a44cc5085c2710624ebbf69e6121471"
+  },
+  {
+    "file": "industrialization_overdrive-1.12.1+1.21.1.jar",
+    "path": "D:\\.minecraft\\versions\\All the Mods 10\\mods\\industrialization_overdrive-1.12.1+1.21.1.jar",
+    "set": "ATM10-1.21.1",
+    "namespaces": [
+      "minecraft"
+    ],
+    "sha256": "9ef54baa0bb7551a99c16dd740cb4e56d1f8342b240a929603726120d9d8ff35"
+  },
+  {
+    "file": "integratedcrafting-1.21.1-neoforge-1.4.6.jar",
+    "path": "D:\\.minecraft\\versions\\All the Mods 10\\mods\\integratedcrafting-1.21.1-neoforge-1.4.6.jar",
+    "set": "ATM10-1.21.1",
+    "namespaces": [
+      "minecraft"
+    ],
+    "sha256": "edbdbe27b975aa808879143aab1172ed20b2c5704a2631a5a5d000000e943949"
+  },
+  {
+    "file": "integrateddynamics-1.21.1-neoforge-1.33.3.jar",
+    "path": "D:\\.minecraft\\versions\\All the Mods 10\\mods\\integrateddynamics-1.21.1-neoforge-1.33.3.jar",
+    "set": "ATM10-1.21.1",
+    "namespaces": [
+      "minecraft"
+    ],
+    "sha256": "7221e0e9201ef44c5e6d9af4ed7198815607197dc023d63b74798c9bbfe0e1bf"
+  },
+  {
+    "file": "integratedscripting-1.21.1-neoforge-1.0.23.jar",
+    "path": "D:\\.minecraft\\versions\\All the Mods 10\\mods\\integratedscripting-1.21.1-neoforge-1.0.23.jar",
+    "set": "ATM10-1.21.1",
+    "namespaces": [
+      "minecraft"
+    ],
+    "sha256": "b156fb14cd422f99d6ef3c222783c49aee52d48812a9f79e91145153263e58c6"
+  },
+  {
+    "file": "integratedterminals-1.21.1-neoforge-1.7.0.jar",
+    "path": "D:\\.minecraft\\versions\\All the Mods 10\\mods\\integratedterminals-1.21.1-neoforge-1.7.0.jar",
+    "set": "ATM10-1.21.1",
+    "namespaces": [
+      "minecraft"
+    ],
+    "sha256": "7bca14583042c834a36e48879a12e986940d15fb3d3dc6fcaeaf51379d80a370"
+  },
+  {
+    "file": "integratedtunnels-1.21.1-neoforge-1.9.4-632.jar",
+    "path": "D:\\.minecraft\\versions\\All the Mods 10\\mods\\integratedtunnels-1.21.1-neoforge-1.9.4-632.jar",
+    "set": "ATM10-1.21.1",
+    "namespaces": [
+      "minecraft"
+    ],
+    "sha256": "587316ad7ae60eb1ff6cd12fbcd4ae5a002c838be28cc2cb0820e24efaf9c9f7"
+  },
+  {
+    "file": "irons_lib-1.21.1-2.1.0.jar",
+    "path": "D:\\.minecraft\\versions\\All the Mods 10\\mods\\irons_lib-1.21.1-2.1.0.jar",
+    "set": "ATM10-1.21.1",
+    "namespaces": [
+      "minecraft"
+    ],
+    "sha256": "3d0ad1003d6edeaad2500b9922267b4192d2c603cdd846fda339b168f4deff72"
+  },
+  {
+    "file": "irons_spellbooks-1.21.1-3.16.2.jar",
+    "path": "D:\\.minecraft\\versions\\All the Mods 10\\mods\\irons_spellbooks-1.21.1-3.16.2.jar",
+    "set": "ATM10-1.21.1",
+    "namespaces": [
+      "minecraft"
+    ],
+    "sha256": "82b650aff7636c8fa88da0e4cfea008c229bb62843274678ee932f6b4ec74430"
+  },
+  {
+    "file": "itemcollectors-1.1.10-neoforge-mc1.21.jar",
+    "path": "D:\\.minecraft\\versions\\All the Mods 10\\mods\\itemcollectors-1.1.10-neoforge-mc1.21.jar",
+    "set": "ATM10-1.21.1",
+    "namespaces": [
+      "minecraft"
+    ],
+    "sha256": "148a3a90f2cfcff8c8c1549a4e7b706494ebc9bd859d848158f469426e6e5fb5"
+  },
+  {
+    "file": "journeymap-neoforge-1.21.1-6.0.1.jar",
+    "path": "D:\\.minecraft\\versions\\All the Mods 10\\mods\\journeymap-neoforge-1.21.1-6.0.1.jar",
+    "set": "ATM10-1.21.1",
+    "namespaces": [
+      "minecraft"
+    ],
+    "sha256": "4bbc9e51c8bc30e3fe1fd1dfa1a3185f63d7a827b5c92ab5ac14bc1f384fd56b"
+  },
+  {
+    "file": "kubejs-neoforge-2101.7.2-build.368.jar",
+    "path": "D:\\.minecraft\\versions\\All the Mods 10\\mods\\kubejs-neoforge-2101.7.2-build.368.jar",
+    "set": "ATM10-1.21.1",
+    "namespaces": [
+      "minecraft"
+    ],
+    "sha256": "28867299e7a9f02cfd74e34745fdbbb073fe4887fddbc98fd6c1ed2e87b01482"
+  },
+  {
+    "file": "L_Ender's Cataclysm 1.21.1-3.32.jar",
+    "path": "D:\\.minecraft\\versions\\All the Mods 10\\mods\\L_Ender's Cataclysm 1.21.1-3.32.jar",
+    "set": "ATM10-1.21.1",
+    "namespaces": [
+      "minecraft"
+    ],
+    "sha256": "679c8687281cdac01e80de1672f27db1baf6ad5c68c74d752806b9d5ce246ac3"
+  },
+  {
+    "file": "lootr-neoforge-1.21.1-1.11.37.122.jar",
+    "path": "D:\\.minecraft\\versions\\All the Mods 10\\mods\\lootr-neoforge-1.21.1-1.11.37.122.jar",
+    "set": "ATM10-1.21.1",
+    "namespaces": [
+      "minecraft"
+    ],
+    "sha256": "fd330d69bb0740d2833ad91784ee5f8b0e4c5d8dbee379e60e93ca2d1c252fce"
+  },
+  {
+    "file": "megacells-4.11.0.jar",
+    "path": "D:\\.minecraft\\versions\\All the Mods 10\\mods\\megacells-4.11.0.jar",
+    "set": "ATM10-1.21.1",
+    "namespaces": [
+      "ae2",
+      "megacells"
+    ],
+    "sha256": "a386bbf12afb11729b0dcf77f64221893d250f22e6185a4d728b9799b230bc55"
+  },
+  {
+    "file": "Mekanism-1.21.1-10.7.19.85.jar",
+    "path": "D:\\.minecraft\\versions\\All the Mods 10\\mods\\Mekanism-1.21.1-10.7.19.85.jar",
+    "set": "ATM10-1.21.1",
+    "namespaces": [
+      "minecraft"
+    ],
+    "sha256": "004dbc9f3106f4d192aeaa1ee1190dd16ec9ca8059ed3d093b80034f4c574f43"
+  },
+  {
+    "file": "MekanismGenerators-1.21.1-10.7.19.85.jar",
+    "path": "D:\\.minecraft\\versions\\All the Mods 10\\mods\\MekanismGenerators-1.21.1-10.7.19.85.jar",
+    "set": "ATM10-1.21.1",
+    "namespaces": [
+      "minecraft"
+    ],
+    "sha256": "0e5783b111e756f27b48c62b2f0e02fff750c77f7985ff809bfadc5f444ba4ac"
+  },
+  {
+    "file": "MekanismTools-1.21.1-10.7.19.85.jar",
+    "path": "D:\\.minecraft\\versions\\All the Mods 10\\mods\\MekanismTools-1.21.1-10.7.19.85.jar",
+    "set": "ATM10-1.21.1",
+    "namespaces": [
+      "minecraft"
+    ],
+    "sha256": "e1dbca7d70df150101da535f6ab4b165a2e402fde830d34df75b58d9aad24dd8"
+  },
+  {
+    "file": "merequester-neoforge-1.21.1-1.4.3.jar",
+    "path": "D:\\.minecraft\\versions\\All the Mods 10\\mods\\merequester-neoforge-1.21.1-1.4.3.jar",
+    "set": "ATM10-1.21.1",
+    "namespaces": [
+      "ae2",
+      "merequester"
+    ],
+    "sha256": "68f3c861a802d48afeb6e3a48e8ee4f8633904340ac3f89f17493dc84490e385"
+  },
+  {
+    "file": "mffs-5.4.27.jar",
+    "path": "D:\\.minecraft\\versions\\All the Mods 10\\mods\\mffs-5.4.27.jar",
+    "set": "ATM10-1.21.1",
+    "namespaces": [
+      "minecraft"
+    ],
+    "sha256": "7ecdc7f65100771b8fdd18e7b45c2ed757c1477905906d2c5ad03e702762c4f2"
+  },
+  {
+    "file": "minecolonies-1.1.1349-1.21.1-snapshot.jar",
+    "path": "D:\\.minecraft\\versions\\All the Mods 10\\mods\\minecolonies-1.1.1349-1.21.1-snapshot.jar",
+    "set": "ATM10-1.21.1",
+    "namespaces": [
+      "minecraft"
+    ],
+    "sha256": "51a551c8d027de972854c2954aa78efb083c77db8b63de5ccd25eb30e21c5486"
+  },
+  {
+    "file": "Modern-Dynamics-0.9.6.jar",
+    "path": "D:\\.minecraft\\versions\\All the Mods 10\\mods\\Modern-Dynamics-0.9.6.jar",
+    "set": "ATM10-1.21.1",
+    "namespaces": [
+      "minecraft"
+    ],
+    "sha256": "4357833f16a8f890e4399de3c606a27644add1384d5d1e7246648a818e9cbdab"
+  },
+  {
+    "file": "Modern-Industrialization-2.5.3.jar",
+    "path": "D:\\.minecraft\\versions\\All the Mods 10\\mods\\Modern-Industrialization-2.5.3.jar",
+    "set": "ATM10-1.21.1",
+    "namespaces": [
+      "minecraft"
+    ],
+    "sha256": "d3686eebc7410f1ca5e27c0075bc5942aa6484ac945e5c972fc56b079a6e803f"
+  },
+  {
+    "file": "MysticalAgriculture-1.21.1-8.0.27.jar",
+    "path": "D:\\.minecraft\\versions\\All the Mods 10\\mods\\MysticalAgriculture-1.21.1-8.0.27.jar",
+    "set": "ATM10-1.21.1",
+    "namespaces": [
+      "minecraft"
+    ],
+    "sha256": "d67bb701fbe4ade2efeb0aafd477f569b5e6a5a7c8ac696a8a1f658f8477eb99"
+  },
+  {
+    "file": "oritech-neoforge-1.21.1-1.2.9.jar",
+    "path": "D:\\.minecraft\\versions\\All the Mods 10\\mods\\oritech-neoforge-1.21.1-1.2.9.jar",
+    "set": "ATM10-1.21.1",
+    "namespaces": [
+      "minecraft"
+    ],
+    "sha256": "70f15ab8426c104355f28db3003f50ba80ff6615310ac328c0e64258218ad7df"
+  },
+  {
+    "file": "Placebo-1.21.1-9.9.2.jar",
+    "path": "D:\\.minecraft\\versions\\All the Mods 10\\mods\\Placebo-1.21.1-9.9.2.jar",
+    "set": "ATM10-1.21.1",
+    "namespaces": [
+      "minecraft"
+    ],
+    "sha256": "1a844a5b081813b1edb82656329e54d38389ed470f6a6516a5887f5303d7daad"
+  },
+  {
+    "file": "pneumaticcraft-repressurized-8.2.21+mc1.21.1.jar",
+    "path": "D:\\.minecraft\\versions\\All the Mods 10\\mods\\pneumaticcraft-repressurized-8.2.21+mc1.21.1.jar",
+    "set": "ATM10-1.21.1",
+    "namespaces": [
+      "minecraft"
+    ],
+    "sha256": "9bc768a00d7704184581cd82da5b0df2929efa01dbd8bf955e9026a159c56658"
+  },
+  {
+    "file": "potionsmaster-21.1.113-1.0.1.jar",
+    "path": "D:\\.minecraft\\versions\\All the Mods 10\\mods\\potionsmaster-21.1.113-1.0.1.jar",
+    "set": "ATM10-1.21.1",
+    "namespaces": [
+      "minecraft"
+    ],
+    "sha256": "df18c93b8ab22ac529f5dd8342678f3a3c287d85ff9a587ed31b27b79ed42560"
+  },
+  {
+    "file": "railcraft-reborn-1.21.1-1.2.10.jar",
+    "path": "D:\\.minecraft\\versions\\All the Mods 10\\mods\\railcraft-reborn-1.21.1-1.2.10.jar",
+    "set": "ATM10-1.21.1",
+    "namespaces": [
+      "minecraft"
+    ],
+    "sha256": "7de3dfeac277da57f9897822824332c99e53b9d36956143b38c0966f39144328"
+  },
+  {
+    "file": "rechiseled-1.2.5-neoforge-mc1.21.jar",
+    "path": "D:\\.minecraft\\versions\\All the Mods 10\\mods\\rechiseled-1.2.5-neoforge-mc1.21.jar",
+    "set": "ATM10-1.21.1",
+    "namespaces": [
+      "minecraft"
+    ],
+    "sha256": "7bf14cf8a4bfdc4b6c990126a75da29fd2bb7559d1c05b71e29c8fd5ae044435"
+  },
+  {
+    "file": "rechiseledcreate-1.1.1-neoforge-mc1.21.jar",
+    "path": "D:\\.minecraft\\versions\\All the Mods 10\\mods\\rechiseledcreate-1.1.1-neoforge-mc1.21.jar",
+    "set": "ATM10-1.21.1",
+    "namespaces": [
+      "minecraft"
+    ],
+    "sha256": "ba89cd5d1221621ed226cc7f1c26dc84a660cc4f6d122753052429f96d71248d"
+  },
+  {
+    "file": "refined-types-1.21.1-0.3.2.jar",
+    "path": "D:\\.minecraft\\versions\\All the Mods 10\\mods\\refined-types-1.21.1-0.3.2.jar",
+    "set": "ATM10-1.21.1",
+    "namespaces": [
+      "minecraft"
+    ],
+    "sha256": "2373c5b8f1309a43bc25bc0c8f4cfc1f3cb0b725ceafe89311aa74e3e75f7b0d"
+  },
+  {
+    "file": "reliquary-1.21.1-2.0.77.1537.jar",
+    "path": "D:\\.minecraft\\versions\\All the Mods 10\\mods\\reliquary-1.21.1-2.0.77.1537.jar",
+    "set": "ATM10-1.21.1",
+    "namespaces": [
+      "minecraft"
+    ],
+    "sha256": "b2f2c96f143d1732d9a68d9dc198fe262374f1769d5dbc21f7fbe673d4f19d39"
+  },
+  {
+    "file": "simplemagnets-1.1.12c-neoforge-mc1.21.jar",
+    "path": "D:\\.minecraft\\versions\\All the Mods 10\\mods\\simplemagnets-1.1.12c-neoforge-mc1.21.jar",
+    "set": "ATM10-1.21.1",
+    "namespaces": [
+      "minecraft"
+    ],
+    "sha256": "c9236a8bfadb519b820be1d28e73876f034463ca8bcb4e8dce8a1897cf8446c1"
+  },
+  {
+    "file": "sodium-extra-neoforge-0.9.3+mc1.21.1.jar",
+    "path": "D:\\.minecraft\\versions\\All the Mods 10\\mods\\sodium-extra-neoforge-0.9.3+mc1.21.1.jar",
+    "set": "ATM10-1.21.1",
+    "namespaces": [
+      "minecraft"
+    ],
+    "sha256": "fa553bce38bad6fdd478841a270a79a31dc05f87d7892b1cf839850602ac9186"
+  },
+  {
+    "file": "sophisticatedstorage-1.21.1-1.5.80.1999.jar",
+    "path": "D:\\.minecraft\\versions\\All the Mods 10\\mods\\sophisticatedstorage-1.21.1-1.5.80.1999.jar",
+    "set": "ATM10-1.21.1",
+    "namespaces": [
+      "minecraft"
+    ],
+    "sha256": "8cde8f4afac398b046a1d25dcafeaec18dba8881d1562551a5627aeb28a3d969"
+  },
+  {
+    "file": "supplementaries-neoforge-1.21.1-3.8.2.jar",
+    "path": "D:\\.minecraft\\versions\\All the Mods 10\\mods\\supplementaries-neoforge-1.21.1-3.8.2.jar",
+    "set": "ATM10-1.21.1",
+    "namespaces": [
+      "minecraft"
+    ],
+    "sha256": "5c23a3b033b930f9c1da07bf5fb1c9663327d5e9361a8c9eccec3f2171986407"
+  },
+  {
+    "file": "tempad-1.21.1-3.0.4-all.jar",
+    "path": "D:\\.minecraft\\versions\\All the Mods 10\\mods\\tempad-1.21.1-3.0.4-all.jar",
+    "set": "ATM10-1.21.1",
+    "namespaces": [
+      "minecraft"
+    ],
+    "sha256": "932dd8a1cbb86d7632330ee3b9da43211b7c7a2fb6246443fd8207f74a74eba3"
+  },
+  {
+    "file": "The_Undergarden-1.21.1-0.9.6.jar",
+    "path": "D:\\.minecraft\\versions\\All the Mods 10\\mods\\The_Undergarden-1.21.1-0.9.6.jar",
+    "set": "ATM10-1.21.1",
+    "namespaces": [
+      "minecraft"
+    ],
+    "sha256": "49e3db6ce2cf6864e9d45f0633de95bc3ef72cbd5ebffee493fca7198d30ccb0"
+  },
+  {
+    "file": "tombstone-neoforge-1.21.1-9.5.3.jar",
+    "path": "D:\\.minecraft\\versions\\All the Mods 10\\mods\\tombstone-neoforge-1.21.1-9.5.3.jar",
+    "set": "ATM10-1.21.1",
+    "namespaces": [
+      "minecraft"
+    ],
+    "sha256": "3facb28ed00fd8470c16dbab71cab781666273d093d299c8682df224bca1627f"
+  },
+  {
+    "file": "ToolBelt-1.21.1-2.2.10.jar",
+    "path": "D:\\.minecraft\\versions\\All the Mods 10\\mods\\ToolBelt-1.21.1-2.2.10.jar",
+    "set": "ATM10-1.21.1",
+    "namespaces": [
+      "minecraft"
+    ],
+    "sha256": "918b35093dfaf8033115acd8dacd8978e325dcba36355f8d1a938ee92d5ab4ff"
+  },
+  {
+    "file": "trashcans-1.0.18c-neoforge-mc1.21.jar",
+    "path": "D:\\.minecraft\\versions\\All the Mods 10\\mods\\trashcans-1.0.18c-neoforge-mc1.21.jar",
+    "set": "ATM10-1.21.1",
+    "namespaces": [
+      "minecraft"
+    ],
+    "sha256": "5d05b498f7c6a6a00deda3b4f66206a5269b69f9c031b1faf5a5e75c0f2b449a"
+  },
+  {
+    "file": "twilightforest-1.21.1-4.8.3345-universal.jar",
+    "path": "D:\\.minecraft\\versions\\All the Mods 10\\mods\\twilightforest-1.21.1-4.8.3345-universal.jar",
+    "set": "ATM10-1.21.1",
+    "namespaces": [
+      "minecraft"
+    ],
+    "sha256": "493da16d10210f9f53a3c33b3d8fcb4ae9b14016ee420d753c894562bd9aba35"
+  },
+  {
+    "file": "utilitarian-1.21.1-0.19.2.jar",
+    "path": "D:\\.minecraft\\versions\\All the Mods 10\\mods\\utilitarian-1.21.1-0.19.2.jar",
+    "set": "ATM10-1.21.1",
+    "namespaces": [
+      "minecraft"
+    ],
+    "sha256": "c7090ef1e7259339a22d49a97125e1514c186f4e0174834da39df6987720db78"
+  },
+  {
+    "file": "wirelesschargers-1.0.9a-neoforge-mc1.21.jar",
+    "path": "D:\\.minecraft\\versions\\All the Mods 10\\mods\\wirelesschargers-1.0.9a-neoforge-mc1.21.jar",
+    "set": "ATM10-1.21.1",
+    "namespaces": [
+      "minecraft"
+    ],
+    "sha256": "af4232489439d3c2dc52be3ba18743b301b1441ddf1f5707cc74bebfa01d8296"
+  },
+  {
+    "file": "xycraft_core-0.7.53-all.jar",
+    "path": "D:\\.minecraft\\versions\\All the Mods 10\\mods\\xycraft_core-0.7.53-all.jar",
+    "set": "ATM10-1.21.1",
+    "namespaces": [
+      "minecraft"
+    ],
+    "sha256": "0ae977880a244157c79fea6fad10b6cef788cf65f8fefa62809665a155aed256"
+  },
+  {
+    "file": "xycraft_machines-0.7.53.jar",
+    "path": "D:\\.minecraft\\versions\\All the Mods 10\\mods\\xycraft_machines-0.7.53.jar",
+    "set": "ATM10-1.21.1",
+    "namespaces": [
+      "minecraft"
+    ],
+    "sha256": "51e82887cf9b09654e3e34b230e8ff5532db624a9dd1f5c7dfa01c4841b7ffef"
+  },
+  {
+    "file": "AdvancedAE-1.6.12-1.21.1.jar",
+    "path": "C:\\Users\\cyx\\Documents\\ChatGPT\\Minecraft整合包\\research\\audit-1.1.2\\1.21.1\\AdvancedAE-1.6.12-1.21.1.jar",
+    "set": "downloaded-1.21.1",
+    "namespaces": [
+      "advanced_ae",
+      "ae2"
+    ],
+    "sha256": "a01d9718667ac13899013e91c5b0b7708b9b9db1da9b8e380772dde54bbe8f41"
+  },
+  {
+    "file": "AE2-Things-1.4.2-beta.jar",
+    "path": "C:\\Users\\cyx\\Documents\\ChatGPT\\Minecraft整合包\\research\\audit-1.1.2\\1.21.1\\AE2-Things-1.4.2-beta.jar",
+    "set": "downloaded-1.21.1",
+    "namespaces": [
+      "ae2things"
+    ],
+    "sha256": "9725dd363cc874601737b417ddfe675e4a5ae4a6428bdeb67ac408f775eb4241"
+  },
+  {
+    "file": "ae2cs-1.21.1-1.2.1.jar",
+    "path": "C:\\Users\\cyx\\Documents\\ChatGPT\\Minecraft整合包\\research\\audit-1.1.2\\1.21.1\\ae2cs-1.21.1-1.2.1.jar",
+    "set": "downloaded-1.21.1",
+    "namespaces": [
+      "ae2",
+      "ae2cs"
+    ],
+    "sha256": "fb0d921c68d43e3ff76c9da16b6e3b8ba4944849064fd42aeb27e0f9ed099dde"
+  },
+  {
+    "file": "ae2importexportcard-1.21.1-1.9.1.jar",
+    "path": "C:\\Users\\cyx\\Documents\\ChatGPT\\Minecraft整合包\\research\\audit-1.1.2\\1.21.1\\ae2importexportcard-1.21.1-1.9.1.jar",
+    "set": "downloaded-1.21.1",
+    "namespaces": [
+      "ae2",
+      "ae2insertexportcard"
+    ],
+    "sha256": "d9fadd2008358e3cc12295648e39424968110a2d70fd429d2c4541064ad4f6f0"
+  },
+  {
+    "file": "ae2lt-2.1.2-beta3.jar",
+    "path": "C:\\Users\\cyx\\Documents\\ChatGPT\\Minecraft整合包\\research\\audit-1.1.2\\1.21.1\\ae2lt-2.1.2-beta3.jar",
+    "set": "downloaded-1.21.1",
+    "namespaces": [
+      "ae2",
+      "ae2lt"
+    ],
+    "sha256": "996eaa6a34f0976804a1249b65ad615454b08bb3016354085a49de692b77d8a8"
+  },
+  {
+    "file": "AE2MEGAThings-1.21.1-2.0.4.jar",
+    "path": "C:\\Users\\cyx\\Documents\\ChatGPT\\Minecraft整合包\\research\\audit-1.1.2\\1.21.1\\AE2MEGAThings-1.21.1-2.0.4.jar",
+    "set": "downloaded-1.21.1",
+    "namespaces": [
+      "ae2_mega_things"
+    ],
+    "sha256": "97537207b4c68a417a15b5a029f82e55510e0fcaa22be3c97b199bf2c7c5f7b9"
+  },
+  {
+    "file": "AE2ToggleableViewCell-21.1-2.0.3.jar",
+    "path": "C:\\Users\\cyx\\Documents\\ChatGPT\\Minecraft整合包\\research\\audit-1.1.2\\1.21.1\\AE2ToggleableViewCell-21.1-2.0.3.jar",
+    "set": "downloaded-1.21.1",
+    "namespaces": [
+      "ae2_toggleable_view_cell"
+    ],
+    "sha256": "b8375f9cd92d561f47caf9e3bce786900502e8e31b436d18e54e333dd7547fe6"
+  },
+  {
+    "file": "ae2wtlib-19.5.1.jar",
+    "path": "C:\\Users\\cyx\\Documents\\ChatGPT\\Minecraft整合包\\research\\audit-1.1.2\\1.21.1\\ae2wtlib-19.5.1.jar",
+    "set": "downloaded-1.21.1",
+    "namespaces": [
+      "ae2",
+      "ae2wtlib"
+    ],
+    "sha256": "407e7300351353cb4cb7698286e180aef2bd6e7a97ec7efc6493f9daa4dbffe5"
+  },
+  {
+    "file": "AEAdditions-1.21.1-6.0.2.jar",
+    "path": "C:\\Users\\cyx\\Documents\\ChatGPT\\Minecraft整合包\\research\\audit-1.1.2\\1.21.1\\AEAdditions-1.21.1-6.0.2.jar",
+    "set": "downloaded-1.21.1",
+    "namespaces": [
+      "ae2additions"
+    ],
+    "sha256": "3e9c0834e043fc0075a87a40013a11d8406581ef8c1564cc2e94a0ffb5792101"
+  },
+  {
+    "file": "aeinfinitybooster-neoforge-1.21.1-1.0.0.58.jar",
+    "path": "C:\\Users\\cyx\\Documents\\ChatGPT\\Minecraft整合包\\research\\audit-1.1.2\\1.21.1\\aeinfinitybooster-neoforge-1.21.1-1.0.0.58.jar",
+    "set": "downloaded-1.21.1",
+    "namespaces": [
+      "aeinfinitybooster"
+    ],
+    "sha256": "4b5140cd5ac4a7bc3cd99c339885614978bfa675eb320f4a4a39491e40af4bca"
+  },
+  {
+    "file": "appbot-1.6.0-alpha.3.jar",
+    "path": "C:\\Users\\cyx\\Documents\\ChatGPT\\Minecraft整合包\\research\\audit-1.1.2\\1.21.1\\appbot-1.6.0-alpha.3.jar",
+    "set": "downloaded-1.21.1",
+    "namespaces": [
+      "ae2",
+      "appbot"
+    ],
+    "sha256": "997a68cd404b6cd503d21b5147d8063a9375ac386203b594ec15d6e274b29b79"
+  },
+  {
+    "file": "Applied-Mekanistics-1.6.3.jar",
+    "path": "C:\\Users\\cyx\\Documents\\ChatGPT\\Minecraft整合包\\research\\audit-1.1.2\\1.21.1\\Applied-Mekanistics-1.6.3.jar",
+    "set": "downloaded-1.21.1",
+    "namespaces": [
+      "ae2",
+      "appmek"
+    ],
+    "sha256": "8946fea39451dbce8e709dedbef40a52ba337bdf7a25ac0c4b503800b1bf0773"
+  },
+  {
+    "file": "appliede-1.0.8-beta.jar",
+    "path": "C:\\Users\\cyx\\Documents\\ChatGPT\\Minecraft整合包\\research\\audit-1.1.2\\1.21.1\\appliede-1.0.8-beta.jar",
+    "set": "downloaded-1.21.1",
+    "namespaces": [
+      "ae2",
+      "appliede"
+    ],
+    "sha256": "3ce809267def0c3ad2539c34235922c1efefa67667515f81cc02afc87ff958f9"
+  },
+  {
+    "file": "appliedenergistics2-19.2.18.jar",
+    "path": "C:\\Users\\cyx\\Documents\\ChatGPT\\Minecraft整合包\\research\\audit-1.1.2\\1.21.1\\appliedenergistics2-19.2.18.jar",
+    "set": "downloaded-1.21.1",
+    "namespaces": [
+      "ae2",
+      "minecraft"
+    ],
+    "sha256": "df15a07f86ca1ca93aa66373f9d5d84dd3d4586631fceb38f4fbc85dad591e39"
+  },
+  {
+    "file": "AppliedFlux-1.21-2.1.5-neoforge.jar",
+    "path": "C:\\Users\\cyx\\Documents\\ChatGPT\\Minecraft整合包\\research\\audit-1.1.2\\1.21.1\\AppliedFlux-1.21-2.1.5-neoforge.jar",
+    "set": "downloaded-1.21.1",
+    "namespaces": [
+      "ae2",
+      "appflux",
+      "minecraft"
+    ],
+    "sha256": "57e6a2c0f38e660c9e8416f9081d8c515f5ad096d6793d7b7f039e8e210d245b"
+  },
+  {
+    "file": "arseng-2.1.1-beta.jar",
+    "path": "C:\\Users\\cyx\\Documents\\ChatGPT\\Minecraft整合包\\research\\audit-1.1.2\\1.21.1\\arseng-2.1.1-beta.jar",
+    "set": "downloaded-1.21.1",
+    "namespaces": [
+      "arseng"
+    ],
+    "sha256": "9e2b78101f08bf325589cb98ffba9d91171fdd76ba587d54bdef9d5de18080bc"
+  },
+  {
+    "file": "bigger_ae2-1.21.1-21.2.3.jar",
+    "path": "C:\\Users\\cyx\\Documents\\ChatGPT\\Minecraft整合包\\research\\audit-1.1.2\\1.21.1\\bigger_ae2-1.21.1-21.2.3.jar",
+    "set": "downloaded-1.21.1",
+    "namespaces": [
+      "bigger_ae2"
+    ],
+    "sha256": "a13b54ae6754f3a4441f01648a68f7b93af9b93cc664a737114decbf69fea14c"
+  },
+  {
+    "file": "expandedae-2.1.1.jar",
+    "path": "C:\\Users\\cyx\\Documents\\ChatGPT\\Minecraft整合包\\research\\audit-1.1.2\\1.21.1\\expandedae-2.1.1.jar",
+    "set": "downloaded-1.21.1",
+    "namespaces": [
+      "ae2",
+      "expandedae"
+    ],
+    "sha256": "f39c0eb9c6271f54a44ffee092a29520f53000d1005849e6afada3ad9dffba14"
+  },
+  {
+    "file": "extendedae_plus-1.6.3.jar",
+    "path": "C:\\Users\\cyx\\Documents\\ChatGPT\\Minecraft整合包\\research\\audit-1.1.2\\1.21.1\\extendedae_plus-1.6.3.jar",
+    "set": "downloaded-1.21.1",
+    "namespaces": [
+      "ae2",
+      "extendedae_plus"
+    ],
+    "sha256": "1d89b055a7de508ec8dd5595ead646f4734c8fc5f7d843d7606454088118b41a"
+  },
+  {
+    "file": "fulleng-2.3.2.jar",
+    "path": "C:\\Users\\cyx\\Documents\\ChatGPT\\Minecraft整合包\\research\\audit-1.1.2\\1.21.1\\fulleng-2.3.2.jar",
+    "set": "downloaded-1.21.1",
+    "namespaces": [
+      "fulleng"
+    ],
+    "sha256": "6eeb005faae8622cff576e90e53f2099ec4cd9bda667e417cd24e1efb20ae401"
+  },
+  {
+    "file": "megacells-4.11.0.jar",
+    "path": "C:\\Users\\cyx\\Documents\\ChatGPT\\Minecraft整合包\\research\\audit-1.1.2\\1.21.1\\megacells-4.11.0.jar",
+    "set": "downloaded-1.21.1",
+    "namespaces": [
+      "ae2",
+      "megacells"
+    ],
+    "sha256": "4a89663cc913f5bc8fd00f1a7146a2ad4b45bb4dd8bca245a445a636044d4762"
+  },
+  {
+    "file": "merequester-neoforge-1.21.1-1.5.0.jar",
+    "path": "C:\\Users\\cyx\\Documents\\ChatGPT\\Minecraft整合包\\research\\audit-1.1.2\\1.21.1\\merequester-neoforge-1.21.1-1.5.0.jar",
+    "set": "downloaded-1.21.1",
+    "namespaces": [
+      "ae2",
+      "merequester"
+    ],
+    "sha256": "8ac35e46e0a6102fd17eaa7aeda94eaf4755e448c703b6130f3ff1731bee03e5"
+  }
+]

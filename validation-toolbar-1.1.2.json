@@ -1,0 +1,11 @@
+{
+  "version": "1.1.2",
+  "files": 4988,
+  "json": 2444,
+  "png": 2070,
+  "development_mixin_checks": true,
+  "production_mixin_checks": true,
+  "in_game_tested": false,
+  "mod_sha256": "a6c30d174dbfdc591fe53b1d4a3bd2eb832cfaf70364bd4ec01b43e2adfb6579",
+  "pack_sha256": "2509aca46cb09120803212c6a47440261e0f50c939c21ca64ef24d5a025c4046"
+}

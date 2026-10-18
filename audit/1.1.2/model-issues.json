@@ -1,0 +1,16 @@
+[
+  {
+    "path": "assets/advanced_ae/models/item/quantum_infusion_bucket.json",
+    "pack_override": true,
+    "issues": [
+      "external_parent:assets/forge/models/item/bucket.json"
+    ]
+  },
+  {
+    "path": "assets/ae2/models/item/security_station.json",
+    "pack_override": true,
+    "issues": [
+      "missing_parent:assets/ae2/models/block/security_station_off.json"
+    ]
+  }
+]

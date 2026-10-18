@@ -47,9 +47,10 @@
   },
   "widgets": {
     "back": {
-      "left": 150,
-      "top": -4,
-      "hideEdge": true
+      "left": 152,
+      "top": -5,
+      "width": 20,
+      "height": 20
     }
   }
 }

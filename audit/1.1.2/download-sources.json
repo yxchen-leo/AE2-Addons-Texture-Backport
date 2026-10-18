@@ -1,0 +1,642 @@
+[
+  {
+    "namespace": "ae2",
+    "slug": "ae2",
+    "versions": {
+      "1.21.1": {
+        "version": "19.2.18",
+        "id": "KDnFUmMm",
+        "path": "C:\\Users\\cyx\\Documents\\ChatGPT\\Minecraft整合包\\research\\audit-1.1.2\\1.21.1\\appliedenergistics2-19.2.18.jar",
+        "url": "https://cdn.modrinth.com/data/XxWD5pD3/versions/KDnFUmMm/appliedenergistics2-19.2.18.jar",
+        "sha256": "df15a07f86ca1ca93aa66373f9d5d84dd3d4586631fceb38f4fbc85dad591e39"
+      },
+      "1.20.1": {
+        "version": "15.4.11",
+        "id": "jYgSnxye",
+        "path": "C:\\Users\\cyx\\Documents\\ChatGPT\\Minecraft整合包\\research\\audit-1.1.2\\1.20.1\\appliedenergistics2-forge-15.4.11.jar",
+        "url": "https://cdn.modrinth.com/data/XxWD5pD3/versions/jYgSnxye/appliedenergistics2-forge-15.4.11.jar",
+        "sha256": "f2ff9ee5122b037d4e93537425ab9fbe49860fc9c3977db13b20a50ca7d30f9e"
+      }
+    },
+    "project_id": "XxWD5pD3",
+    "title": "Applied Energistics 2",
+    "source_url": "https://github.com/AppliedEnergistics/Applied-Energistics-2"
+  },
+  {
+    "namespace": "advanced_ae",
+    "slug": "advancedae",
+    "versions": {
+      "1.21.1": {
+        "version": "1.6.12-1.21.1",
+        "id": "ablTMAjP",
+        "path": "C:\\Users\\cyx\\Documents\\ChatGPT\\Minecraft整合包\\research\\audit-1.1.2\\1.21.1\\AdvancedAE-1.6.12-1.21.1.jar",
+        "url": "https://cdn.modrinth.com/data/rxYaglEe/versions/ablTMAjP/AdvancedAE-1.6.12-1.21.1.jar",
+        "sha256": "a01d9718667ac13899013e91c5b0b7708b9b9db1da9b8e380772dde54bbe8f41"
+      },
+      "1.20.1": {
+        "version": "1.3.6-1.20.1",
+        "id": "d83Wdhdn",
+        "path": "C:\\Users\\cyx\\Documents\\ChatGPT\\Minecraft整合包\\research\\audit-1.1.2\\1.20.1\\AdvancedAE-1.3.6-1.20.1.jar",
+        "url": "https://cdn.modrinth.com/data/rxYaglEe/versions/d83Wdhdn/AdvancedAE-1.3.6-1.20.1.jar",
+        "sha256": "e216f95ac73eb4c1e8f3db22cc3d30f37f2612a7cb1762b9ebce148d0d5657b2"
+      }
+    },
+    "project_id": "rxYaglEe",
+    "title": "AdvancedAE",
+    "source_url": "https://github.com/pedroksl/AdvancedAE/tree/master"
+  },
+  {
+    "namespace": "megacells",
+    "slug": "mega",
+    "versions": {
+      "1.21.1": {
+        "version": "4.11.0",
+        "id": "RPG4EriK",
+        "path": "C:\\Users\\cyx\\Documents\\ChatGPT\\Minecraft整合包\\research\\audit-1.1.2\\1.21.1\\megacells-4.11.0.jar",
+        "url": "https://cdn.modrinth.com/data/jjuIRIVr/versions/RPG4EriK/megacells-4.11.0.jar",
+        "sha256": "4a89663cc913f5bc8fd00f1a7146a2ad4b45bb4dd8bca245a445a636044d4762"
+      },
+      "1.20.1": {
+        "version": "forge-2.4.6",
+        "id": "SH2D1n3s",
+        "path": "C:\\Users\\cyx\\Documents\\ChatGPT\\Minecraft整合包\\research\\audit-1.1.2\\1.20.1\\megacells-forge-2.4.6-1.20.1.jar",
+        "url": "https://cdn.modrinth.com/data/jjuIRIVr/versions/SH2D1n3s/megacells-forge-2.4.6-1.20.1.jar",
+        "sha256": "19f59cc793950a3fa80dc1b29ef3bdad587344cd5efe25c5e010f4db1ea4a79c"
+      }
+    },
+    "project_id": "jjuIRIVr",
+    "title": "MEGA Cells",
+    "source_url": "https://github.com/62832/MEGACells"
+  },
+  {
+    "namespace": "expatternprovider",
+    "slug": "extendedae",
+    "versions": {},
+    "search_candidates": [
+      {
+        "title": "ExtendedAE-Plus",
+        "slug": "extendedae-plus"
+      },
+      {
+        "title": "ExtendedAE backport for fabric",
+        "slug": "extendedae-backport-fabric"
+      },
+      {
+        "title": "Assembler Matrix Prioritization",
+        "slug": "assembler-matrix-prioritization"
+      }
+    ],
+    "error": "Exact slug unavailable; candidates need manual identification"
+  },
+  {
+    "namespace": "ae2cs",
+    "slug": "ae2-crystal-science",
+    "versions": {
+      "1.21.1": {
+        "version": "1.21.1-1.2.1",
+        "id": "taIhgdOA",
+        "path": "C:\\Users\\cyx\\Documents\\ChatGPT\\Minecraft整合包\\research\\audit-1.1.2\\1.21.1\\ae2cs-1.21.1-1.2.1.jar",
+        "url": "https://cdn.modrinth.com/data/uJ9afomy/versions/taIhgdOA/ae2cs-1.21.1-1.2.1.jar",
+        "sha256": "fb0d921c68d43e3ff76c9da16b6e3b8ba4944849064fd42aeb27e0f9ed099dde"
+      },
+      "1.20.1": {
+        "version": "1.20.1-1.2.0",
+        "id": "VGhHOKsP",
+        "path": "C:\\Users\\cyx\\Documents\\ChatGPT\\Minecraft整合包\\research\\audit-1.1.2\\1.20.1\\ae2cs-1.20.1-1.2.0.jar",
+        "url": "https://cdn.modrinth.com/data/uJ9afomy/versions/VGhHOKsP/ae2cs-1.20.1-1.2.0.jar",
+        "sha256": "956c77707d8ef745af31f6f0610812dfd2d5b5ca7569f8360b279a54024358ba"
+      }
+    },
+    "project_id": "uJ9afomy",
+    "title": "AE2 Crystal Science",
+    "source_url": "https://github.com/Frostbite-time/AE2-Crystal-Science"
+  },
+  {
+    "namespace": "ae2lt",
+    "slug": "ae2-lightning-tech",
+    "versions": {
+      "1.21.1": {
+        "version": "2.1.2-beta3",
+        "id": "AosdXlfS",
+        "path": "C:\\Users\\cyx\\Documents\\ChatGPT\\Minecraft整合包\\research\\audit-1.1.2\\1.21.1\\ae2lt-2.1.2-beta3.jar",
+        "url": "https://cdn.modrinth.com/data/ArHeh5Fz/versions/AosdXlfS/ae2lt-2.1.2-beta3.jar",
+        "sha256": "996eaa6a34f0976804a1249b65ad615454b08bb3016354085a49de692b77d8a8"
+      },
+      "1.20.1": {
+        "version": "2.1.2-beta2-forge.1.20.1",
+        "id": "eS1qyjYH",
+        "path": "C:\\Users\\cyx\\Documents\\ChatGPT\\Minecraft整合包\\research\\audit-1.1.2\\1.20.1\\ae2lt-forge-1.20.1-2.1.2-beta2.jar",
+        "url": "https://cdn.modrinth.com/data/ArHeh5Fz/versions/eS1qyjYH/ae2lt-forge-1.20.1-2.1.2-beta2.jar",
+        "sha256": "654e9e8eb13249588b82e9e667f7d4fd18e6eceb8bd2eab821d4a539442b0695"
+      }
+    },
+    "project_id": "ArHeh5Fz",
+    "title": "AE2 Lightning Tech",
+    "source_url": "https://github.com/MOAKIEE/AE2-Lightning-Tech"
+  },
+  {
+    "namespace": "ae2wtlib",
+    "slug": "applied-energistics-2-wireless-terminals",
+    "versions": {
+      "1.21.1": {
+        "version": "19.5.1",
+        "id": "CxSEpEnO",
+        "path": "C:\\Users\\cyx\\Documents\\ChatGPT\\Minecraft整合包\\research\\audit-1.1.2\\1.21.1\\ae2wtlib-19.5.1.jar",
+        "url": "https://cdn.modrinth.com/data/pNabrMMw/versions/CxSEpEnO/ae2wtlib-19.5.1.jar",
+        "sha256": "407e7300351353cb4cb7698286e180aef2bd6e7a97ec7efc6493f9daa4dbffe5"
+      },
+      "1.20.1": {
+        "version": "15.3.3-forge",
+        "id": "z8QXeyI0",
+        "path": "C:\\Users\\cyx\\Documents\\ChatGPT\\Minecraft整合包\\research\\audit-1.1.2\\1.20.1\\ae2wtlib-15.3.3-forge.jar",
+        "url": "https://cdn.modrinth.com/data/pNabrMMw/versions/z8QXeyI0/ae2wtlib-15.3.3-forge.jar",
+        "sha256": "39e5cede37d5c6a07592d6c1e83398791e037f3d434bc44f7460cd085a4de5f4"
+      }
+    },
+    "project_id": "pNabrMMw",
+    "title": "Applied Energistics 2 Wireless Terminals",
+    "source_url": "https://github.com/Mari023/AE2WirelessTerminalLibrary"
+  },
+  {
+    "namespace": "ae2_mega_things",
+    "slug": "ae2-mega-things",
+    "versions": {},
+    "search_candidates": [],
+    "error": "Exact slug unavailable; candidates need manual identification"
+  },
+  {
+    "namespace": "ae2_toggleable_view_cell",
+    "slug": "ae2-toggleable-view-cell",
+    "versions": {},
+    "search_candidates": [
+      {
+        "title": "AE2 Toggleable View Cell",
+        "slug": "ae2-toggleable-viewcell"
+      },
+      {
+        "title": "Neo AE2 Toogleable View Cell",
+        "slug": "neo-ae2-toogleable-view-cell"
+      }
+    ],
+    "error": "Exact slug unavailable; candidates need manual identification"
+  },
+  {
+    "namespace": "ae2additions",
+    "slug": "ae-additions",
+    "versions": {
+      "1.21.1": {
+        "version": "6.0.2",
+        "id": "gXxTjzyJ",
+        "path": "C:\\Users\\cyx\\Documents\\ChatGPT\\Minecraft整合包\\research\\audit-1.1.2\\1.21.1\\AEAdditions-1.21.1-6.0.2.jar",
+        "url": "https://cdn.modrinth.com/data/BaiPFaoT/versions/gXxTjzyJ/AEAdditions-1.21.1-6.0.2.jar",
+        "sha256": "3e9c0834e043fc0075a87a40013a11d8406581ef8c1564cc2e94a0ffb5792101"
+      },
+      "1.20.1": {
+        "version": "unspecified",
+        "id": "BlkC64Gz",
+        "path": "C:\\Users\\cyx\\Documents\\ChatGPT\\Minecraft整合包\\research\\audit-1.1.2\\1.20.1\\AEAdditions-1.20.1-5.1.1.jar",
+        "url": "https://cdn.modrinth.com/data/BaiPFaoT/versions/BlkC64Gz/AEAdditions-1.20.1-5.1.1.jar",
+        "sha256": "f2615ff8bc8adc1285410bf3851e1cc3a214088251b63dacaa87ada33196455c"
+      }
+    },
+    "project_id": "BaiPFaoT",
+    "title": "AE Additions",
+    "source_url": "https://github.com/the9grounds/AE-Additions"
+  },
+  {
+    "namespace": "ae2insertexportcard",
+    "slug": "ae2-import-export-card",
+    "versions": {
+      "1.21.1": {
+        "version": "1.21.1-1.9.1",
+        "id": "CuP91rXX",
+        "path": "C:\\Users\\cyx\\Documents\\ChatGPT\\Minecraft整合包\\research\\audit-1.1.2\\1.21.1\\ae2importexportcard-1.21.1-1.9.1.jar",
+        "url": "https://cdn.modrinth.com/data/qelfSMnn/versions/CuP91rXX/ae2importexportcard-1.21.1-1.9.1.jar",
+        "sha256": "d9fadd2008358e3cc12295648e39424968110a2d70fd429d2c4541064ad4f6f0"
+      },
+      "1.20.1": {
+        "version": "1.20.1-1.3.0",
+        "id": "v8c3El4q",
+        "path": "C:\\Users\\cyx\\Documents\\ChatGPT\\Minecraft整合包\\research\\audit-1.1.2\\1.20.1\\ae2insertexportcard-1.20.1-1.3.0.jar",
+        "url": "https://cdn.modrinth.com/data/qelfSMnn/versions/v8c3El4q/ae2insertexportcard-1.20.1-1.3.0.jar",
+        "sha256": "329dff2184edc476e7261b073f17239015636543a22c16df1161fafe547d6b1c"
+      }
+    },
+    "project_id": "qelfSMnn",
+    "title": "AE2 Import Export Card",
+    "source_url": "https://github.com/starforcraft/AE2-Insert-Export-Card"
+  },
+  {
+    "namespace": "ae2netanalyser",
+    "slug": "ae2-network-analyser",
+    "versions": {},
+    "search_candidates": [],
+    "error": "Exact slug unavailable; candidates need manual identification"
+  },
+  {
+    "namespace": "ae2things",
+    "slug": "ae2-things",
+    "versions": {},
+    "search_candidates": [
+      {
+        "title": "AE2 Things",
+        "slug": "ae2things"
+      },
+      {
+        "title": "ijo pona poki (AE2Things rewrite)",
+        "slug": "ijo-pona-poki"
+      },
+      {
+        "title": "Expanded AE",
+        "slug": "expanded-ae"
+      }
+    ],
+    "error": "Exact slug unavailable; candidates need manual identification"
+  },
+  {
+    "namespace": "aeinfinitybooster",
+    "slug": "aeinfinitybooster",
+    "versions": {
+      "1.21.1": {
+        "version": "1.21.1-1.0.0.58",
+        "id": "qpbQk2Iq",
+        "path": "C:\\Users\\cyx\\Documents\\ChatGPT\\Minecraft整合包\\research\\audit-1.1.2\\1.21.1\\aeinfinitybooster-neoforge-1.21.1-1.0.0.58.jar",
+        "url": "https://cdn.modrinth.com/data/VQhDBNs8/versions/qpbQk2Iq/aeinfinitybooster-neoforge-1.21.1-1.0.0.58.jar",
+        "sha256": "4b5140cd5ac4a7bc3cd99c339885614978bfa675eb320f4a4a39491e40af4bca"
+      },
+      "1.20.1": {
+        "version": "1.20.1-1.0.0+20",
+        "id": "cTJwfNfV",
+        "path": "C:\\Users\\cyx\\Documents\\ChatGPT\\Minecraft整合包\\research\\audit-1.1.2\\1.20.1\\AEInfinityBooster-1.20.1-1.0.0+20.jar",
+        "url": "https://cdn.modrinth.com/data/VQhDBNs8/versions/cTJwfNfV/AEInfinityBooster-1.20.1-1.0.0%2B20.jar",
+        "sha256": "d3bb341583ef1287ba28993c62b7ada6dbb07016d231f7cb5480844bc458ccf8"
+      }
+    },
+    "project_id": "VQhDBNs8",
+    "title": "AEInfinityBooster",
+    "source_url": "https://github.com/hexeption/aeinfinitybooster"
+  },
+  {
+    "namespace": "appbot",
+    "slug": "applied-botanics",
+    "versions": {
+      "1.21.1": {
+        "version": "1.6.0-alpha.3",
+        "id": "leZwUP1X",
+        "path": "C:\\Users\\cyx\\Documents\\ChatGPT\\Minecraft整合包\\research\\audit-1.1.2\\1.21.1\\appbot-1.6.0-alpha.3.jar",
+        "url": "https://cdn.modrinth.com/data/545hUrw9/versions/leZwUP1X/appbot-1.6.0-alpha.3.jar",
+        "sha256": "997a68cd404b6cd503d21b5147d8063a9375ac386203b594ec15d6e274b29b79"
+      },
+      "1.20.1": {
+        "version": "1.5.2-forge",
+        "id": "ByiqRpj3",
+        "path": "C:\\Users\\cyx\\Documents\\ChatGPT\\Minecraft整合包\\research\\audit-1.1.2\\1.20.1\\applied-botanics-forge-1.5.2.jar",
+        "url": "https://cdn.modrinth.com/data/545hUrw9/versions/ByiqRpj3/applied-botanics-forge-1.5.2.jar",
+        "sha256": "b6003288ca4e41e4def0390665167ece13aaf548bf6da8941084221d0cf8d5c2"
+      }
+    },
+    "project_id": "545hUrw9",
+    "title": "Applied Botanics",
+    "source_url": "https://github.com/ramidzkh/Applied-Botanics"
+  },
+  {
+    "namespace": "appelem",
+    "slug": "applied-elementistics",
+    "versions": {},
+    "search_candidates": [],
+    "error": "Exact slug unavailable; candidates need manual identification"
+  },
+  {
+    "namespace": "appflux",
+    "slug": "applied-flux",
+    "versions": {},
+    "search_candidates": [
+      {
+        "title": "Applied Flux",
+        "slug": "appflux"
+      },
+      {
+        "title": "XingLuo AE2 1.21 GUIExpansion",
+        "slug": "xingluo-ae2-1.21-guiexpansion"
+      }
+    ],
+    "error": "Exact slug unavailable; candidates need manual identification"
+  },
+  {
+    "namespace": "appliede",
+    "slug": "appliede",
+    "versions": {
+      "1.21.1": {
+        "version": "1.0.8-beta",
+        "id": "R5MXisky",
+        "path": "C:\\Users\\cyx\\Documents\\ChatGPT\\Minecraft整合包\\research\\audit-1.1.2\\1.21.1\\appliede-1.0.8-beta.jar",
+        "url": "https://cdn.modrinth.com/data/SyKS54UY/versions/R5MXisky/appliede-1.0.8-beta.jar",
+        "sha256": "3ce809267def0c3ad2539c34235922c1efefa67667515f81cc02afc87ff958f9"
+      },
+      "1.20.1": {
+        "version": "0.14.3",
+        "id": "aDzdbexR",
+        "path": "C:\\Users\\cyx\\Documents\\ChatGPT\\Minecraft整合包\\research\\audit-1.1.2\\1.20.1\\appliede-0.14.3.jar",
+        "url": "https://cdn.modrinth.com/data/SyKS54UY/versions/aDzdbexR/appliede-0.14.3.jar",
+        "sha256": "76a863b993a77c6939c34f78385b92cdb08312701220552c06865924aaf0021b"
+      }
+    },
+    "project_id": "SyKS54UY",
+    "title": "AppliedE",
+    "source_url": "https://github.com/62832/AppliedE"
+  },
+  {
+    "namespace": "appmek",
+    "slug": "applied-mekanistics",
+    "versions": {
+      "1.21.1": {
+        "version": "1.6.3",
+        "id": "TpUCzFaW",
+        "path": "C:\\Users\\cyx\\Documents\\ChatGPT\\Minecraft整合包\\research\\audit-1.1.2\\1.21.1\\Applied-Mekanistics-1.6.3.jar",
+        "url": "https://cdn.modrinth.com/data/IiATswDj/versions/TpUCzFaW/Applied-Mekanistics-1.6.3.jar",
+        "sha256": "8946fea39451dbce8e709dedbef40a52ba337bdf7a25ac0c4b503800b1bf0773"
+      },
+      "1.20.1": {
+        "version": "1.4.3",
+        "id": "9n9p68Qq",
+        "path": "C:\\Users\\cyx\\Documents\\ChatGPT\\Minecraft整合包\\research\\audit-1.1.2\\1.20.1\\Applied-Mekanistics-1.4.3.jar",
+        "url": "https://cdn.modrinth.com/data/IiATswDj/versions/9n9p68Qq/Applied-Mekanistics-1.4.3.jar",
+        "sha256": "e1aafd9c2ae1cab7bb6905ec61718aed41b9f07c05148c9a033e4bb886173d2c"
+      }
+    },
+    "project_id": "IiATswDj",
+    "title": "Applied Mekanistics",
+    "source_url": "https://github.com/AppliedEnergistics/Applied-Mekanistics"
+  },
+  {
+    "namespace": "arseng",
+    "slug": "ars-energistique",
+    "versions": {
+      "1.21.1": {
+        "version": "2.1.1-beta",
+        "id": "Bdb8HLZ0",
+        "path": "C:\\Users\\cyx\\Documents\\ChatGPT\\Minecraft整合包\\research\\audit-1.1.2\\1.21.1\\arseng-2.1.1-beta.jar",
+        "url": "https://cdn.modrinth.com/data/IJI3QuK8/versions/Bdb8HLZ0/arseng-2.1.1-beta.jar",
+        "sha256": "9e2b78101f08bf325589cb98ffba9d91171fdd76ba587d54bdef9d5de18080bc"
+      },
+      "1.20.1": {
+        "version": "1.2.0",
+        "id": "xpgyRm6m",
+        "path": "C:\\Users\\cyx\\Documents\\ChatGPT\\Minecraft整合包\\research\\audit-1.1.2\\1.20.1\\arseng-1.2.0.jar",
+        "url": "https://cdn.modrinth.com/data/IJI3QuK8/versions/xpgyRm6m/arseng-1.2.0.jar",
+        "sha256": "02850730d3535afeb19d94311c31693ee1986d07795934e4dc50282f7956e827"
+      }
+    },
+    "project_id": "IJI3QuK8",
+    "title": "Ars Énergistique",
+    "source_url": "https://github.com/62832/ArsEnergistique"
+  },
+  {
+    "namespace": "bigger_ae2",
+    "slug": "bigger-ae2",
+    "versions": {
+      "1.21.1": {
+        "version": "21.2.3",
+        "id": "RjWjkDsE",
+        "path": "C:\\Users\\cyx\\Documents\\ChatGPT\\Minecraft整合包\\research\\audit-1.1.2\\1.21.1\\bigger_ae2-1.21.1-21.2.3.jar",
+        "url": "https://cdn.modrinth.com/data/tHmKhHkk/versions/RjWjkDsE/bigger_ae2-1.21.1-21.2.3.jar",
+        "sha256": "a13b54ae6754f3a4441f01648a68f7b93af9b93cc664a737114decbf69fea14c"
+      },
+      "1.20.1": {
+        "version": "20.2.1",
+        "id": "KwLq5PZr",
+        "path": "C:\\Users\\cyx\\Documents\\ChatGPT\\Minecraft整合包\\research\\audit-1.1.2\\1.20.1\\bigger_ae2-1.20.1-20.2.1.jar",
+        "url": "https://cdn.modrinth.com/data/tHmKhHkk/versions/KwLq5PZr/bigger_ae2-1.20.1-20.2.1.jar",
+        "sha256": "e8f27203a0468b52840b83e854fdcad9cd8a8f8c18b07a2b7b5073511bb35fb2"
+      }
+    },
+    "project_id": "tHmKhHkk",
+    "title": "Bigger AE2",
+    "source_url": "https://github.com/GregTech-Exploring-Pioneer/BiggerAE2"
+  },
+  {
+    "namespace": "expandedae",
+    "slug": "expandedae",
+    "versions": {},
+    "search_candidates": [],
+    "error": "Exact slug unavailable; candidates need manual identification"
+  },
+  {
+    "namespace": "extendedae_plus",
+    "slug": "extendedae-plus",
+    "versions": {
+      "1.21.1": {
+        "version": "1.6.3",
+        "id": "AtuOmKkV",
+        "path": "C:\\Users\\cyx\\Documents\\ChatGPT\\Minecraft整合包\\research\\audit-1.1.2\\1.21.1\\extendedae_plus-1.6.3.jar",
+        "url": "https://cdn.modrinth.com/data/xr109llC/versions/AtuOmKkV/extendedae_plus-1.6.3.jar",
+        "sha256": "1d89b055a7de508ec8dd5595ead646f4734c8fc5f7d843d7606454088118b41a"
+      },
+      "1.20.1": {
+        "version": "1.6.3",
+        "id": "HNyEHPOp",
+        "path": "C:\\Users\\cyx\\Documents\\ChatGPT\\Minecraft整合包\\research\\audit-1.1.2\\1.20.1\\extendedae_plus-1.6.3.jar",
+        "url": "https://cdn.modrinth.com/data/xr109llC/versions/HNyEHPOp/extendedae_plus-1.6.3.jar",
+        "sha256": "d8634db4ca56fe725799084b3c2c67b17874db50377ea497670379221d374764"
+      }
+    },
+    "project_id": "xr109llC",
+    "title": "ExtendedAE-Plus",
+    "source_url": "https://github.com/GaLicn/ExtendedAE_Plus"
+  },
+  {
+    "namespace": "fulleng",
+    "slug": "fullblock-energistics",
+    "versions": {
+      "1.21.1": {
+        "version": "2.3.2",
+        "id": "P07H5h3F",
+        "path": "C:\\Users\\cyx\\Documents\\ChatGPT\\Minecraft整合包\\research\\audit-1.1.2\\1.21.1\\fulleng-2.3.2.jar",
+        "url": "https://cdn.modrinth.com/data/24BlI6Ao/versions/P07H5h3F/fulleng-2.3.2.jar",
+        "sha256": "6eeb005faae8622cff576e90e53f2099ec4cd9bda667e417cd24e1efb20ae401"
+      },
+      "1.20.1": {
+        "version": "forge-1.7.3-1.20.1",
+        "id": "GVhIUJHN",
+        "path": "C:\\Users\\cyx\\Documents\\ChatGPT\\Minecraft整合包\\research\\audit-1.1.2\\1.20.1\\fulleng-forge-1.7.3-1.20.1.jar",
+        "url": "https://cdn.modrinth.com/data/24BlI6Ao/versions/GVhIUJHN/fulleng-forge-1.7.3-1.20.1.jar",
+        "sha256": "2eea4456392ce44ee5f26c713fbfcd2cd02f714e977362fd3fc801c7aac55161"
+      }
+    },
+    "project_id": "24BlI6Ao",
+    "title": "Fullblock Energistics",
+    "source_url": "https://github.com/62832/Fullblock-Energistics"
+  },
+  {
+    "namespace": "gregiceng",
+    "slug": "gregic-energistics",
+    "versions": {},
+    "search_candidates": [],
+    "error": "Exact slug unavailable; candidates need manual identification"
+  },
+  {
+    "namespace": "infinitycells",
+    "slug": "infinity-cells",
+    "versions": {},
+    "search_candidates": [],
+    "error": "Exact slug unavailable; candidates need manual identification"
+  },
+  {
+    "namespace": "mae2",
+    "slug": "modern-ae2",
+    "versions": {},
+    "search_candidates": [
+      {
+        "title": "Modern AE2 Additions",
+        "slug": "modern-ae2-additions"
+      },
+      {
+        "title": "Better GregTech And Applied Energistics",
+        "slug": "better-gregtech-and-applied-energistics"
+      },
+      {
+        "title": "WindDog's Bridge Mod",
+        "slug": "winddog-bridge-mod"
+      }
+    ],
+    "error": "Exact slug unavailable; candidates need manual identification"
+  },
+  {
+    "namespace": "mae2a",
+    "slug": "modern-ae2-additions",
+    "versions": {
+      "1.21.1": {
+        "unavailable": true
+      },
+      "1.20.1": {
+        "version": "2.1.0",
+        "id": "xPhnDgoi",
+        "path": "C:\\Users\\cyx\\Documents\\ChatGPT\\Minecraft整合包\\research\\audit-1.1.2\\1.20.1\\mae2-2.1.0.jar",
+        "url": "https://cdn.modrinth.com/data/5G4fpXXj/versions/xPhnDgoi/mae2-2.1.0.jar",
+        "sha256": "b931dcaa01b9703320d1461cebb2a9dea5dbfc2105f7e202004616232528b8d4"
+      }
+    },
+    "project_id": "5G4fpXXj",
+    "title": "Modern AE2 Additions",
+    "source_url": "https://github.com/Monifactory/MAE2"
+  },
+  {
+    "namespace": "merequester",
+    "slug": "merequester",
+    "versions": {
+      "1.21.1": {
+        "version": "1.21.1-1.5.0+neoforge",
+        "id": "hLs5MFnR",
+        "path": "C:\\Users\\cyx\\Documents\\ChatGPT\\Minecraft整合包\\research\\audit-1.1.2\\1.21.1\\merequester-neoforge-1.21.1-1.5.0.jar",
+        "url": "https://cdn.modrinth.com/data/E6BFl96N/versions/hLs5MFnR/merequester-neoforge-1.21.1-1.5.0.jar",
+        "sha256": "8ac35e46e0a6102fd17eaa7aeda94eaf4755e448c703b6130f3ff1731bee03e5"
+      },
+      "1.20.1": {
+        "version": "1.20.1-1.2.1+forge",
+        "id": "69N8Y7WD",
+        "path": "C:\\Users\\cyx\\Documents\\ChatGPT\\Minecraft整合包\\research\\audit-1.1.2\\1.20.1\\merequester-forge-1.20.1-1.2.1.jar",
+        "url": "https://cdn.modrinth.com/data/E6BFl96N/versions/69N8Y7WD/merequester-forge-1.20.1-1.2.1.jar",
+        "sha256": "490de12be0237e5699aba8ae57d9c40a97ae7491d6ae33ecb1fc5d3b30f391ea"
+      }
+    },
+    "project_id": "E6BFl96N",
+    "title": "ME Requester",
+    "source_url": "https://github.com/AlmostReliable/merequester"
+  },
+  {
+    "namespace": "ae2_toggleable_view_cell",
+    "slug": "ae2-toggleable-viewcell",
+    "versions": {
+      "1.21.1": {
+        "version": "21.1-2.0.3",
+        "id": "UjfwnqKa",
+        "path": "C:\\Users\\cyx\\Documents\\ChatGPT\\Minecraft整合包\\research\\audit-1.1.2\\1.21.1\\AE2ToggleableViewCell-21.1-2.0.3.jar",
+        "url": "https://cdn.modrinth.com/data/7GNdjsfs/versions/UjfwnqKa/AE2ToggleableViewCell-21.1-2.0.3.jar",
+        "sha256": "b8375f9cd92d561f47caf9e3bce786900502e8e31b436d18e54e333dd7547fe6"
+      },
+      "1.20.1": {
+        "version": "1.1.0",
+        "id": "2BW3FlAG",
+        "path": "C:\\Users\\cyx\\Documents\\ChatGPT\\Minecraft整合包\\research\\audit-1.1.2\\1.20.1\\AE2ToggleableViewCell-1.20.1-1.1.0.jar",
+        "url": "https://cdn.modrinth.com/data/7GNdjsfs/versions/2BW3FlAG/AE2ToggleableViewCell-1.20.1-1.1.0.jar",
+        "sha256": "c08a7e4c180310a457b0b83b76863ad4017bd25b64dc07b9ad14d4293b97bb47"
+      }
+    },
+    "project_id": "7GNdjsfs",
+    "title": "AE2 Toggleable View Cell",
+    "source_url": "https://github.com/Lapis256/AE2ToggleableViewCell"
+  },
+  {
+    "namespace": "ae2things",
+    "slug": "ae2things",
+    "versions": {
+      "1.21.1": {
+        "unavailable": true
+      },
+      "1.20.1": {
+        "unavailable": true
+      }
+    },
+    "project_id": "veunMwU3",
+    "title": "AE2 Things",
+    "source_url": "https://github.com/ProjectET/AE2Things"
+  },
+  {
+    "namespace": "appflux",
+    "slug": "appflux",
+    "versions": {
+      "1.21.1": {
+        "version": "1.21-2.1.5-neoforge",
+        "id": "4x40hq9D",
+        "path": "C:\\Users\\cyx\\Documents\\ChatGPT\\Minecraft整合包\\research\\audit-1.1.2\\1.21.1\\AppliedFlux-1.21-2.1.5-neoforge.jar",
+        "url": "https://cdn.modrinth.com/data/oMgZ004U/versions/4x40hq9D/AppliedFlux-1.21-2.1.5-neoforge.jar",
+        "sha256": "57e6a2c0f38e660c9e8416f9081d8c515f5ad096d6793d7b7f039e8e210d245b"
+      },
+      "1.20.1": {
+        "version": "1.20-1.3.7-forge",
+        "id": "cAcdjzEn",
+        "path": "C:\\Users\\cyx\\Documents\\ChatGPT\\Minecraft整合包\\research\\audit-1.1.2\\1.20.1\\AppliedFlux-1.20-1.3.7-forge.jar",
+        "url": "https://cdn.modrinth.com/data/oMgZ004U/versions/cAcdjzEn/AppliedFlux-1.20-1.3.7-forge.jar",
+        "sha256": "7673b0e44ee5f247fe224c09b8178f500a01a96e7d07baa77a4a5a110462eaea"
+      }
+    },
+    "project_id": "oMgZ004U",
+    "title": "Applied Flux",
+    "source_url": "https://github.com/GlodBlock/ExtendedAE"
+  },
+  {
+    "namespace": "expandedae",
+    "slug": "expanded-ae",
+    "versions": {
+      "1.21.1": {
+        "version": "2.1.1",
+        "id": "Iw2gl7Lb",
+        "path": "C:\\Users\\cyx\\Documents\\ChatGPT\\Minecraft整合包\\research\\audit-1.1.2\\1.21.1\\expandedae-2.1.1.jar",
+        "url": "https://cdn.modrinth.com/data/ayN3DZKb/versions/Iw2gl7Lb/expandedae-2.1.1.jar",
+        "sha256": "f39c0eb9c6271f54a44ffee092a29520f53000d1005849e6afada3ad9dffba14"
+      },
+      "1.20.1": {
+        "version": "1.2.2",
+        "id": "KXyq9wjS",
+        "path": "C:\\Users\\cyx\\Documents\\ChatGPT\\Minecraft整合包\\research\\audit-1.1.2\\1.20.1\\expandedae-1.2.2.jar",
+        "url": "https://cdn.modrinth.com/data/ayN3DZKb/versions/KXyq9wjS/expandedae-1.2.2.jar",
+        "sha256": "536d5d48feec7ddce1a89f6de6e35eb822b3e19bbe374e63235574aabdf63a0c"
+      }
+    },
+    "project_id": "ayN3DZKb",
+    "title": "Expanded AE",
+    "source_url": "https://github.com/ko-lja/expandedae"
+  },
+  {
+    "file": "AE2MEGAThings-1.21.1-2.0.4.jar",
+    "page": "https://www.curseforge.com/minecraft/mc-mods/ae2-mega-things/files/6203833",
+    "url": "https://mediafilez.forgecdn.net/files/6203/833/AE2MEGAThings-1.21.1-2.0.4.jar",
+    "sha256": "97537207b4c68a417a15b5a029f82e55510e0fcaa22be3c97b199bf2c7c5f7b9"
+  },
+  {
+    "file": "AE2-Things-1.4.2-beta.jar",
+    "page": "https://www.curseforge.com/minecraft/mc-mods/ae2-things-forge/files/5637783",
+    "url": "https://mediafilez.forgecdn.net/files/5637/783/AE2-Things-1.4.2-beta.jar",
+    "sha256": "9725dd363cc874601737b417ddfe675e4a5ae4a6428bdeb67ac408f775eb4241"
+  }
+]

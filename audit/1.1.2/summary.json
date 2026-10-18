@@ -1,0 +1,293 @@
+{
+  "pack_files": 4988,
+  "asset_files": 4983,
+  "namespaces": {
+    "advanced_ae": {
+      "files": 232,
+      "json_equal": 78,
+      "different": 21,
+      "byte_equal": 109,
+      "png": 123,
+      "no_matching_path": 24,
+      "gui": 12
+    },
+    "ae2": {
+      "files": 1997,
+      "byte_equal": 1727,
+      "different": 186,
+      "no_matching_path": 63,
+      "png": 720,
+      "gui": 291,
+      "json_equal": 12,
+      "pixels_equal": 9
+    },
+    "ae2_mega_things": {
+      "files": 72,
+      "byte_equal": 67,
+      "no_matching_path": 5,
+      "png": 35
+    },
+    "ae2_toggleable_view_cell": {
+      "files": 7,
+      "byte_equal": 5,
+      "json_equal": 2,
+      "png": 2
+    },
+    "ae2additions": {
+      "files": 216,
+      "byte_equal": 195,
+      "different": 14,
+      "json_equal": 4,
+      "no_matching_path": 3,
+      "png": 98,
+      "gui": 14
+    },
+    "ae2cs": {
+      "files": 609,
+      "byte_equal": 567,
+      "png": 281,
+      "different": 41,
+      "gui": 28,
+      "pixels_equal": 1
+    },
+    "ae2insertexportcard": {
+      "files": 9,
+      "different": 2,
+      "json_equal": 1,
+      "no_matching_path": 2,
+      "byte_equal": 4,
+      "png": 6,
+      "gui": 4
+    },
+    "ae2lightuicompat": {
+      "files": 4,
+      "byte_equal": 3,
+      "png": 4,
+      "gui": 4,
+      "no_matching_path": 1
+    },
+    "ae2netanalyser": {
+      "files": 9,
+      "different": 5,
+      "byte_equal": 3,
+      "png": 5,
+      "json_equal": 1,
+      "gui": 1
+    },
+    "ae2things": {
+      "files": 20,
+      "byte_equal": 20,
+      "png": 7
+    },
+    "ae2wtlib": {
+      "files": 19,
+      "byte_equal": 15,
+      "different": 4,
+      "png": 5
+    },
+    "aeinfinitybooster": {
+      "files": 6,
+      "byte_equal": 6,
+      "png": 2
+    },
+    "appbot": {
+      "files": 50,
+      "byte_equal": 14,
+      "different": 4,
+      "no_matching_path": 32,
+      "png": 27
+    },
+    "appelem": {
+      "files": 16,
+      "no_reference": 16,
+      "png": 10
+    },
+    "appflux": {
+      "files": 129,
+      "different": 18,
+      "byte_equal": 44,
+      "png": 50,
+      "json_equal": 57,
+      "no_matching_path": 10
+    },
+    "appliede": {
+      "files": 47,
+      "byte_equal": 46,
+      "png": 20,
+      "different": 1
+    },
+    "appmek": {
+      "files": 38,
+      "byte_equal": 29,
+      "no_matching_path": 9,
+      "png": 17
+    },
+    "arseng": {
+      "files": 53,
+      "byte_equal": 37,
+      "no_matching_path": 15,
+      "different": 1,
+      "png": 20
+    },
+    "bigger_ae2": {
+      "files": 73,
+      "byte_equal": 35,
+      "different": 14,
+      "png": 33,
+      "no_matching_path": 24
+    },
+    "expandedae": {
+      "files": 216,
+      "byte_equal": 184,
+      "png": 96,
+      "different": 12,
+      "json_equal": 20,
+      "gui": 1
+    },
+    "expatternprovider": {
+      "files": 465,
+      "different": 234,
+      "byte_equal": 173,
+      "png": 194,
+      "no_matching_path": 49,
+      "pixels_equal": 5,
+      "json_equal": 4,
+      "gui": 2
+    },
+    "extendedae_plus": {
+      "files": 193,
+      "byte_equal": 161,
+      "different": 23,
+      "png": 83,
+      "json_equal": 7,
+      "no_matching_path": 2,
+      "gui": 5
+    },
+    "fulleng": {
+      "files": 5,
+      "no_matching_path": 4,
+      "png": 5,
+      "different": 1
+    },
+    "gregiceng": {
+      "files": 7,
+      "no_reference": 7,
+      "png": 7,
+      "gui": 7
+    },
+    "infinitycells": {
+      "files": 4,
+      "no_reference": 4,
+      "png": 2
+    },
+    "mae2": {
+      "files": 13,
+      "no_reference": 13,
+      "png": 13
+    },
+    "mae2a": {
+      "files": 30,
+      "no_reference": 30,
+      "png": 17,
+      "gui": 3
+    },
+    "megacells": {
+      "files": 414,
+      "byte_equal": 284,
+      "png": 169,
+      "different": 28,
+      "no_matching_path": 102
+    },
+    "merequester": {
+      "files": 29,
+      "byte_equal": 17,
+      "png": 18,
+      "different": 4,
+      "json_equal": 1,
+      "no_matching_path": 7,
+      "gui": 4
+    },
+    "minecraft": {
+      "files": 1,
+      "byte_equal": 1
+    }
+  },
+  "high_reference_namespaces": [
+    "advanced_ae",
+    "ae2",
+    "ae2_mega_things",
+    "ae2_toggleable_view_cell",
+    "ae2additions",
+    "ae2cs",
+    "ae2ct",
+    "ae2insertexportcard",
+    "ae2lt",
+    "ae2netanalyser",
+    "ae2things",
+    "ae2wtlib",
+    "aeinfinitybooster",
+    "appbot",
+    "appflux",
+    "appliede",
+    "appmek",
+    "arseng",
+    "bigger_ae2",
+    "expandedae",
+    "expatternprovider",
+    "extendedae_plus",
+    "fulleng",
+    "megacells",
+    "merequester",
+    "minecraft"
+  ],
+  "low_reference_namespaces": [
+    "advanced_ae",
+    "ae2",
+    "ae2_toggleable_view_cell",
+    "ae2additions",
+    "ae2cs",
+    "ae2ct",
+    "ae2insertexportcard",
+    "ae2lt",
+    "ae2wtlib",
+    "aeinfinitybooster",
+    "appbot",
+    "appflux",
+    "appliede",
+    "appmek",
+    "arseng",
+    "bigger_ae2",
+    "expandedae",
+    "expatternprovider",
+    "extendedae_plus",
+    "fulleng",
+    "mae2",
+    "megacells",
+    "merequester",
+    "minecraft"
+  ],
+  "no_high_reference": [
+    "appelem",
+    "gregiceng",
+    "infinitycells",
+    "mae2",
+    "mae2a"
+  ],
+  "validation_errors": [],
+  "invalid_resource_paths": [
+    "assets/ae2/models/block/inscriber - copy.json",
+    "assets/ae2additions/textures/item/item_storage_cell_1B.png",
+    "assets/ae2additions/textures/item/item_storage_cell_512M.png",
+    "assets/expatternprovider/textures/block/drive/infinity_cell (副本).png"
+  ],
+  "provenance_issues": [],
+  "models_checked": 2585,
+  "model_issue_count": 2,
+  "animations_checked": 204,
+  "animation_issues": [],
+  "reverse_counts": {
+    "changed_base_without_override": 297,
+    "unchanged_in_base": 1393,
+    "upstream_only_path": 827
+  }
+}

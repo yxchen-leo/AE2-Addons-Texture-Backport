@@ -78,3 +78,10 @@ v1.1.1 toolbar correction, 2026-10-18:
 - Adjusted crafting-status toolbar origin from -85 to -84 to account for
   the backported CPU selector texture transparent left column.
 - Companion 1.1.1 also fixes text colors/shadows and addon toolbar rendering.
+
+v1.1.2 navigation and resource audit, 2026-10-18:
+- Added a dedicated tab atlas copied without image changes from AE2 1.21.1
+  commit db17504a86128fdf3dae31f5fb7a112a646e0b93, assets/ae2/textures/guis/states.png.
+- Adjusted wireless trash/settings back-tab layouts to AE2WTLib 19.5.1.
+- Companion 1.1.2 supplies back/priority icons and modern tab rendering.
+- Resource inventory, reference hashes and remaining differences: audit/1.1.2 and docs/1.1.2-完整核对.md.
