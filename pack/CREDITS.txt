@@ -98,3 +98,7 @@ v1.2.1 resource compatibility, 2026-10-21:
 - Removed 603 imported GuideME files; installed mods provide their own version-appropriate guides.
 - Removed four ae2additions formed-model overrides that required unavailable custom loaders.
 - Existing texture and GUI assets are retained. Removed-file hashes: sources/v1.2.1/removed-files.json.
+
+v1.2.2 local fixes, 2026-10-21:
+- Dedicated output direction atlas from AE2 19.2.18, used at AE2AddonLib modern coordinates.
+- Two ExpandedAE 1.4.3 guide pages retained with recipe ID typo corrected; original authors retain rights.

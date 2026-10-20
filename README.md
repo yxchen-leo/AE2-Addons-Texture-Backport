@@ -1,6 +1,8 @@
 # AE2 & Addons Texture Backport
 
-AE2 及附属高版本材质移植，适用于 Minecraft 1.20.1。当前资源包版本：**1.2.1**。
+Release / 已发布：**1.2.2**，反应仓面配置按钮与 ExpandedAE 能源元件手册修复。见 [更新说明](docs/releases/1.2.2.md)。
+
+AE2 及附属高版本材质移植，适用于 Minecraft 1.20.1。当前资源包版本：**1.2.2**。
 
 本仓库保存已合并资源包的可编辑文件。GUI 主要来自 AE-Light-UI，量子计算机世界材质与效果结合 AE2LightMode，并针对部分高版本物品材质和模型进行修正。它不是所有高版本资源的逐字节完整移植；差异见核对报告。
 
@@ -10,7 +12,7 @@ AE2 及附属高版本材质移植，适用于 Minecraft 1.20.1。当前资源�
 
 下载本仓库 Release 附件 ZIP，放入游戏实例的 `resourcepacks` 文件夹并启用。停用之前的合并包及两个来源包，避免覆盖冲突。
 
-需要配套 **AE2 Light UI Compat 1.2.1**，同时替换模组 JAR 与资源包 ZIP。本次清理高版本手册和四个不兼容模型加载器覆盖；配套 JAR 处理 mekmm 可选工厂战利品表，详见 [中英文更新说明](docs/releases/1.2.1.md)。请从 [v1.2.1 Release](https://github.com/yxchen-leo/AE2-Addons-Texture-Backport/releases/tag/v1.2.1) 下载 ZIP。历史附属支持核对见 [1.1.2 报告](docs/1.1.2-完整核对.md)，本次资源核对见 `audit/1.2.1/validation.json`。
+需要配套 **AE2 Light UI Compat 1.2.2**，同时替换模组 JAR 与资源包 ZIP。本次清理高版本手册和四个不兼容模型加载器覆盖；配套 JAR 处理 mekmm 可选工厂战利品表，详见 [中英文更新说明](docs/releases/1.2.2.md)。请从 [v1.2.2 Release](https://github.com/yxchen-leo/AE2-Addons-Texture-Backport/releases/tag/v1.2.2) 下载 ZIP。历史附属支持核对见 [1.1.2 报告](docs/1.1.2-完整核对.md)，本次资源核对见 `audit/1.2.2/validation.json`。
 
 ## 文件说明
 

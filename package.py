@@ -4,7 +4,7 @@ import zipfile
 import hashlib
 
 ROOT = Path(__file__).resolve().parent
-NAME = "AE2-Addons-Texture-Backport-1.20.1-v1.2.1.zip"
+NAME = "AE2-Addons-Texture-Backport-1.20.1-v1.2.2.zip"
 
 def main():
     source = ROOT / "pack"

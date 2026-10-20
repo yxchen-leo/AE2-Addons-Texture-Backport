@@ -1,0 +1,14 @@
+{
+  "assets/ae2lightuicompat/textures/gui/output_direction_states.png": {
+    "source": "AE2 19.2.18 original atlas; AE2AddonLib modern output direction coordinates",
+    "sha256": "0996b0084c7bf37f65a97a745982ab681ebd86f142fade526f14c823c4727e55"
+  },
+  "assets/expandedae/ae2guide/exp_energy_cell.md": {
+    "source": "ExpandedAE 1.4.3 original guide; corrected recipe item ID and Chinese heading spacing",
+    "sha256": "7ddf695bfe94126ff1eb826ebbf3fa8a4d6dde72fcea06b40dffbd813180ccaa"
+  },
+  "assets/expandedae/ae2guide/_zh_cn/exp_energy_cell.md": {
+    "source": "ExpandedAE 1.4.3 original guide; corrected recipe item ID and Chinese heading spacing",
+    "sha256": "9a23e9a876c409afda833230820f222e702d972c9ef2b2802c8ea8e280cc7814"
+  }
+}
