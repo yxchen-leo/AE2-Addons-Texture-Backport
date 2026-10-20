@@ -93,3 +93,8 @@ v1.2.0 visual restoration, 2026-10-20:
 - Modern AdvancedAE states use a separate atlas with companion semantic coordinate mapping.
 - Crafting status footer/tab layout corrected; companion restores Applied Mekanistics 1.6.3 default portable-cell screen tint.
 - Per-file sources and SHA-256 values: sources/v1.2.0/manifest.json and file-provenance.json.
+
+v1.2.1 resource compatibility, 2026-10-21:
+- Removed 603 imported GuideME files; installed mods provide their own version-appropriate guides.
+- Removed four ae2additions formed-model overrides that required unavailable custom loaders.
+- Existing texture and GUI assets are retained. Removed-file hashes: sources/v1.2.1/removed-files.json.
