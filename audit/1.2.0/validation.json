@@ -1,0 +1,28 @@
+{
+  "version": "1.2.0",
+  "files": 5046,
+  "pngs_verified": 2094,
+  "json_metadata_parsed": 2478,
+  "advancedae_runtime_assets_byte_equal": 158,
+  "advancedae_runtime_exceptions": {
+    "states.png": "Legacy atlas retained; semantic icons use a separate byte-identical high-version atlas",
+    "camo_card": "New registered functionality in 1.21.1, not added to 1.20.1 by a visual resource pack"
+  },
+  "checks": [
+    "valid resource paths",
+    "provenance hashes",
+    "PNG decoding",
+    "JSON parsing",
+    "AdvancedAE runtime textures",
+    "armor layers",
+    "direction selection textures",
+    "footer alignment",
+    "encoder bounds",
+    "1.20.1 includes",
+    "JAR metadata",
+    "ZIP equality"
+  ],
+  "mod_sha256": "a1276d953c797b335977d9d71ea9211420cf5907f6ea1a0646efefb3aea2b21b",
+  "pack_sha256": "4d7177ac62b99f34382f78bebaaf0ce1012b6f47d17095ebcc8997bfc326c291",
+  "in_game_visual_verification": false
+}

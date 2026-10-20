@@ -1,6 +1,6 @@
 # AE2 & Addons Texture Backport
 
-AE2 及附属高版本材质移植，适用于 Minecraft 1.20.1。当前资源包版本：**1.1.3**。
+AE2 及附属高版本材质移植，适用于 Minecraft 1.20.1。当前资源包版本：**1.2.0**。
 
 本仓库保存已合并资源包的可编辑文件。GUI 主要来自 AE-Light-UI，量子计算机世界材质与效果结合 AE2LightMode，并针对部分高版本物品材质和模型进行修正。它不是所有高版本资源的逐字节完整移植；差异见核对报告。
 
@@ -10,7 +10,7 @@ AE2 及附属高版本材质移植，适用于 Minecraft 1.20.1。当前资源�
 
 下载本仓库 Release 附件 ZIP，放入游戏实例的 `resourcepacks` 文件夹并启用。停用之前的合并包及两个来源包，避免覆盖冲突。
 
-侧栏和按钮适配需要 **AE2 Light UI Compat 1.1.3**，升级时同时替换模组 JAR 与资源包 ZIP。新增动态侧栏底板、18×20 按钮背景和对应定位，本次修正返回箭头和无线终端返回按钮定位，完整资源清单与附属支持情况见 [1.1.2 核对报告](docs/1.1.2-完整核对.md)。1.1.3 ZIP 可从 [GitHub Release](https://github.com/yxchen-leo/AE2-Addons-Texture-Backport/releases/tag/v1.1.3) 下载，本地产物位于 `dist/`。
+需要配套 **AE2 Light UI Compat 1.2.0**，同时替换模组 JAR 与资源包 ZIP。本次恢复 AdvancedAE 高版本原始材质并修复合成状态页与便携元件染色，详见 [中英文更新说明](docs/releases/1.2.0.md)。请从 [v1.2.0 Release](https://github.com/yxchen-leo/AE2-Addons-Texture-Backport/releases/tag/v1.2.0) 下载 ZIP。历史附属支持核对见 [1.1.2 报告](docs/1.1.2-完整核对.md)，本次资源验证见 `audit/1.2.0/validation.json`。
 
 ## 文件说明
 

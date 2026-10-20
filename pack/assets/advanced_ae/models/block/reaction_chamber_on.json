@@ -9,8 +9,7 @@
     "4": "advanced_ae:block/reaction_chamber_details",
     "5": "advanced_ae:block/reaction_chamber_sides",
     "6": "advanced_ae:block/reaction_chamber_rod",
-    "particle": "advanced_ae:block/reaction_chamber_sides",
-    "missing": "advanced_ae:block/reaction_chamber_sides"
+    "particle": "advanced_ae:block/reaction_chamber_sides"
   },
   "elements": [
     {

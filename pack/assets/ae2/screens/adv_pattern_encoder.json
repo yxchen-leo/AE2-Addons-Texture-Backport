@@ -11,16 +11,7 @@
       },
       "position": {
         "left": 10,
-        "top": 4
-      }
-    },
-    "player_inventory_title": {
-      "text": {
-        "translate": "container.inventory"
-      },
-      "position": {
-        "left": 8,
-        "bottom": 94
+        "top": 5
       }
     }
   },
@@ -30,25 +21,25 @@
       0,
       0,
       176,
-      206
+      182
     ]
   },
   "slots": {
     "ENCODED_PATTERN": {
-      "right": 95,
-      "top": 11,
+      "left": 147,
+      "top": 17,
       "grid": "HORIZONTAL"
     },
     "MACHINE_OUTPUT": {
-      "right": 41,
-      "top": 11,
+      "left": 147,
+      "top": 64,
       "grid": "HORIZONTAL"
     }
   },
   "widgets": {
     "scrollbar": {
-      "left": 149,
-      "top": 35
+      "left": 10,
+      "top": 23
     }
   }
 }

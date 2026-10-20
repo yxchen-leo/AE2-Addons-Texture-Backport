@@ -85,3 +85,11 @@ v1.1.2 navigation and resource audit, 2026-10-18:
 - Adjusted wireless trash/settings back-tab layouts to AE2WTLib 19.5.1.
 - Companion 1.1.2 supplies back/priority icons and modern tab rendering.
 - Resource inventory, reference hashes and remaining differences: audit/1.1.2 and docs/1.1.2-完整核对.md.
+
+
+v1.2.0 visual restoration, 2026-10-20:
+- AdvancedAE textures and models restored from AdvancedAE 1.6.12 for Minecraft 1.21.1. Original authors retain their rights.
+- NeoForge loader/emissive model metadata converted to Forge; old screen includes retained for Minecraft 1.20.1.
+- Modern AdvancedAE states use a separate atlas with companion semantic coordinate mapping.
+- Crafting status footer/tab layout corrected; companion restores Applied Mekanistics 1.6.3 default portable-cell screen tint.
+- Per-file sources and SHA-256 values: sources/v1.2.0/manifest.json and file-provenance.json.

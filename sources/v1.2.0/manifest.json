@@ -1,0 +1,686 @@
+{
+  "reference": "AdvancedAE-1.6.12-1.21.1.jar",
+  "reference_sha256": "a01d9718667ac13899013e91c5b0b7708b9b9db1da9b8e380772dde54bbe8f41",
+  "files": {
+    "assets/advanced_ae/models/block/adv_pattern_provider.json": {
+      "source": "AdvancedAE 1.6.12; Forge loader/emissive metadata conversion only",
+      "sha256": "276aba607d8aa83d054dffd26df7bcaae27773883e3c6ff239e3d972233a7ba2"
+    },
+    "assets/advanced_ae/models/block/adv_pattern_provider_oriented.json": {
+      "source": "AdvancedAE 1.6.12; Forge loader/emissive metadata conversion only",
+      "sha256": "3982d09670e222722e62553a968783a16dd84331ce8bb6afc0906f052bea7d28"
+    },
+    "assets/advanced_ae/models/block/crafting/data_entangler.json": {
+      "source": "AdvancedAE 1.6.12; Forge loader/emissive metadata conversion only",
+      "sha256": "1e27954f31ccb2119841f517a0b2f9e02036a4a619cb5b69ee1a091f073e94f1"
+    },
+    "assets/advanced_ae/models/block/crafting/data_entangler_formed.json": {
+      "source": "AdvancedAE 1.6.12; Forge loader/emissive metadata conversion only",
+      "sha256": "ca3d163bab055381827226140568f3bef7eaac187cebd76878e0b63e9e442356"
+    },
+    "assets/advanced_ae/models/block/crafting/quantum_accelerator.json": {
+      "source": "AdvancedAE 1.6.12; Forge loader/emissive metadata conversion only",
+      "sha256": "8b9b7cffcfd1889e0a084c8e196e9b91807ea8f0abdb45940a1d6dc5d741d518"
+    },
+    "assets/advanced_ae/models/block/crafting/quantum_accelerator_formed.json": {
+      "source": "AdvancedAE 1.6.12; Forge loader/emissive metadata conversion only",
+      "sha256": "ca3d163bab055381827226140568f3bef7eaac187cebd76878e0b63e9e442356"
+    },
+    "assets/advanced_ae/models/block/crafting/quantum_multi_threader.json": {
+      "source": "AdvancedAE 1.6.12; Forge loader/emissive metadata conversion only",
+      "sha256": "b7d34a9bd409e47562b4f9100c94abfd98b11784d718865cb39347e0cb4f5b79"
+    },
+    "assets/advanced_ae/models/block/crafting/quantum_multi_threader_formed.json": {
+      "source": "AdvancedAE 1.6.12; Forge loader/emissive metadata conversion only",
+      "sha256": "ca3d163bab055381827226140568f3bef7eaac187cebd76878e0b63e9e442356"
+    },
+    "assets/advanced_ae/models/block/crafting/quantum_storage_128.json": {
+      "source": "AdvancedAE 1.6.12; Forge loader/emissive metadata conversion only",
+      "sha256": "5cbafec2f7d389055c4c85567dd4092b9b27b3f0b4c0da6f5c0f7edf18dc00ee"
+    },
+    "assets/advanced_ae/models/block/crafting/quantum_storage_128_formed.json": {
+      "source": "AdvancedAE 1.6.12; Forge loader/emissive metadata conversion only",
+      "sha256": "ca3d163bab055381827226140568f3bef7eaac187cebd76878e0b63e9e442356"
+    },
+    "assets/advanced_ae/models/block/crafting/quantum_storage_256.json": {
+      "source": "AdvancedAE 1.6.12; Forge loader/emissive metadata conversion only",
+      "sha256": "1087b8654d0041ef01380b488fdd49d01d1c09b77bc998e6e169a626e8047186"
+    },
+    "assets/advanced_ae/models/block/crafting/quantum_storage_256_formed.json": {
+      "source": "AdvancedAE 1.6.12; Forge loader/emissive metadata conversion only",
+      "sha256": "ca3d163bab055381827226140568f3bef7eaac187cebd76878e0b63e9e442356"
+    },
+    "assets/advanced_ae/models/block/crafting/quantum_structure_formed.json": {
+      "source": "AdvancedAE 1.6.12; Forge loader/emissive metadata conversion only",
+      "sha256": "ca3d163bab055381827226140568f3bef7eaac187cebd76878e0b63e9e442356"
+    },
+    "assets/advanced_ae/models/block/crafting/quantum_unit.json": {
+      "source": "AdvancedAE 1.6.12; Forge loader/emissive metadata conversion only",
+      "sha256": "63100b3c4b950a55614d27c283efc15366a6ce48b2f79f999edb0f22bcad09a9"
+    },
+    "assets/advanced_ae/models/block/crafting/quantum_unit_formed.json": {
+      "source": "AdvancedAE 1.6.12; Forge loader/emissive metadata conversion only",
+      "sha256": "ca3d163bab055381827226140568f3bef7eaac187cebd76878e0b63e9e442356"
+    },
+    "assets/advanced_ae/models/block/quantum_alloy_block.json": {
+      "source": "AdvancedAE 1.6.12; Forge loader/emissive metadata conversion only",
+      "sha256": "dd27645163e820751c3f7783094d03b1ee4bb5c4b5722f22d91886be2d07bf5c"
+    },
+    "assets/advanced_ae/models/block/quantum_alloy_slab.json": {
+      "source": "AdvancedAE 1.6.12; Forge loader/emissive metadata conversion only",
+      "sha256": "5e493be78cb46fd9d6e4ff054e1d264705e8ee334b4967b8db4e3db212a71b58"
+    },
+    "assets/advanced_ae/models/block/quantum_alloy_slab_top.json": {
+      "source": "AdvancedAE 1.6.12; Forge loader/emissive metadata conversion only",
+      "sha256": "bbe3a75ecc940b31a089cb4a8d40162486771f6c9dba2ef39abba2a4b99133e6"
+    },
+    "assets/advanced_ae/models/block/quantum_alloy_stairs.json": {
+      "source": "AdvancedAE 1.6.12; Forge loader/emissive metadata conversion only",
+      "sha256": "d9e25f04e9d20627fce2ec96b3bc81bb273a52e5bf4ae69d9ce69e90ed1c1086"
+    },
+    "assets/advanced_ae/models/block/quantum_alloy_stairs_inner.json": {
+      "source": "AdvancedAE 1.6.12; Forge loader/emissive metadata conversion only",
+      "sha256": "14e7f8451b54f257894f06611720069bb66d8471ee2d39f1176d79805a9667ed"
+    },
+    "assets/advanced_ae/models/block/quantum_alloy_stairs_outer.json": {
+      "source": "AdvancedAE 1.6.12; Forge loader/emissive metadata conversion only",
+      "sha256": "9d8676ea818e0da28d9428740c466d2fff5e795f187066be70176a494dc47b57"
+    },
+    "assets/advanced_ae/models/block/quantum_alloy_wall_post.json": {
+      "source": "AdvancedAE 1.6.12; Forge loader/emissive metadata conversion only",
+      "sha256": "2be2a14c8dc97f560231456174a448c40284ea538fcbfd9bdcc101b6f25aea57"
+    },
+    "assets/advanced_ae/models/block/quantum_alloy_wall_side.json": {
+      "source": "AdvancedAE 1.6.12; Forge loader/emissive metadata conversion only",
+      "sha256": "4cdfabf1c3762231df755d10dfad9733da4a1ed618385ca9c351d2d8fd84f024"
+    },
+    "assets/advanced_ae/models/block/quantum_alloy_wall_side_tall.json": {
+      "source": "AdvancedAE 1.6.12; Forge loader/emissive metadata conversion only",
+      "sha256": "e486eb77e9745642f573a3e76dec17df5dbed441ed780d02d3198977cc18c8b2"
+    },
+    "assets/advanced_ae/models/block/quantum_core.json": {
+      "source": "AdvancedAE 1.6.12; Forge loader/emissive metadata conversion only",
+      "sha256": "b6e22dd70ffe5bed3359c4d514ccad55c67d1dec9363cb869b70338333f15df7"
+    },
+    "assets/advanced_ae/models/block/quantum_core_formed.json": {
+      "source": "AdvancedAE 1.6.12; Forge loader/emissive metadata conversion only",
+      "sha256": "ca3d163bab055381827226140568f3bef7eaac187cebd76878e0b63e9e442356"
+    },
+    "assets/advanced_ae/models/block/quantum_core_formed_on.json": {
+      "source": "AdvancedAE 1.6.12; Forge loader/emissive metadata conversion only",
+      "sha256": "b187a453bee758fb6cd4cd84fbb6e2c8cfef694818d437ed49f1d90de7865b88"
+    },
+    "assets/advanced_ae/models/block/quantum_crafter.json": {
+      "source": "AdvancedAE 1.6.12; Forge loader/emissive metadata conversion only",
+      "sha256": "47a5ad998d8c96743f36a85f6b257f48b40ce714168800a89698fa7d3a80035e"
+    },
+    "assets/advanced_ae/models/block/quantum_crafter_on.json": {
+      "source": "AdvancedAE 1.6.12; Forge loader/emissive metadata conversion only",
+      "sha256": "7afabcb4c8aa40c8cbe9da42ec854eee8e2c6e6ac61d65364f6c3c2d2ea100bb"
+    },
+    "assets/advanced_ae/models/block/quantum_infusion_block.json": {
+      "source": "AdvancedAE 1.6.12; Forge loader/emissive metadata conversion only",
+      "sha256": "65eb9b1857c346651126fbdfa311ad78c21d966e02f1384cbfe855ada14ba36d"
+    },
+    "assets/advanced_ae/models/block/reaction_chamber.json": {
+      "source": "AdvancedAE 1.6.12; Forge loader/emissive metadata conversion only",
+      "sha256": "9ffcec44060eeb73df803909fc765a44197b0d9140a461b71b15e0e7f1ea7570"
+    },
+    "assets/advanced_ae/models/block/reaction_chamber_on.json": {
+      "source": "AdvancedAE 1.6.12; Forge loader/emissive metadata conversion only",
+      "sha256": "84875f7d9dbede2bc7fdcdcf0860a41e8c276fb00ee6818347c19066d90d1b67"
+    },
+    "assets/advanced_ae/models/block/small_adv_pattern_provider.json": {
+      "source": "AdvancedAE 1.6.12; Forge loader/emissive metadata conversion only",
+      "sha256": "b5ba3c733e6ab2277c36dcfcb66943d9e8b2e670e24e8b5026e087bd6a5957f1"
+    },
+    "assets/advanced_ae/models/block/small_adv_pattern_provider_oriented.json": {
+      "source": "AdvancedAE 1.6.12; Forge loader/emissive metadata conversion only",
+      "sha256": "495e577875f8e85e25fc6d8f2296df7e294f95f83008900aafa7768d5f6799a3"
+    },
+    "assets/advanced_ae/models/item/advanced_io_bus_part.json": {
+      "source": "AdvancedAE 1.6.12; Forge loader/emissive metadata conversion only",
+      "sha256": "a458a8961ef05e4d48f4f1770d5d59e3724ba02e3368cc561313155b0a5a826a"
+    },
+    "assets/advanced_ae/models/item/adv_pattern_encoder.json": {
+      "source": "AdvancedAE 1.6.12; Forge loader/emissive metadata conversion only",
+      "sha256": "210a7fccb4114ed50dc0d51ac22d3ec09e736b59ed62f097412865296f5f41e0"
+    },
+    "assets/advanced_ae/models/item/adv_pattern_provider.json": {
+      "source": "AdvancedAE 1.6.12; Forge loader/emissive metadata conversion only",
+      "sha256": "e21d09c899bf48de7eb34bda9a35b13a7f25815b12d4bff428a59170315b4ba6"
+    },
+    "assets/advanced_ae/models/item/adv_pattern_provider_capacity_upgrade.json": {
+      "source": "AdvancedAE 1.6.12; Forge loader/emissive metadata conversion only",
+      "sha256": "9aabfc11676be788fe98fe3d29105a72c1bb887591dbd95d3212d11566ac00c5"
+    },
+    "assets/advanced_ae/models/item/adv_pattern_provider_part.json": {
+      "source": "AdvancedAE 1.6.12; Forge loader/emissive metadata conversion only",
+      "sha256": "5fcbef7ff723e9ca3bb0091f2a8fc9b7a0155fc8c369f0d56bdb465f20845f04"
+    },
+    "assets/advanced_ae/models/item/adv_pattern_provider_upgrade.json": {
+      "source": "AdvancedAE 1.6.12; Forge loader/emissive metadata conversion only",
+      "sha256": "59975cd7fd4f36f4f1fe0edb4f05a69f8fddb3fda6f89731a27d03f57b7a0a09"
+    },
+    "assets/advanced_ae/models/item/adv_processing_pattern.json": {
+      "source": "AdvancedAE 1.6.12; Forge loader/emissive metadata conversion only",
+      "sha256": "927b37cb90285da80465bc609a9aa61db094de0e2a1a32520434da7130de2bfc"
+    },
+    "assets/advanced_ae/models/item/attack_speed_card.json": {
+      "source": "AdvancedAE 1.6.12; Forge loader/emissive metadata conversion only",
+      "sha256": "c735f153bdbd718766d70911d98eff0f47e0236b3872acddab7b66c41c5ccf64"
+    },
+    "assets/advanced_ae/models/item/auto_feeding_card.json": {
+      "source": "AdvancedAE 1.6.12; Forge loader/emissive metadata conversion only",
+      "sha256": "7da22f4407d3028c16595c780e820dac522b133b97773bb1033f42c8701fd7d6"
+    },
+    "assets/advanced_ae/models/item/auto_stock_card.json": {
+      "source": "AdvancedAE 1.6.12; Forge loader/emissive metadata conversion only",
+      "sha256": "4141437a1a8bf1e1dbfc7d4e1027629d88ab2cfc09ddb6eedb32d9d47e3f6cb6"
+    },
+    "assets/advanced_ae/models/item/data_entangler.json": {
+      "source": "AdvancedAE 1.6.12; Forge loader/emissive metadata conversion only",
+      "sha256": "74219e7c1b5dc9b6d75846f2d87a0d8d78564efb25d16bd45b5a0c23560a5ce7"
+    },
+    "assets/advanced_ae/models/item/evasion_card.json": {
+      "source": "AdvancedAE 1.6.12; Forge loader/emissive metadata conversion only",
+      "sha256": "15175af7997477348c3894744a800923816ac3a51549f6734e2ff1d94828597c"
+    },
+    "assets/advanced_ae/models/item/flight_card.json": {
+      "source": "AdvancedAE 1.6.12; Forge loader/emissive metadata conversion only",
+      "sha256": "4d633d9e892472763dfed0121fdd756c703eee452a5b5d2f78118e8e1127e101"
+    },
+    "assets/advanced_ae/models/item/flight_drift_card.json": {
+      "source": "AdvancedAE 1.6.12; Forge loader/emissive metadata conversion only",
+      "sha256": "a2dcf19ce39e069f05bb840e09272d34eb6dba6bac839ae779093e651cf71104"
+    },
+    "assets/advanced_ae/models/item/hp_buffer_card.json": {
+      "source": "AdvancedAE 1.6.12; Forge loader/emissive metadata conversion only",
+      "sha256": "7ea993d2afca37d401264fcb65cc33c70216369596e81c75566b7cbad9cec218"
+    },
+    "assets/advanced_ae/models/item/import_export_bus_part.json": {
+      "source": "AdvancedAE 1.6.12; Forge loader/emissive metadata conversion only",
+      "sha256": "02bf912b8a18b1d6fd1add4239573d0c24888c1abcb20c6ae80132a022e662d2"
+    },
+    "assets/advanced_ae/models/item/jump_height_card.json": {
+      "source": "AdvancedAE 1.6.12; Forge loader/emissive metadata conversion only",
+      "sha256": "e0253482b026d25264cb95a353b34063dc6f7288eee53a69c212b1cbe25f90a5"
+    },
+    "assets/advanced_ae/models/item/lava_immunity_card.json": {
+      "source": "AdvancedAE 1.6.12; Forge loader/emissive metadata conversion only",
+      "sha256": "bab0a42d85844c5552aa1c54cb2e55400cfc8850e91af134c34aa70c5a23386e"
+    },
+    "assets/advanced_ae/models/item/luck_card.json": {
+      "source": "AdvancedAE 1.6.12; Forge loader/emissive metadata conversion only",
+      "sha256": "92dd98bb6f52eb985f6b8af22f87fc896e3028b7365ddc1ef59919024c996ee3"
+    },
+    "assets/advanced_ae/models/item/magnet_card.json": {
+      "source": "AdvancedAE 1.6.12; Forge loader/emissive metadata conversion only",
+      "sha256": "7d67be3112a017e7a442d724c2328854328542cdbfea7712f2ada7660c257c4b"
+    },
+    "assets/advanced_ae/models/item/night_vision_card.json": {
+      "source": "AdvancedAE 1.6.12; Forge loader/emissive metadata conversion only",
+      "sha256": "f2c3e0e725911baef6e1d4c253d8f6955ffe7595fe5240a5ca8a4c0d14bc4396"
+    },
+    "assets/advanced_ae/models/item/pick_craft_card.json": {
+      "source": "AdvancedAE 1.6.12; Forge loader/emissive metadata conversion only",
+      "sha256": "222c5fcb76651f4f7f1db27a64271c10dc04855ebbeaa4b5d2be40e7e859e4d1"
+    },
+    "assets/advanced_ae/models/item/portable_workbench_card.json": {
+      "source": "AdvancedAE 1.6.12; Forge loader/emissive metadata conversion only",
+      "sha256": "2133faa55a97c250517eb5f157134b191d5de8a67ea9af5ebfa9c8f75707767f"
+    },
+    "assets/advanced_ae/models/item/printed_quantum_processor.json": {
+      "source": "AdvancedAE 1.6.12; Forge loader/emissive metadata conversion only",
+      "sha256": "531146a543f357e860120bb544eb45b6697a9100a1532d82056d96189a159062"
+    },
+    "assets/advanced_ae/models/item/quantum_accelerator.json": {
+      "source": "AdvancedAE 1.6.12; Forge loader/emissive metadata conversion only",
+      "sha256": "b5229015d47a3fbce8db4bb717326ecde12820917530ed0c495b8eb073e3ca0c"
+    },
+    "assets/advanced_ae/models/item/quantum_alloy.json": {
+      "source": "AdvancedAE 1.6.12; Forge loader/emissive metadata conversion only",
+      "sha256": "a39a4e3a1874351f1424fdd38d2bb43e4b2946fe1a5a496725cdada83dc3fce6"
+    },
+    "assets/advanced_ae/models/item/quantum_alloy_block.json": {
+      "source": "AdvancedAE 1.6.12; Forge loader/emissive metadata conversion only",
+      "sha256": "42dd54b6a817115057e6c63dfad3e845acb81da251aa0564b7f90298ee9934cb"
+    },
+    "assets/advanced_ae/models/item/quantum_alloy_plate.json": {
+      "source": "AdvancedAE 1.6.12; Forge loader/emissive metadata conversion only",
+      "sha256": "a3abf6f3b3e8bd7e4e33cfeeed9fac84ea2703dfde172f2023360a8bcb28abc6"
+    },
+    "assets/advanced_ae/models/item/quantum_alloy_slab.json": {
+      "source": "AdvancedAE 1.6.12; Forge loader/emissive metadata conversion only",
+      "sha256": "992963497232a1dc9bf0c37bc8ce946bb662b630b102762412ec3c3cf77e3850"
+    },
+    "assets/advanced_ae/models/item/quantum_alloy_stairs.json": {
+      "source": "AdvancedAE 1.6.12; Forge loader/emissive metadata conversion only",
+      "sha256": "24f8093fe355d9b3ab0517973649dc95af26d90e609ad4a3cf2fe2df2bc53832"
+    },
+    "assets/advanced_ae/models/item/quantum_alloy_wall.json": {
+      "source": "AdvancedAE 1.6.12; Forge loader/emissive metadata conversion only",
+      "sha256": "b761cd0e3f63f9c071649e5e62e89339e371b0848fa9f607c24e16d6b45a054a"
+    },
+    "assets/advanced_ae/models/item/quantum_boots.json": {
+      "source": "AdvancedAE 1.6.12; Forge loader/emissive metadata conversion only",
+      "sha256": "dd8318b9ffabd9ba73279670ba0faead1e81da552eb586fd64b21a784888b847"
+    },
+    "assets/advanced_ae/models/item/quantum_chestplate.json": {
+      "source": "AdvancedAE 1.6.12; Forge loader/emissive metadata conversion only",
+      "sha256": "d4c480082522734ac986599f0e2cc814e3933b56de9f4e12612d3da74eece2a4"
+    },
+    "assets/advanced_ae/models/item/quantum_core.json": {
+      "source": "AdvancedAE 1.6.12; Forge loader/emissive metadata conversion only",
+      "sha256": "4344a36c3e58906838d8263e5c7406015ae80356d46bf2cb144dfe99cd9f8727"
+    },
+    "assets/advanced_ae/models/item/quantum_crafter.json": {
+      "source": "AdvancedAE 1.6.12; Forge loader/emissive metadata conversion only",
+      "sha256": "16c4ee3e9959e1b8d9af28480b062d1aeace8796fbc3cdcf87e5fa24c68f0437"
+    },
+    "assets/advanced_ae/models/item/quantum_crafter_terminal.json": {
+      "source": "AdvancedAE 1.6.12; Forge loader/emissive metadata conversion only",
+      "sha256": "04ddbc2247a269168f116eab508c02d455d2de9c23fcf279409673854cc4b697"
+    },
+    "assets/advanced_ae/models/item/quantum_helmet.json": {
+      "source": "AdvancedAE 1.6.12; Forge loader/emissive metadata conversion only",
+      "sha256": "d05fea14323644a084e07c2e3e9fd1d63a2fbb4dfe6691c07427536535c41414"
+    },
+    "assets/advanced_ae/models/item/quantum_infused_dust.json": {
+      "source": "AdvancedAE 1.6.12; Forge loader/emissive metadata conversion only",
+      "sha256": "830facbcab41eee7b86d03a7d4a876c2655347634212112a1fa311f881b8f0a0"
+    },
+    "assets/advanced_ae/models/item/quantum_infusion_bucket.json": {
+      "source": "AdvancedAE 1.6.12; Forge loader/emissive metadata conversion only",
+      "sha256": "1b11df022966bffb4990bdd5834d0ba2abe56ddb7bca3fd9ce7e03da3559d344"
+    },
+    "assets/advanced_ae/models/item/quantum_leggings.json": {
+      "source": "AdvancedAE 1.6.12; Forge loader/emissive metadata conversion only",
+      "sha256": "cc42397f74e9f05dd4f44735ded9eed9fb0c13d46591f05aa630e3ac9ac0db6e"
+    },
+    "assets/advanced_ae/models/item/quantum_multi_threader.json": {
+      "source": "AdvancedAE 1.6.12; Forge loader/emissive metadata conversion only",
+      "sha256": "0a4bb998b06e5458f33e7697ceb9969b84911c1abd7e4e7fd24b012db8e2f19a"
+    },
+    "assets/advanced_ae/models/item/quantum_processor.json": {
+      "source": "AdvancedAE 1.6.12; Forge loader/emissive metadata conversion only",
+      "sha256": "646db223e57fc8cd7705fdc2cc30a9a0c1cc86dcfefbaad0a1a4ac38b7779721"
+    },
+    "assets/advanced_ae/models/item/quantum_processor_press.json": {
+      "source": "AdvancedAE 1.6.12; Forge loader/emissive metadata conversion only",
+      "sha256": "26cc50a1a5b6d57bb8ef1b17aef48d18f325c77bc08df0332d93b6e4dde5b61b"
+    },
+    "assets/advanced_ae/models/item/quantum_storage_128.json": {
+      "source": "AdvancedAE 1.6.12; Forge loader/emissive metadata conversion only",
+      "sha256": "5c040216d330e05969207340ccfe9de0e2e0152edf4ab215a53a3041497798c1"
+    },
+    "assets/advanced_ae/models/item/quantum_storage_256.json": {
+      "source": "AdvancedAE 1.6.12; Forge loader/emissive metadata conversion only",
+      "sha256": "476b084e922b4eca9732aab8f8751829e0047e1c07130b608ae29e30b11690dd"
+    },
+    "assets/advanced_ae/models/item/quantum_storage_component.json": {
+      "source": "AdvancedAE 1.6.12; Forge loader/emissive metadata conversion only",
+      "sha256": "55ce8c229d6166106beed14bfb14eba5b053ba20f55304af1d0c0f2369b43d22"
+    },
+    "assets/advanced_ae/models/item/quantum_structure.json": {
+      "source": "AdvancedAE 1.6.12; Forge loader/emissive metadata conversion only",
+      "sha256": "eb756d4f1bcf21ccb609d773cd5255447883843127c5001110e5d3ae8266a9ee"
+    },
+    "assets/advanced_ae/models/item/quantum_unit.json": {
+      "source": "AdvancedAE 1.6.12; Forge loader/emissive metadata conversion only",
+      "sha256": "365c95da34440625f211a9b6e85bbe3fe6cb5ffaf2abe3dad8d2c6d853586b7a"
+    },
+    "assets/advanced_ae/models/item/quantum_upgrade_base.json": {
+      "source": "AdvancedAE 1.6.12; Forge loader/emissive metadata conversion only",
+      "sha256": "00f63a94d872528ac1910b9398136e0fda7bfdb5f4e182a805a40a670e969fb7"
+    },
+    "assets/advanced_ae/models/item/reach_card.json": {
+      "source": "AdvancedAE 1.6.12; Forge loader/emissive metadata conversion only",
+      "sha256": "c10e97cc46e26163b1f28c80013b5beb9ae32b715c3d7787f394a50e0de14b91"
+    },
+    "assets/advanced_ae/models/item/reaction_chamber.json": {
+      "source": "AdvancedAE 1.6.12; Forge loader/emissive metadata conversion only",
+      "sha256": "0dd63757059af2a22db6adcddf16f95d3a0cd762a49a6ff43f444feafe80f9b3"
+    },
+    "assets/advanced_ae/models/item/recharging_card.json": {
+      "source": "AdvancedAE 1.6.12; Forge loader/emissive metadata conversion only",
+      "sha256": "2b72b9c6f002d23ba31d0009fea607646c0a48f66695e728b09a1b8d63fc3b20"
+    },
+    "assets/advanced_ae/models/item/regeneration_card.json": {
+      "source": "AdvancedAE 1.6.12; Forge loader/emissive metadata conversion only",
+      "sha256": "2a002b1861b90e11c0baa0a261d3a2ee24ccaa1f5d7b6efa5ea5746f37942e96"
+    },
+    "assets/advanced_ae/models/item/shattered_singularity.json": {
+      "source": "AdvancedAE 1.6.12; Forge loader/emissive metadata conversion only",
+      "sha256": "eca623d17ea11e2303d8378a188a9d5bf7854baf6b1915202b6497d5d94c8b47"
+    },
+    "assets/advanced_ae/models/item/small_adv_pattern_provider.json": {
+      "source": "AdvancedAE 1.6.12; Forge loader/emissive metadata conversion only",
+      "sha256": "90a743ccc41dcce40e9d9e90379a55e997ae1ac47045885df1e334e16470d6a3"
+    },
+    "assets/advanced_ae/models/item/small_adv_pattern_provider_part.json": {
+      "source": "AdvancedAE 1.6.12; Forge loader/emissive metadata conversion only",
+      "sha256": "81c9dac565d6413793852901e74334937169ca333a8488a2501f80a53e59c352"
+    },
+    "assets/advanced_ae/models/item/sprint_speed_card.json": {
+      "source": "AdvancedAE 1.6.12; Forge loader/emissive metadata conversion only",
+      "sha256": "737c564f3ed40912e4a8c3cd96de2689549ea43bf0c60bd6c0d259e8fe038c61"
+    },
+    "assets/advanced_ae/models/item/step_assist_card.json": {
+      "source": "AdvancedAE 1.6.12; Forge loader/emissive metadata conversion only",
+      "sha256": "532bf48044dd7f45fb5d21480ff49df2ad984d4a6ba149c788302aa3b997936f"
+    },
+    "assets/advanced_ae/models/item/stock_export_bus_part.json": {
+      "source": "AdvancedAE 1.6.12; Forge loader/emissive metadata conversion only",
+      "sha256": "637459241fa391c654cb927736e8eed6b48ab9043025195613f35d96f4135a72"
+    },
+    "assets/advanced_ae/models/item/strength_card.json": {
+      "source": "AdvancedAE 1.6.12; Forge loader/emissive metadata conversion only",
+      "sha256": "5b629ffa2e75efaa86e2f8e6841bebeb28dbc241796ee340722557df7ad58e2a"
+    },
+    "assets/advanced_ae/models/item/swim_speed_card.json": {
+      "source": "AdvancedAE 1.6.12; Forge loader/emissive metadata conversion only",
+      "sha256": "6d0151c991153a6e2b3509377208e07c559ac8579465f6f93f8cebfbd6333988"
+    },
+    "assets/advanced_ae/models/item/throughput_monitor.json": {
+      "source": "AdvancedAE 1.6.12; Forge loader/emissive metadata conversion only",
+      "sha256": "20a32b9d71a97cf7db85fad32408f2932894fc089c8c39e3aaeb97515581cc2c"
+    },
+    "assets/advanced_ae/models/item/throughput_monitor_configurator.json": {
+      "source": "AdvancedAE 1.6.12; Forge loader/emissive metadata conversion only",
+      "sha256": "692d9b40187094faadd575e6dc13313a4b2c45a65e73540e5364b20903fec8a9"
+    },
+    "assets/advanced_ae/models/item/walk_speed_card.json": {
+      "source": "AdvancedAE 1.6.12; Forge loader/emissive metadata conversion only",
+      "sha256": "75bab09c47e1bdb205eee2646306978e77742986f4c4ac4e3965caa5d739a0ff"
+    },
+    "assets/advanced_ae/models/item/water_breathing_card.json": {
+      "source": "AdvancedAE 1.6.12; Forge loader/emissive metadata conversion only",
+      "sha256": "3a2ba291e8e4fbc01042aaf93677b821348e573048628c626ba7e080a12d654e"
+    },
+    "assets/advanced_ae/models/item/wireless_quantum_crafter_terminal.json": {
+      "source": "AdvancedAE 1.6.12; Forge loader/emissive metadata conversion only",
+      "sha256": "2d9f91f8e50100eab75f3795a678602de8043db8c1ba081026dc3bedb065ca78"
+    },
+    "assets/advanced_ae/models/part/advanced_io_bus_part.json": {
+      "source": "AdvancedAE 1.6.12; Forge loader/emissive metadata conversion only",
+      "sha256": "d33ce4f25b3402fe2043f33a6c0e8a9b96a7dca708ae2ddd9ea67592296ae6fc"
+    },
+    "assets/advanced_ae/models/part/adv_pattern_provider_part.json": {
+      "source": "AdvancedAE 1.6.12; Forge loader/emissive metadata conversion only",
+      "sha256": "5dd470032958b89b66919d4be12bb32a882715644707fe02a3a5bac1d6faa1ca"
+    },
+    "assets/advanced_ae/models/part/import_export_bus_part.json": {
+      "source": "AdvancedAE 1.6.12; Forge loader/emissive metadata conversion only",
+      "sha256": "8f5d728516411fc2eea376984d48dd1538ecfbaca462ad01a0e76a56d77e5edc"
+    },
+    "assets/advanced_ae/models/part/quantum_crafter_terminal_off.json": {
+      "source": "AdvancedAE 1.6.12; Forge loader/emissive metadata conversion only",
+      "sha256": "b54892c8f8b6ccbd93fbc744aae955b206a642e9cff8550eeb693b0cc701ab1c"
+    },
+    "assets/advanced_ae/models/part/quantum_crafter_terminal_on.json": {
+      "source": "AdvancedAE 1.6.12; Forge loader/emissive metadata conversion only",
+      "sha256": "aaad5e2efd9e940e60574dc5c50100368ca406d03d844f357fd3210d778b60c4"
+    },
+    "assets/advanced_ae/models/part/small_adv_pattern_provider_part.json": {
+      "source": "AdvancedAE 1.6.12; Forge loader/emissive metadata conversion only",
+      "sha256": "998d2d1e66d38bc8474aa45971194b579cef7dbbebbfb3954e6e2c7bfa918191"
+    },
+    "assets/advanced_ae/models/part/stock_export_bus_part.json": {
+      "source": "AdvancedAE 1.6.12; Forge loader/emissive metadata conversion only",
+      "sha256": "458a88cda306db5954f6e3af3f63fa370b408980c60d438d9c3e33beed9453ef"
+    },
+    "assets/advanced_ae/models/part/throughput_monitor_down.json": {
+      "source": "AdvancedAE 1.6.12; Forge loader/emissive metadata conversion only",
+      "sha256": "bb5214e97a3115e691702db4a8fdcda3c425d4ddea60eaccdb56404cd2ad924c"
+    },
+    "assets/advanced_ae/models/part/throughput_monitor_up.json": {
+      "source": "AdvancedAE 1.6.12; Forge loader/emissive metadata conversion only",
+      "sha256": "52cb2b162917a648f39b4360df330479ae1064368e9553e8129f315e87ff26b9"
+    },
+    "assets/advanced_ae/textures/block/crafting/quantum_internal_formed_face.png": {
+      "source": "AdvancedAE 1.6.12 / MC1.21.1; byte-for-byte asset",
+      "sha256": "96763239b313efcd99b7926aa0117920094494c066ea6bcc95e120f2ea03997b"
+    },
+    "assets/advanced_ae/textures/block/crafting/quantum_internal_formed_sides.png": {
+      "source": "AdvancedAE 1.6.12 / MC1.21.1; byte-for-byte asset",
+      "sha256": "024b40dc6f90b4deeff21c540d116c7b919191bbfb62b02c17e9374d6f5fa520"
+    },
+    "assets/advanced_ae/textures/block/crafting/quantum_internal_powered_animation.png": {
+      "source": "AdvancedAE 1.6.12 / MC1.21.1; byte-for-byte asset",
+      "sha256": "6a558bb4b3a706cf08890aa4af665cc5a9b459c7e47af57bd61cab6c8e34d8bd"
+    },
+    "assets/advanced_ae/textures/block/crafting/quantum_internal_powered_animation.png.mcmeta": {
+      "source": "AdvancedAE 1.6.12 / MC1.21.1; byte-for-byte asset",
+      "sha256": "37ca1f757a42143edbc722b8933dc7ccb1b797ee3eaa4278783583d79858937d"
+    },
+    "assets/advanced_ae/textures/block/crafting/quantum_internal_powered_animation_tb.png": {
+      "source": "AdvancedAE 1.6.12 / MC1.21.1; byte-for-byte asset",
+      "sha256": "82cf5fd0f724726b7ba9f8d37fe05d4635062d5551de99ec39132f19c8f3f584"
+    },
+    "assets/advanced_ae/textures/block/crafting/quantum_internal_powered_animation_tb.png.mcmeta": {
+      "source": "AdvancedAE 1.6.12 / MC1.21.1; byte-for-byte asset",
+      "sha256": "e37e99f93b81a6aa098c49114094720756416de20c22deb2e66ba5439343c25d"
+    },
+    "assets/advanced_ae/textures/block/crafting/quantum_internal_powered_sides.png": {
+      "source": "AdvancedAE 1.6.12 / MC1.21.1; byte-for-byte asset",
+      "sha256": "0adab60e40227280a5a9fc4c18b6997fd0816a3e7c3e42c6089c9d8f4e51a56e"
+    },
+    "assets/advanced_ae/textures/block/crafting/quantum_internal_powered_sides.png.mcmeta": {
+      "source": "AdvancedAE 1.6.12 / MC1.21.1; byte-for-byte asset",
+      "sha256": "8571c1bd8bff24a125db213ee473d98d4f26ceb10b89c0862ef878edda3efd74"
+    },
+    "assets/advanced_ae/textures/block/crafting/quantum_structure.png": {
+      "source": "AdvancedAE 1.6.12 / MC1.21.1; byte-for-byte asset",
+      "sha256": "c3369134f933e1148e2038becb6160242721e198f66c3a77aaeb88964e74b5af"
+    },
+    "assets/advanced_ae/textures/block/crafting/quantum_structure_formed_face.png": {
+      "source": "AdvancedAE 1.6.12 / MC1.21.1; byte-for-byte asset",
+      "sha256": "cd4e2bb71fa8615d09176b4adf1cd5a8fe2e31675cbb1bed679b00892be5cc77"
+    },
+    "assets/advanced_ae/textures/block/crafting/quantum_structure_formed_sides.png": {
+      "source": "AdvancedAE 1.6.12 / MC1.21.1; byte-for-byte asset",
+      "sha256": "024b40dc6f90b4deeff21c540d116c7b919191bbfb62b02c17e9374d6f5fa520"
+    },
+    "assets/advanced_ae/textures/block/crafting/quantum_structure_powered_sides.png": {
+      "source": "AdvancedAE 1.6.12 / MC1.21.1; byte-for-byte asset",
+      "sha256": "2b267291578b226adf2dbf30eb4e79319f3321ee788abf34bdcb27df20ff7ec5"
+    },
+    "assets/advanced_ae/textures/block/crafting/quantum_structure_powered_sides.png.mcmeta": {
+      "source": "AdvancedAE 1.6.12 / MC1.21.1; byte-for-byte asset",
+      "sha256": "721b2d1068830c4a61dc3f7967ca5547c8f8c7411deef0fd7991e9961fd6e3d1"
+    },
+    "assets/advanced_ae/textures/block/crafting/quantum_structure_powered_sides_glowmask.png": {
+      "source": "AdvancedAE 1.6.12 / MC1.21.1; byte-for-byte asset",
+      "sha256": "1307cbab1202cd1838d1d2725a66ac81a839aaed52719d71ede6ff12a7337b73"
+    },
+    "assets/advanced_ae/textures/block/crafting/quantum_unit.png": {
+      "source": "AdvancedAE 1.6.12 / MC1.21.1; byte-for-byte asset",
+      "sha256": "86e17152710f97d582f5136bb0f9a4a92f02a5a4094558c7fd0adab9de107535"
+    },
+    "assets/advanced_ae/textures/guis/any_button_selected.png": {
+      "source": "AdvancedAE 1.6.12 / MC1.21.1; byte-for-byte asset",
+      "sha256": "8dcc220853c94295a6d740cede3b12c572f3aae0f36453d0fa52d3ce8b2b1a16"
+    },
+    "assets/advanced_ae/textures/guis/down_button_selected.png": {
+      "source": "AdvancedAE 1.6.12 / MC1.21.1; byte-for-byte asset",
+      "sha256": "10bee7fadb5afa59634d84f8dd30f8a9197f0d11ca7a290e2cfd005efde4f030"
+    },
+    "assets/advanced_ae/textures/guis/east_button_selected.png": {
+      "source": "AdvancedAE 1.6.12 / MC1.21.1; byte-for-byte asset",
+      "sha256": "35f88017176dea4cc5b7a28bb38c618035ff58c6d8b29ba0c55b427694605873"
+    },
+    "assets/advanced_ae/textures/guis/north_button_selected.png": {
+      "source": "AdvancedAE 1.6.12 / MC1.21.1; byte-for-byte asset",
+      "sha256": "03d3772c23afe600bf686b56ab99eec47ee723b1d9eba919fa8c895b402dee60"
+    },
+    "assets/advanced_ae/textures/guis/south_button_selected.png": {
+      "source": "AdvancedAE 1.6.12 / MC1.21.1; byte-for-byte asset",
+      "sha256": "7ddf7f876e1b1e2db36968cb149fbcc135157fdab1505f763e217b85ff2e2618"
+    },
+    "assets/advanced_ae/textures/guis/up_button_selected.png": {
+      "source": "AdvancedAE 1.6.12 / MC1.21.1; byte-for-byte asset",
+      "sha256": "fa3fd850582d16afda1e268e60f2b518944c932642c21d6a11d34ca28235467b"
+    },
+    "assets/advanced_ae/textures/guis/west_button_selected.png": {
+      "source": "AdvancedAE 1.6.12 / MC1.21.1; byte-for-byte asset",
+      "sha256": "5d4d41b803b1314771b0167544f88c8cc41491839f421346aa84feef5cbdca66"
+    },
+    "assets/advanced_ae/textures/item/adv_pattern_encoder_curio.png": {
+      "source": "AdvancedAE 1.6.12 / MC1.21.1; byte-for-byte asset",
+      "sha256": "59b5c2f3ec8d79bb22b227535989216c4447bdaad78dd799cb92599c2e13e4a7"
+    },
+    "assets/advanced_ae/textures/item/quantum_armor.png": {
+      "source": "AdvancedAE 1.6.12 / MC1.21.1; byte-for-byte asset",
+      "sha256": "add78db93581c4b6151da5f5c48b98d63900ff212ffd8422db09394b9ca93ed3"
+    },
+    "assets/advanced_ae/textures/item/quantum_armor_tint.png": {
+      "source": "AdvancedAE 1.6.12 / MC1.21.1; byte-for-byte asset",
+      "sha256": "9523a64d13015446d8ba74b6f1ac902c6745ec07fa03041310570abf64d2aff7"
+    },
+    "assets/advanced_ae/textures/item/quantum_armor_tint_glowmask.png": {
+      "source": "AdvancedAE 1.6.12 / MC1.21.1; byte-for-byte asset",
+      "sha256": "e3d94fd4130d9124d30bb0b06e815065017666aa9152d3da84a5d024c44144e8"
+    },
+    "assets/advanced_ae/textures/item/quantum_boots_base.png": {
+      "source": "AdvancedAE 1.6.12 / MC1.21.1; byte-for-byte asset",
+      "sha256": "038fcf8e0245887823cab6ca4306eb9a65a6a6784c789e5029a619d5bfa269c6"
+    },
+    "assets/advanced_ae/textures/item/quantum_boots_tint.png": {
+      "source": "AdvancedAE 1.6.12 / MC1.21.1; byte-for-byte asset",
+      "sha256": "9d9c774abf75599eb92fcb1387e5001a7d50c8f6735f4d2ddf439b298f471bbd"
+    },
+    "assets/advanced_ae/textures/item/quantum_chestplate_base.png": {
+      "source": "AdvancedAE 1.6.12 / MC1.21.1; byte-for-byte asset",
+      "sha256": "eaecf115efa2547a564e8104ea3b86998d8742820905ee890b73a48349b1273d"
+    },
+    "assets/advanced_ae/textures/item/quantum_chestplate_tint.png": {
+      "source": "AdvancedAE 1.6.12 / MC1.21.1; byte-for-byte asset",
+      "sha256": "56d9da9d60165c73fb702d838c0affc8f85f1caabd29080c708bb3fb811232b2"
+    },
+    "assets/advanced_ae/textures/item/quantum_helmet_base.png": {
+      "source": "AdvancedAE 1.6.12 / MC1.21.1; byte-for-byte asset",
+      "sha256": "00f90f460e74318e1aa63341a52889abecedc2cca6b547a54681e5d85b478b97"
+    },
+    "assets/advanced_ae/textures/item/quantum_helmet_tint.png": {
+      "source": "AdvancedAE 1.6.12 / MC1.21.1; byte-for-byte asset",
+      "sha256": "53c42e1e864c167a4689c560340096b65871bf7d7fb861c6a6de2283be0ab795"
+    },
+    "assets/advanced_ae/textures/item/quantum_leggings_base.png": {
+      "source": "AdvancedAE 1.6.12 / MC1.21.1; byte-for-byte asset",
+      "sha256": "e1b25104c0de4f2ead5630693d0ddafab56504b8c6c8a217383efc8c2a50e622"
+    },
+    "assets/advanced_ae/textures/item/quantum_leggings_tint.png": {
+      "source": "AdvancedAE 1.6.12 / MC1.21.1; byte-for-byte asset",
+      "sha256": "623a1296245cd6dd26e8a8be0b3c801a6dff66e03e04ad8a87ccf316b9edbc1e"
+    },
+    "assets/advanced_ae/textures/part/advanced_io_bus_back.png": {
+      "source": "AdvancedAE 1.6.12 / MC1.21.1; byte-for-byte asset",
+      "sha256": "49aade53c686eae6bf02bb8837b1cd79976b6ed9728e79b46e347332bb1ee3a8"
+    },
+    "assets/advanced_ae/textures/part/import_export_bus_back.png": {
+      "source": "AdvancedAE 1.6.12 / MC1.21.1; byte-for-byte asset",
+      "sha256": "49aade53c686eae6bf02bb8837b1cd79976b6ed9728e79b46e347332bb1ee3a8"
+    },
+    "assets/advanced_ae/textures/part/stock_export_bus_back.png": {
+      "source": "AdvancedAE 1.6.12 / MC1.21.1; byte-for-byte asset",
+      "sha256": "49aade53c686eae6bf02bb8837b1cd79976b6ed9728e79b46e347332bb1ee3a8"
+    },
+    "assets/ae2/screens/adv_pattern_encoder.json": {
+      "source": "AdvancedAE 1.6.12 visual layout; retained 1.20.1 toolbox/wireless includes",
+      "sha256": "01ab1e2b81fee741c2589495eacec7f85aa20809129effbc8af9340f8d4f0530"
+    },
+    "assets/ae2/screens/adv_pattern_provider.json": {
+      "source": "AdvancedAE 1.6.12 visual layout; retained 1.20.1 toolbox/wireless includes",
+      "sha256": "25151c7fc82a915498213d26c1b31d5ee374fe4e1a6c1e0fe2cedba02fc905ad"
+    },
+    "assets/ae2/screens/portable_workbench.json": {
+      "source": "AdvancedAE 1.6.12 visual layout; retained 1.20.1 toolbox/wireless includes",
+      "sha256": "b141cf6e9da7d98d7d75d2e0b5ffc84f57ed3278d443f6c5fd7e5e75929b3b9f"
+    },
+    "assets/ae2/screens/quantum_armor_config.json": {
+      "source": "AdvancedAE 1.6.12 visual layout; retained 1.20.1 toolbox/wireless includes",
+      "sha256": "283564ebf25d06430368ad5f67820c164d8a55bd1d4924e2c2ab46add34f8e81"
+    },
+    "assets/ae2/screens/quantum_armor_filter_config.json": {
+      "source": "AdvancedAE 1.6.12 visual layout; retained 1.20.1 toolbox/wireless includes",
+      "sha256": "e57aa46ef71b0356b769adf506034e05f6b814693530b4bf9abd5a7684158895"
+    },
+    "assets/ae2/screens/quantum_armor_magnet.json": {
+      "source": "AdvancedAE 1.6.12 visual layout; retained 1.20.1 toolbox/wireless includes",
+      "sha256": "6195fa5861cb574a6f2ebe318a64310b08090c2c2b2bb7c5d586029b54921890"
+    },
+    "assets/ae2/screens/quantum_armor_num_input_config.json": {
+      "source": "AdvancedAE 1.6.12 visual layout; retained 1.20.1 toolbox/wireless includes",
+      "sha256": "0b02f49ddf520edd0adfccd6edff03f35cae9cb37b721295ae89295aa085b505"
+    },
+    "assets/ae2/screens/quantum_armor_style.json": {
+      "source": "AdvancedAE 1.6.12 visual layout; retained 1.20.1 toolbox/wireless includes",
+      "sha256": "3def64cd4a02c5cb8f3ccefb7eaac5848dc74f0c4bc593e7d2f437b40afefb21"
+    },
+    "assets/ae2/screens/quantum_crafter_pattern_config.json": {
+      "source": "AdvancedAE 1.6.12 visual layout; retained 1.20.1 toolbox/wireless includes",
+      "sha256": "d37d28134f71aef7ae5dc8850ca194c37317bc8ca9ef6f20ddd9720d3b4bb83d"
+    },
+    "assets/ae2/screens/quantum_crafter_terminal.json": {
+      "source": "AdvancedAE 1.6.12 visual layout; retained 1.20.1 toolbox/wireless includes",
+      "sha256": "f066b51d060d9f173e0dfc81423c2acd5c8c821bab2351a1717e3892bc42a8e6"
+    },
+    "assets/ae2/screens/reaction_chamber.json": {
+      "source": "AdvancedAE 1.6.12 visual layout; retained 1.20.1 toolbox/wireless includes",
+      "sha256": "0fe44f2875e2f89ce9ce62f6a361dc9f7422bf9ae732e29991abffe490902728"
+    },
+    "assets/ae2/screens/small_adv_pattern_provider.json": {
+      "source": "AdvancedAE 1.6.12 visual layout; retained 1.20.1 toolbox/wireless includes",
+      "sha256": "c9bc55150cb552bb172be861f36e992fb2c10d0affef199696d5a44f80b67c32"
+    },
+    "assets/ae2/textures/guis/adv_pattern_encoder.png": {
+      "source": "AdvancedAE 1.6.12 GUI texture; paired with companion 1.2.0 layout hooks",
+      "sha256": "323d8b4f6c7e71e6823e21bbd3f6fdfea5915114884f6508248ab5a1729909b7"
+    },
+    "assets/ae2/textures/guis/adv_pattern_provider.png": {
+      "source": "AdvancedAE 1.6.12 GUI texture; paired with companion 1.2.0 layout hooks",
+      "sha256": "3f8d4d4f4360a7125f8d9ee7ffb1c9d07bf3d2ffe2406e110e5cb553f0258362"
+    },
+    "assets/ae2/textures/guis/quantum_armor_config.png": {
+      "source": "AdvancedAE 1.6.12 GUI texture; paired with companion 1.2.0 layout hooks",
+      "sha256": "656bcf7464c1d3ebd5230ed45c592c4689dccdbf126d6f9626d9c76690b3be6d"
+    },
+    "assets/ae2/textures/guis/quantum_armor_style_config.png": {
+      "source": "AdvancedAE 1.6.12 GUI texture; paired with companion 1.2.0 layout hooks",
+      "sha256": "8e48c41349c65230845b7d4996b50719124f6c99e4fd0d67fbb00419c6dfc72a"
+    },
+    "assets/ae2/textures/guis/quantum_crafter.png": {
+      "source": "AdvancedAE 1.6.12 GUI texture; paired with companion 1.2.0 layout hooks",
+      "sha256": "b35362fd07a3a532854d7d021fda542985cf3ca4b21c79eb89d337e0ce1d450f"
+    },
+    "assets/ae2/textures/guis/quantum_crafter_terminal.png": {
+      "source": "AdvancedAE 1.6.12 GUI texture; paired with companion 1.2.0 layout hooks",
+      "sha256": "cd2260b07d0169728bbd478945839f1519d3e942be707528a45cf373b007e322"
+    },
+    "assets/ae2lightuicompat/textures/gui/advanced_ae_states.png": {
+      "source": "AdvancedAE 1.6.12 states.png; dedicated atlas for semantic icon remapping",
+      "sha256": "06e75617443b99c5ce1c1f7810b4f9c516d376800d05a4bbd97db4d2e15bda87"
+    },
+    "assets/ae2lightuicompat/compat/advanced_ae_layout.json": {
+      "source": "Local 1.2.0 visual-compatibility feature marker",
+      "sha256": "40e44f618f21f1699c514c18b69c6622ca9f90a3eedffd1ea7dc96cac88ab2a6"
+    },
+    "assets/ae2lightuicompat/compat/portable_chemical_cells.json": {
+      "source": "Local 1.2.0 visual-compatibility feature marker",
+      "sha256": "51cfa0df164df41bfc5ccc1fd9be06558d779093741233820aff5dcab670c3a7"
+    },
+    "assets/ae2/screens/crafting_status.json": {
+      "source": "1.2.0: boxed back tab and explicit ExpandedAE cancel-all footer placement",
+      "sha256": "4caca6f50ba84249c34bca009fea154ca7dc7da98a31ece17b135869cd5488c5"
+    },
+    "assets/ae2/screens/crafting_cpu.json": {
+      "source": "1.2.0: align cancel button to bottom row and 8px right inset",
+      "sha256": "fd1ad73a77f312ba34093147ad326e643ce7be1b7cf950663f659624767f105c"
+    },
+    "CREDITS.txt": {
+      "source": "Merged original credits with v1.2.0 modification record",
+      "sha256": "25f8b363d3eb9507208d22ec376b37bf96eae0523566b89a6026c05510fb4585"
+    }
+  }
+}

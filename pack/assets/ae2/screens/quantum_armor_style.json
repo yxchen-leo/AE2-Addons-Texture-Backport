@@ -9,8 +9,8 @@
         "translate": "gui.advanced_ae.StyleConfig"
       },
       "position": {
-        "left": 10,
-        "top": 8
+        "left": 4,
+        "top": 4
       }
     }
   },
@@ -25,20 +25,20 @@
   },
   "slots": {
     "AAE_ARMOR": {
-      "left": 102,
+      "left": 103,
       "top": 24,
       "grid": "VERTICAL"
     }
   },
   "widgets": {
     "back": {
-      "left": 104,
-      "top": 0,
+      "left": 100,
+      "top": -5,
       "width": 20,
       "height": 20
     },
     "colorPicker": {
-      "left": 9,
+      "left": 8,
       "top": 24,
       "width": 85,
       "height": 60

@@ -58,11 +58,11 @@
   "widgets": {
     "clearFluid": {
       "left": 28,
-      "top": 72
+      "top": 73
     },
     "clearFluidOut": {
       "left": 140,
-      "top": 72
+      "top": 73
     },
     "progressBar": {
       "left": 140,

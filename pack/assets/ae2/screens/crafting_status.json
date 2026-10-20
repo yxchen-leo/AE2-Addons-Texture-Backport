@@ -1,11 +1,15 @@
 {
   "$schema": "schema.json",
-  "includes": ["crafting_cpu.json"],
+  "includes": [
+    "crafting_cpu.json"
+  ],
   "widgets": {
     "back": {
       "left": 214,
       "top": -5,
-      "hideEdge": true
+      "hideEdge": false,
+      "width": 20,
+      "height": 20
     },
     "selectCpuList": {
       "$comment": "List of available crafting CPU and their status",
@@ -33,6 +37,12 @@
       "bottom": 20,
       "width": 60,
       "height": 16
+    },
+    "cancelAll": {
+      "left": -80,
+      "bottom": 26,
+      "width": 69,
+      "height": 20
     }
   },
   "text": {
@@ -51,19 +61,34 @@
       "texture": "guis/cpu_selector.png",
       "textureWidth": 256,
       "textureHeight": 256,
-      "srcRect": [0, 0, 94, 185]
+      "srcRect": [
+        0,
+        0,
+        94,
+        185
+      ]
     },
     "cpuListButton": {
       "texture": "guis/cpu_selector.png",
       "textureWidth": 256,
       "textureHeight": 256,
-      "srcRect": [100, 0, 67, 22]
+      "srcRect": [
+        100,
+        0,
+        67,
+        22
+      ]
     },
     "cpuListButtonSelected": {
       "texture": "guis/cpu_selector.png",
       "textureWidth": 256,
       "textureHeight": 256,
-      "srcRect": [100, 22, 67, 22]
+      "srcRect": [
+        100,
+        22,
+        67,
+        22
+      ]
     }
   }
 }
