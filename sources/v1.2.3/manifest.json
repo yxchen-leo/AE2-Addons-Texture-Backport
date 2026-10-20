@@ -1,0 +1,10 @@
+{
+  "assets/ae2/screens/overloaded_pattern_provider.json": {
+    "source": "AE2LT 2.1.2-beta3 for 1.21.1; dedicated texture path to avoid ExtendedAE collision",
+    "sha256": "e891b31aba52c0e67a9b1f00d2659496ac36db88204bf3f07111837575030c55"
+  },
+  "assets/ae2lightuicompat/textures/gui/lightning_pattern_provider.png": {
+    "source": "AE2LT 2.1.2-beta3 for 1.21.1 original GUI texture",
+    "sha256": "3f8d4d4f4360a7125f8d9ee7ffb1c9d07bf3d2ffe2406e110e5cb553f0258362"
+  }
+}

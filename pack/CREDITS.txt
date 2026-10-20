@@ -102,3 +102,6 @@ v1.2.1 resource compatibility, 2026-10-21:
 v1.2.2 local fixes, 2026-10-21:
 - Dedicated output direction atlas from AE2 19.2.18, used at AE2AddonLib modern coordinates.
 - Two ExpandedAE 1.4.3 guide pages retained with recipe ID typo corrected; original authors retain rights.
+
+v1.2.3 local provider GUI correction:
+- AE2LT 2.1.2-beta3 (1.21.1) provider layout and original background, isolated from ExtendedAE texture overrides. Original authors retain all applicable rights.
