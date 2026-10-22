@@ -105,3 +105,6 @@ v1.2.2 local fixes, 2026-10-21:
 
 v1.2.3 local provider GUI correction:
 - AE2LT 2.1.2-beta3 (1.21.1) provider layout and original background, isolated from ExtendedAE texture overrides. Original authors retain all applicable rights.
+
+v1.2.4 checkbox compatibility:
+- Dedicated checkbox atlas from Applied Energistics 2 19.2.18 (Minecraft 1.21.1). Original authors retain applicable rights.

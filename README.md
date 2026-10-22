@@ -1,6 +1,6 @@
 # AE2 & Addons Texture Backport
 
-Release **1.2.3**: Lightning Tech pattern provider GUI fixes. See the [release notes](docs/releases/1.2.3.md).
+Release **1.2.4**: settings toggle fixes and companion icon. See the [release notes](docs/releases/1.2.4.md).
 
 **English** | [简体中文](README.zh-CN.md)
 
@@ -10,8 +10,8 @@ This repository contains the editable merged resource pack. Interfaces mainly co
 
 ## Installation
 
-1. Download the ZIP from [v1.2.3](https://github.com/yxchen-leo/AE2-Addons-Texture-Backport/releases/tag/v1.2.3), place it in `resourcepacks` and enable it.
-2. Install **AE2 Light UI Compat 1.2.3** in `mods`.
+1. Download the ZIP from [v1.2.4](https://github.com/yxchen-leo/AE2-Addons-Texture-Backport/releases/tag/v1.2.4), place it in `resourcepacks` and enable it.
+2. Install **AE2 Light UI Compat 1.2.4** in `mods`.
 3. Remove the previous JAR, disable older merged packs and both source packs, and restart the client.
 
 Since v1.2.1, installed mods supply their own GuideME pages. v1.2.2 adds only two targeted ExpandedAE page corrections. The optional mekmm loot fix is in the companion JAR; this ZIP alone does not change server loot. Single-player uses the client installation. Install the JAR on dedicated servers to enable that loot fix there.
