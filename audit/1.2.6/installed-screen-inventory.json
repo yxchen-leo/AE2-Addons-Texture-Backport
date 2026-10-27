@@ -1,0 +1,354 @@
+{
+  "scope": "Installed AE2/addon screen JSON inventory; static resource audit, not in-game acceptance",
+  "mods": [
+    {
+      "mod": "AdvancedAE-1.3.6-1.20.1.jar",
+      "screen_count": 18,
+      "overridden_screens": [
+        "assets/ae2/screens/adv_pattern_encoder.json",
+        "assets/ae2/screens/adv_pattern_provider.json",
+        "assets/ae2/screens/advanced_io_bus.json",
+        "assets/ae2/screens/import_export_bus.json",
+        "assets/ae2/screens/portable_workbench.json",
+        "assets/ae2/screens/quantum_armor_config.json",
+        "assets/ae2/screens/quantum_armor_filter_config.json",
+        "assets/ae2/screens/quantum_armor_magnet.json",
+        "assets/ae2/screens/quantum_armor_num_input_config.json",
+        "assets/ae2/screens/quantum_armor_style.json",
+        "assets/ae2/screens/quantum_computer.json",
+        "assets/ae2/screens/quantum_crafter.json",
+        "assets/ae2/screens/quantum_crafter_pattern_config.json",
+        "assets/ae2/screens/quantum_crafter_terminal.json",
+        "assets/ae2/screens/reaction_chamber.json",
+        "assets/ae2/screens/small_adv_pattern_provider.json",
+        "assets/ae2/screens/stock_export_bus.json",
+        "assets/ae2/screens/wireless_quantum_crafter_terminal.json"
+      ],
+      "unmodified_screens": []
+    },
+    {
+      "mod": "ae2cs-1.20.1-1.2.0.jar",
+      "screen_count": 28,
+      "overridden_screens": [
+        "assets/ae2/screens/aecs_util/back_button.json",
+        "assets/ae2/screens/band_white_list_manager_menu.json",
+        "assets/ae2/screens/circuit_etcher_menu.json",
+        "assets/ae2/screens/crystal_aggregator_menu.json",
+        "assets/ae2/screens/crystal_growth_chamber_menu.json",
+        "assets/ae2/screens/crystal_pulverizer_menu.json",
+        "assets/ae2/screens/crystal_vibration_chamber_menu.json",
+        "assets/ae2/screens/ender_broadcaster_menu.json",
+        "assets/ae2/screens/ender_emitter_menu.json",
+        "assets/ae2/screens/ender_interface_menu.json",
+        "assets/ae2/screens/entropy_variation_reaction_chamber_menu.json",
+        "assets/ae2/screens/extended_ender_interface_menu.json",
+        "assets/ae2/screens/extended_integrated_interface_menu.json",
+        "assets/ae2/screens/extended_resonating_pattern_provider_menu.json",
+        "assets/ae2/screens/frequency_band_create_menu.json",
+        "assets/ae2/screens/frequency_band_link_menu.json",
+        "assets/ae2/screens/frequency_band_manager_menu.json",
+        "assets/ae2/screens/frequency_band_menu.json",
+        "assets/ae2/screens/integrated_interface_menu.json",
+        "assets/ae2/screens/meteorite_pattern_provider_menu.json",
+        "assets/ae2/screens/quartz_grindstone_menu.json",
+        "assets/ae2/screens/quartz_oscillator_clock_menu.json",
+        "assets/ae2/screens/resonating_pattern_converter_menu.json",
+        "assets/ae2/screens/resonating_pattern_provider_menu.json",
+        "assets/ae2/screens/side_config_menu.json",
+        "assets/ae2/screens/simple_pattern_provider_menu.json"
+      ],
+      "unmodified_screens": [
+        "assets/ae2/screens/aecs_util/aecs_player_inventory.json",
+        "assets/ae2/screens/ender_emitter_frequency_band_link_menu.json"
+      ]
+    },
+    {
+      "mod": "ae2ct-1.20.1-1.1.1.jar",
+      "screen_count": 4,
+      "overridden_screens": [],
+      "unmodified_screens": [
+        "assets/ae2/screens/common.json",
+        "assets/ae2/screens/crafting_tree.json",
+        "assets/ae2/screens/crafting_tree_setting.json",
+        "assets/ae2/screens/palette.json"
+      ]
+    },
+    {
+      "mod": "ae2lab-0.1.0.jar",
+      "screen_count": 1,
+      "overridden_screens": [],
+      "unmodified_screens": [
+        "assets/ae2/screens/ae2lab_crystal_assembler.json"
+      ]
+    },
+    {
+      "mod": "ae2lt-forge-1.20.1-2.1.2-beta2.jar",
+      "screen_count": 38,
+      "overridden_screens": [
+        "assets/ae2/screens/ae2lt_craft_confirm.json",
+        "assets/ae2/screens/atmospheric_ionizer.json",
+        "assets/ae2/screens/crystal_catalyzer.json",
+        "assets/ae2/screens/crystal_catalyzer_output_config.json",
+        "assets/ae2/screens/lightning_assembly_chamber.json",
+        "assets/ae2/screens/lightning_assembly_output_config.json",
+        "assets/ae2/screens/lightning_collector.json",
+        "assets/ae2/screens/lightning_simulation_output_config.json",
+        "assets/ae2/screens/lightning_simulation_room.json",
+        "assets/ae2/screens/overload_processing_output_config.json",
+        "assets/ae2/screens/overloaded_interface.json",
+        "assets/ae2/screens/overloaded_io_port.json",
+        "assets/ae2/screens/overloaded_pattern_provider.json",
+        "assets/ae2/screens/pigmee_molecular_assembler.json",
+        "assets/ae2/screens/pigmee_synthesis_station.json",
+        "assets/ae2/screens/tesla_coil.json",
+        "assets/ae2/screens/tianshu_seed_storage.json"
+      ],
+      "unmodified_screens": [
+        "assets/ae2/screens/common/legacy_player_inventory.json",
+        "assets/ae2/screens/mining_factory.json",
+        "assets/ae2/screens/overload_processing_factory.json",
+        "assets/ae2/screens/overloaded_pattern_provider_advanced.json",
+        "assets/ae2/screens/overloaded_power_supply.json",
+        "assets/ae2/screens/pigmee_pattern_provider.json",
+        "assets/ae2/screens/terminals/tianshu_pattern_encoding_terminal.json",
+        "assets/ae2/screens/terminals/tianshu_terminal_entry.json",
+        "assets/ae2/screens/terminals/tianshu_work_pages.json",
+        "assets/ae2/screens/tianshu_advanced_pattern_config.json",
+        "assets/ae2/screens/tianshu_closed_loop_pattern_config.json",
+        "assets/ae2/screens/tianshu_inventory_overview.json",
+        "assets/ae2/screens/tianshu_maintenance_rule.json",
+        "assets/ae2/screens/tianshu_overload_pattern_config.json",
+        "assets/ae2/screens/tianshu_reserve_edit.json",
+        "assets/ae2/screens/tianshu_reserve_edit_expanded.json",
+        "assets/ae2/screens/tianshu_terminal_settings.json",
+        "assets/ae2/screens/tianshu_upload_targets.json",
+        "assets/ae2/screens/void_cell.json",
+        "assets/ae2/screens/wireless_tianshu_pattern_encoding_terminal.json",
+        "assets/ae2/screens/wireless_tianshu_terminal_entry.json"
+      ]
+    },
+    {
+      "mod": "ae2wtlib-15.3.3-forge.jar",
+      "screen_count": 8,
+      "overridden_screens": [
+        "assets/ae2/screens/wtlib/magnet.json",
+        "assets/ae2/screens/wtlib/trash.json",
+        "assets/ae2/screens/wtlib/universal_terminal_no_viewcells.json",
+        "assets/ae2/screens/wtlib/universal_terminal_with_viewcells.json",
+        "assets/ae2/screens/wtlib/wireless_crafting_terminal.json",
+        "assets/ae2/screens/wtlib/wireless_pattern_access_terminal.json",
+        "assets/ae2/screens/wtlib/wireless_pattern_encoding_terminal.json",
+        "assets/ae2/screens/wtlib/wireless_terminal_settings.json"
+      ],
+      "unmodified_screens": []
+    },
+    {
+      "mod": "Applied-Mekanistics-1.4.3.jar",
+      "screen_count": 1,
+      "overridden_screens": [
+        "assets/ae2/screens/terminals/portable_chemical_cell.json"
+      ],
+      "unmodified_screens": []
+    },
+    {
+      "mod": "appliedenergistics2-forge-15.4.11.jar",
+      "screen_count": 51,
+      "overridden_screens": [
+        "assets/ae2/screens/annihilation_plane.json",
+        "assets/ae2/screens/cell_workbench.json",
+        "assets/ae2/screens/chest.json",
+        "assets/ae2/screens/common/common.json",
+        "assets/ae2/screens/common/palette.json",
+        "assets/ae2/screens/common/player_inventory.json",
+        "assets/ae2/screens/common/toolbox.json",
+        "assets/ae2/screens/condenser.json",
+        "assets/ae2/screens/craft_amount.json",
+        "assets/ae2/screens/craft_confirm.json",
+        "assets/ae2/screens/craft_error.json",
+        "assets/ae2/screens/crafting_cpu.json",
+        "assets/ae2/screens/crafting_status.json",
+        "assets/ae2/screens/drive.json",
+        "assets/ae2/screens/energy_level_emitter.json",
+        "assets/ae2/screens/export_bus.json",
+        "assets/ae2/screens/formation_plane.json",
+        "assets/ae2/screens/import_bus.json",
+        "assets/ae2/screens/inscriber.json",
+        "assets/ae2/screens/interface.json",
+        "assets/ae2/screens/io_bus.json",
+        "assets/ae2/screens/io_port.json",
+        "assets/ae2/screens/level_emitter.json",
+        "assets/ae2/screens/molecular_assembler.json",
+        "assets/ae2/screens/network_status.json",
+        "assets/ae2/screens/network_tool.json",
+        "assets/ae2/screens/pattern_provider.json",
+        "assets/ae2/screens/priority.json",
+        "assets/ae2/screens/qnb.json",
+        "assets/ae2/screens/quartz_knife.json",
+        "assets/ae2/screens/set_processing_pattern_amount.json",
+        "assets/ae2/screens/set_stock_amount.json",
+        "assets/ae2/screens/sky_chest.json",
+        "assets/ae2/screens/spatial_anchor.json",
+        "assets/ae2/screens/spatial_io_port.json",
+        "assets/ae2/screens/storage_bus.json",
+        "assets/ae2/screens/terminals/base_terminal.json",
+        "assets/ae2/screens/terminals/crafting_terminal.json",
+        "assets/ae2/screens/terminals/encoding/crafting.json",
+        "assets/ae2/screens/terminals/encoding/processing.json",
+        "assets/ae2/screens/terminals/encoding/smithing_table.json",
+        "assets/ae2/screens/terminals/encoding/stonecutting.json",
+        "assets/ae2/screens/terminals/pattern_access_terminal.json",
+        "assets/ae2/screens/terminals/pattern_encoding_terminal.json",
+        "assets/ae2/screens/terminals/portable_fluid_cell.json",
+        "assets/ae2/screens/terminals/portable_item_cell.json",
+        "assets/ae2/screens/terminals/terminal.json",
+        "assets/ae2/screens/terminals/terminal_settings.json",
+        "assets/ae2/screens/terminals/wireless_terminal.json",
+        "assets/ae2/screens/vibration_chamber.json",
+        "assets/ae2/screens/wireless_access_point.json"
+      ],
+      "unmodified_screens": []
+    },
+    {
+      "mod": "expandedae-1.4.3.jar",
+      "screen_count": 7,
+      "overridden_screens": [
+        "assets/ae2/screens/exp_io_port.json",
+        "assets/ae2/screens/exp_pattern_provider.json",
+        "assets/ae2/screens/terminals/encoding/modify_processing.json"
+      ],
+      "unmodified_screens": [
+        "assets/ae2/screens/giga_pattern_provider.json",
+        "assets/ae2/screens/set_processing_pattern_name.json",
+        "assets/ae2/screens/terminals/modify_pattern_encoding_terminal.json",
+        "assets/ae2/screens/wtlib/modify_wireless_pattern_encoding_terminal.json"
+      ]
+    },
+    {
+      "mod": "ExtendedAE-1.20-1.4.21-forge.jar",
+      "screen_count": 37,
+      "overridden_screens": [
+        "assets/ae2/screens/active_formation_plane.json",
+        "assets/ae2/screens/assembler_matrix.json",
+        "assets/ae2/screens/caner.json",
+        "assets/ae2/screens/circuit_cutter.json",
+        "assets/ae2/screens/crafting/anvil.json",
+        "assets/ae2/screens/crafting/crafting.json",
+        "assets/ae2/screens/crafting/smithing.json",
+        "assets/ae2/screens/crafting/stonecutting.json",
+        "assets/ae2/screens/ex_crafting_terminal.json",
+        "assets/ae2/screens/ex_drive.json",
+        "assets/ae2/screens/ex_emc_export_bus.json",
+        "assets/ae2/screens/ex_emc_import_bus.json",
+        "assets/ae2/screens/ex_emc_interface.json",
+        "assets/ae2/screens/ex_export_bus.json",
+        "assets/ae2/screens/ex_import_bus.json",
+        "assets/ae2/screens/ex_inscriber.json",
+        "assets/ae2/screens/ex_interface.json",
+        "assets/ae2/screens/ex_io_port.json",
+        "assets/ae2/screens/ex_molecular_assembler.json",
+        "assets/ae2/screens/ex_pattern_access_terminal.json",
+        "assets/ae2/screens/ex_pattern_provider.json",
+        "assets/ae2/screens/ingredient_buffer.json",
+        "assets/ae2/screens/mod_export_bus.json",
+        "assets/ae2/screens/mod_storage_bus.json",
+        "assets/ae2/screens/oversize_interface.json",
+        "assets/ae2/screens/pattern_modifier.json",
+        "assets/ae2/screens/precise_export_bus.json",
+        "assets/ae2/screens/precise_storage_bus.json",
+        "assets/ae2/screens/renamer.json",
+        "assets/ae2/screens/set_precise_bus_amount.json",
+        "assets/ae2/screens/tag_export_bus.json",
+        "assets/ae2/screens/tag_storage_bus.json",
+        "assets/ae2/screens/threshold_export_bus.json",
+        "assets/ae2/screens/threshold_level_emitter.json",
+        "assets/ae2/screens/u_ex_pat.json",
+        "assets/ae2/screens/wireless_connector.json",
+        "assets/ae2/screens/wireless_hub.json"
+      ],
+      "unmodified_screens": []
+    },
+    {
+      "mod": "megacells-forge-2.4.6-1.20.1.jar",
+      "screen_count": 4,
+      "overridden_screens": [
+        "assets/ae2/screens/megacells/cell_dock.json",
+        "assets/ae2/screens/megacells/mega_emc_interface.json",
+        "assets/ae2/screens/megacells/mega_interface.json",
+        "assets/ae2/screens/megacells/mega_pattern_provider.json"
+      ],
+      "unmodified_screens": []
+    },
+    {
+      "mod": "merequester-forge-1.20.1-1.2.1.jar",
+      "screen_count": 2,
+      "overridden_screens": [
+        "assets/ae2/screens/requester.json",
+        "assets/ae2/screens/requester_terminal.json"
+      ],
+      "unmodified_screens": []
+    }
+  ],
+  "missing_includes": [],
+  "unoverridden_screens_changed_in_reference": [
+    "assets/ae2/screens/overload_processing_factory.json",
+    "assets/ae2/screens/terminals/tianshu_pattern_encoding_terminal.json",
+    "assets/ae2/screens/tianshu_advanced_pattern_config.json",
+    "assets/ae2/screens/tianshu_closed_loop_pattern_config.json",
+    "assets/ae2/screens/tianshu_inventory_overview.json",
+    "assets/ae2/screens/tianshu_maintenance_rule.json",
+    "assets/ae2/screens/tianshu_overload_pattern_config.json",
+    "assets/ae2/screens/tianshu_reserve_edit.json",
+    "assets/ae2/screens/tianshu_reserve_edit_expanded.json",
+    "assets/ae2/screens/tianshu_terminal_settings.json",
+    "assets/ae2/screens/tianshu_upload_targets.json",
+    "assets/ae2/screens/void_cell.json",
+    "assets/ae2/screens/wireless_tianshu_pattern_encoding_terminal.json"
+  ],
+  "unique_installed_screen_files": 199,
+  "extendedae_missing_chinese_keys_after": [],
+  "new_translation_format_arguments": {
+    "item.expatternprovider.wireless_ex_ct": {
+      "en": [],
+      "zh": []
+    },
+    "gui.expatternprovider.precise_export_bus.exact": {
+      "en": [],
+      "zh": []
+    },
+    "gui.expatternprovider.precise_export_bus.batch": {
+      "en": [],
+      "zh": []
+    },
+    "chat.wireless_added": {
+      "en": [
+        "%s",
+        "%s",
+        "%s"
+      ],
+      "zh": [
+        "%s",
+        "%s",
+        "%s"
+      ]
+    },
+    "chat.wireless_advanced_queue_limit": {
+      "en": [
+        "%s"
+      ],
+      "zh": [
+        "%s"
+      ]
+    },
+    "chat.wireless_advanced_duplicate": {
+      "en": [],
+      "zh": []
+    },
+    "key.ae2.wireless_ex_crafting_terminal": {
+      "en": [],
+      "zh": []
+    }
+  },
+  "changed_asset_hash_mismatches": [],
+  "recursive_layout_files_inspected": 203,
+  "new_layout_missing_textures": []
+}

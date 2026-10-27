@@ -1,0 +1,102 @@
+{
+  "assets/expatternprovider/lang/zh_cn.json": {
+    "source": "AE-Light-UI-1.20.1-v3.6.0; seven missing ExtendedAE 1.4.21 translations added locally",
+    "sha256": "2180a0be83590afc20ef18a528f96d661613b46c83f037553ddf200e7639b277"
+  },
+  "assets/expatternprovider/textures/item/wireless_ex_ct.png": {
+    "source": "Style adaptation; byte-identical copy of assets/ae2/textures/item/wireless_crafting_terminal.png; original source: AE-Light-UI-1.20.1-v3.6.0",
+    "sha256": "6c73c4f5c6ab55e799f73247214f5eb929fc32c5fbcf9af602ef277312c124f5"
+  },
+  "assets/expatternprovider/models/item/wireless_ex_ct.json": {
+    "source": "Local generated-item model for ExtendedAE wireless crafting terminal",
+    "sha256": "a2d04257453a2e95797d71e6eb5cdd80f26c806e0a7e122490bb0d1d9e9f7003"
+  },
+  "CREDITS.txt": {
+    "source": "AE2LT 2.1.2-beta3 crafting report; isolated texture path and local attribution",
+    "sha256": "926a375ddc9aa8c94ea7385eac7edc43d7ca90ad498b5ae5d11451a061feba46"
+  },
+  "assets/ae2/screens/atmospheric_ionizer.json": {
+    "source": "AE2LT 2.1.2-beta2 layout with compatible beta3 visual fields; preserves legacy functional widgets",
+    "sha256": "c31b49ca61c488e53f041d566d05815eb4eb92abd1752e87dc7244708826f74d"
+  },
+  "assets/ae2/screens/lightning_collector.json": {
+    "source": "AE2LT 2.1.2-beta2 layout with compatible beta3 visual fields; preserves legacy functional widgets",
+    "sha256": "a74c63b5b5bc06065e97d0004a2c4235a6286227ad1ce6a68a0fb90f7a752f5d"
+  },
+  "assets/ae2/screens/lightning_simulation_room.json": {
+    "source": "AE2LT 2.1.2-beta2 layout with compatible beta3 visual fields; preserves legacy functional widgets",
+    "sha256": "b35a76ff3faae05492a7dd340088e29ae9b40ed1b0a2843039410d0ce7d9bbe0"
+  },
+  "assets/ae2/screens/pigmee_molecular_assembler.json": {
+    "source": "AE2LT 2.1.2-beta2 layout with compatible beta3 visual fields; preserves legacy functional widgets",
+    "sha256": "61d4ea031a803c988287660f552a733e813646ee25777615fd0dd45d921958dd"
+  },
+  "assets/ae2/screens/crystal_catalyzer.json": {
+    "source": "AE2LT 2.1.2-beta2 layout with compatible beta3 visual fields; preserves legacy functional widgets",
+    "sha256": "9051440d327d200e98249192d6b8585d4844740c6c4a4604a443e2ace86dba18"
+  },
+  "assets/ae2/screens/lightning_assembly_chamber.json": {
+    "source": "AE2LT 2.1.2-beta2 layout with compatible beta3 visual fields; preserves legacy functional widgets",
+    "sha256": "f900e8850dfd9235eec472615a0d5d3882d6ed481709a4441c85f0ecbbddfa26"
+  },
+  "assets/ae2/screens/tesla_coil.json": {
+    "source": "AE2LT 2.1.2-beta2 layout with compatible beta3 visual fields; preserves legacy functional widgets",
+    "sha256": "447a0a65e5ef3e5deb4ad136f82938bf5aba0c91c1a6bfc7ee1c7699170c41fb"
+  },
+  "assets/ae2/screens/crystal_catalyzer_output_config.json": {
+    "source": "AE2LT 2.1.2-beta2 layout with compatible beta3 visual fields; preserves legacy functional widgets",
+    "sha256": "ce93cef87cd6f238476f7d5047a8daf36295c8807ba8e09efce942e8ec28ccdc"
+  },
+  "assets/ae2/screens/lightning_assembly_output_config.json": {
+    "source": "AE2LT 2.1.2-beta2 layout with compatible beta3 visual fields; preserves legacy functional widgets",
+    "sha256": "21014ac066d05855ddd0f8958341d0e3e07117cc657693f6e5d55487a4bf6b25"
+  },
+  "assets/ae2/screens/lightning_simulation_output_config.json": {
+    "source": "AE2LT 2.1.2-beta2 layout with compatible beta3 visual fields; preserves legacy functional widgets",
+    "sha256": "669ca74c17574910ca5960f24a13218385525e58a382466607499b42ce70e0bb"
+  },
+  "assets/ae2/screens/overload_processing_output_config.json": {
+    "source": "AE2LT 2.1.2-beta2 layout with compatible beta3 visual fields; preserves legacy functional widgets",
+    "sha256": "e911ff213ebafc5654d28ce2ce211924a9babdffc72790936106dbe29e91d4f4"
+  },
+  "assets/ae2/screens/overloaded_io_port.json": {
+    "source": "AE2LT 2.1.2-beta2 layout with compatible beta3 visual fields; preserves legacy functional widgets",
+    "sha256": "a0ec47ab77ca5a5d91d1cfaf7092bcc669a1d4a72102e92c22c69abcc64f5985"
+  },
+  "assets/ae2/screens/tianshu_seed_storage.json": {
+    "source": "AE2LT 2.1.2-beta2 layout with compatible beta3 visual fields; preserves legacy functional widgets",
+    "sha256": "08f648a132a2fd4a553ba2c1ffaa95458d5f4419e62b6e6d457b762ac40a8899"
+  },
+  "assets/ae2lightuicompat/textures/gui/extra_panels_modern.png": {
+    "source": "Applied Energistics 2 19.2.18 original extra_panels.png; isolated to preserve existing left-toolbox atlas",
+    "sha256": "c67fed0f98c9ca67a0602b5589a5191d59d5dd2bd3848c62de0e209e0e44b8b0"
+  },
+  "assets/ae2/screens/common/toolbox.json": {
+    "source": "Applied Energistics 2 19.2.18 right-toolbox layout with isolated atlas",
+    "sha256": "0d7127670faeaeb0ff446588b502707165f5ce2ea0b16c03b63be34c44709fc5"
+  },
+  "assets/ae2/screens/simple_pattern_provider_menu.json": {
+    "source": "AE2 Crystal Science 1.2.0 layout with 1.2.1 common player-inventory include",
+    "sha256": "d5019505cda8847e1a016ad9f88bca7e5af3ab7d68b32b6ab1778817d86e7541"
+  },
+  "assets/ae2/screens/overloaded_interface.json": {
+    "source": "AE2LT beta2 layout with verified beta3 presentation fields; new toolbox/menu functionality excluded",
+    "sha256": "de3fb9b3562be6c878a791c3b4220400374a269e02d56bdc49422c29e61fded3"
+  },
+  "assets/ae2/screens/pigmee_synthesis_station.json": {
+    "source": "AE2LT beta2 layout with verified beta3 presentation fields; new toolbox/menu functionality excluded",
+    "sha256": "c21aaaf1ffbf3cf1e46dbfaba1f4b8f6e0213781090cb6111d5f4ce0d4032409"
+  },
+  "assets/ae2/screens/exp_io_port.json": {
+    "source": "ExpandedAE 1.4.3 layout with modern 168px IO-port background height; retains old slot/widget definitions",
+    "sha256": "dbd02219f4aa559c4d2c95f5a668011997bbda711cec9d6ca10d749bb70ce82e"
+  },
+  "assets/ae2/screens/ae2lt_craft_confirm.json": {
+    "source": "AE2LT 2.1.2-beta3 crafting report; isolated texture path and local attribution",
+    "sha256": "bef00dc5a601563b7425246d7d7ec19ae63ed820fc8cde063824cdaf055c20ac"
+  },
+  "assets/ae2lightuicompat/textures/gui/lightning_crafting_report.png": {
+    "source": "AE2LT 2.1.2-beta3 crafting report; isolated texture path and local attribution",
+    "sha256": "2f2f3e73ad19739527100fd81ba56022767b283bf1d0178fc9c309ebf7f1dc72"
+  }
+}

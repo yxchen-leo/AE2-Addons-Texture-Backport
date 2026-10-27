@@ -108,3 +108,10 @@ v1.2.3 local provider GUI correction:
 
 v1.2.4 checkbox compatibility:
 - Dedicated checkbox atlas from Applied Energistics 2 19.2.18 (Minecraft 1.21.1). Original authors retain applicable rights.
+
+v1.2.6 ExtendedAE item compatibility:
+- wireless_ex_ct reuses the existing AE2 wireless crafting terminal sprite byte-for-byte. This is a style adaptation for an item absent from the inspected ExtendedAE 1.21.1 source, not a same-item upstream asset. Original asset licenses remain applicable.
+- Added seven local Simplified Chinese translations still missing from ExtendedAE 1.4.21 with the resource pack enabled.
+- Compatible GUI layout fields adapted from AE2LT 2.1.2-beta3 and AE2 Crystal Science 1.2.1; no new menu or guide functionality imported.
+- Right toolbox layout and isolated extra_panels atlas from AE2 19.2.18. Existing left toolbox resources retained.
+- AE2LT beta3 crafting report layout and original 238x260 background paired with companion footer slicing.
