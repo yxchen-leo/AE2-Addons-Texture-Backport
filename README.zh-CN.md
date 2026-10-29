@@ -1,6 +1,6 @@
 # AE2 及附属材质移植
 
-已发布 **1.2.6**：ExtendedAE 物品与中文修复及 GUI 细节适配。请配套使用模组和资源包 **1.2.6**。见[更新说明](docs/releases/1.2.6.md)。
+已发布 **1.2.7**：作者改为 `cyx`，资源包显示固定名称。见[更新说明](docs/releases/1.2.7.md)。
 
 [English](README.md) | **简体中文**
 
@@ -10,8 +10,8 @@
 
 ## 安装
 
-1. 从 [v1.2.6](https://github.com/yxchen-leo/AE2-Addons-Texture-Backport/releases/tag/v1.2.6) 下载 ZIP，放入 `resourcepacks` 并启用。
-2. 同时安装 **AE2 Light UI Compat 1.2.6** JAR，放入 `mods`。
+1. 从 [v1.2.7](https://github.com/yxchen-leo/AE2-Addons-Texture-Backport/releases/tag/v1.2.7) 下载 ZIP，放入 `resourcepacks` 并启用。
+2. 同时安装 **AE2 Light UI Compat 1.2.7** JAR，放入 `mods`。
 3. 移除旧版 JAR，停用旧版合并包及两个来源包，重启客户端。
 
 v1.2.1 起由已安装模组提供 GuideME 手册；v1.2.2 仅为 ExpandedAE 的两张错误页面提供修正覆盖。mekmm 战利品修复位于配套 JAR 中，单独启用 ZIP 不会修改服务端战利品。单人游戏安装客户端 JAR 即可；独立服务器需安装 JAR 才能启用战利品修复。

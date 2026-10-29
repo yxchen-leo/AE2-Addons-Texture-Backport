@@ -1,6 +1,10 @@
 {
   "pack": {
     "pack_format": 15,
-    "description": "AE2 & Addons Texture Backport\nMinecraft 1.20.1"
+    "description": "Minecraft 1.20.1 | v1.2.7"
+  },
+  "ae2lightuicompat": {
+    "pack_id": "ae2_addons_texture_backport",
+    "display_name": "AE2 & Addons Texture Backport"
   }
 }
