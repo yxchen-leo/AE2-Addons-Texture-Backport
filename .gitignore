@@ -3,3 +3,12 @@ __pycache__/
 *.pyc
 .DS_Store
 Thumbs.db
+
+# Local tools, logs and editor state
+*.log
+*.tmp
+*.bak
+/.idea/
+/.vscode/
+.env
+.env.*

@@ -19,16 +19,18 @@ v1.2.1 起由已安装模组提供 GuideME 手册；v1.2.2 仅为 ExpandedAE 的
 ## 文件说明
 
 - `pack/`：可编辑资源包，包含署名和许可文件。
-- `CREDITS.txt`：来源与修改历史；旧命名空间自 1.0.3 起改为 `ae2lightuicompat`。
+- [pack/CREDITS.txt](pack/CREDITS.txt)：唯一维护的完整来源与修改历史；旧命名空间自 1.0.3 起改为 `ae2lightuicompat`。
 - `file-provenance.json`：逐文件来源与 SHA-256。
 - `sources/`：来源与改动清单，不包含完整第三方模组 JAR。
-- `docs/`、`audit/`：版本说明与核对报告；历史报告仅对应其标注的版本。
-- `package.py`：运行 `python package.py`，在 `dist/` 生成 ZIP。
+- `docs/`：[文档导航](docs/README.zh-CN.md)、版本说明与核对报告；机器可读的历史报告按版本归入 `docs/verification/`。
+- `package.py`：使用 Python 3 运行 `python package.py`，生成 ZIP 到 `dist/`，无需第三方 Python 库。
 
-历史支持范围见 [1.1.2 核对报告](docs/1.1.2-完整核对.md)，v1.2.1 静态核对见 [核对记录](audit/1.2.1/validation.json)。编译和静态核对不代表游戏内画面验收，具体范围见各版本说明。
+ZIP 只包含 `pack/` 中的内容。`dist/`、日志和编辑器缓存属于本地产物，不提交到 Git。本地保留当前版本 ZIP，旧成品可从 GitHub Releases 下载。根目录 `CREDITS.txt` 指向资源包内完整的署名文件。
+
+历史支持范围见 [1.1.2 核对报告](docs/1.1.2-完整核对.md)，v1.2.1 静态核对见 [核对记录](docs/verification/1.2.1/validation.json)。编译和静态核对不代表游戏内画面验收，具体范围见各版本说明。
 
 ## 许可与公开分发
 
-仓库保持私有，**尚未完成全部第三方素材的公开再分发许可核对**。来源包 AE2LightMode-1.20.1-V1.0.6 未附明确授权声明，其他来源也需按文件核对。详情见 [许可记录](docs/许可核对.md)。
+**尚未完成全部第三方素材的公开再分发许可核对**。来源包 AE2LightMode-1.20.1-V1.0.6 未附明确授权声明，其他来源也需按文件核对。详情见 [许可记录](docs/许可核对.md)。
 
 素材保留原作者许可；适配模组的 MIT 许可不覆盖本资源包。署名或仓库私有均不等于获得再分发授权。本项目为非官方兼容移植，不代表 AE2 或附属作者认可。
