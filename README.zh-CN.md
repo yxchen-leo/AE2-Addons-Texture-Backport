@@ -1,8 +1,9 @@
 # AE2 及附属材质移植
 
+[English](README.md) | **简体中文**
+
 已发布 **1.2.7**：作者改为 `cyx`，资源包显示固定名称。见[更新说明](docs/releases/1.2.7.md)。
 
-[English](README.md) | **简体中文**
 
 适用于 **Minecraft 1.20.1 / Forge** 的 AE2 及附属材质与 GUI 移植资源包。
 
