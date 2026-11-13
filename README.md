@@ -1,8 +1,9 @@
 # AE2 & Addons Texture Backport
 
+**English** | [简体中文](README.zh-CN.md)
+
 Release **1.2.7**: author `cyx` and a fixed resource pack display name. See the [release notes](docs/releases/1.2.7.md).
 
-**English** | [简体中文](README.zh-CN.md)
 
 Backported AE2 and addon textures and interfaces for **Minecraft 1.20.1 / Forge**.
 
