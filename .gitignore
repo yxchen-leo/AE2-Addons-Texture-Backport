@@ -12,3 +12,12 @@ Thumbs.db
 /.vscode/
 .env
 .env.*
+
+# Shared development baseline (2026-11-06)
+/.local-backups/
+.env
+.env.*
+!.env.example
+*.log
+*.bak
+*.bak.*
