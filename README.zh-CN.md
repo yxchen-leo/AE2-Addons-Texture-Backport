@@ -2,8 +2,7 @@
 
 [English](README.md) | **简体中文**
 
-已发布 **1.2.7**：作者改为 `cyx`，资源包显示固定名称。见[更新说明](docs/releases/1.2.7.md)。
-
+已发布 **1.2.8**：整理项目文件，完善可复现打包与资源完整性检查。见[更新说明](docs/releases/1.2.8.md)。
 
 适用于 **Minecraft 1.20.1 / Forge** 的 AE2 及附属材质与 GUI 移植资源包。
 
@@ -11,8 +10,8 @@
 
 ## 安装
 
-1. 从 [v1.2.7](https://github.com/yxchen-leo/AE2-Addons-Texture-Backport/releases/tag/v1.2.7) 下载 ZIP，放入 `resourcepacks` 并启用。
-2. 同时安装 **AE2 Light UI Compat 1.2.7** JAR，放入 `mods`。
+1. 从 [v1.2.8](https://github.com/yxchen-leo/AE2-Addons-Texture-Backport/releases/tag/v1.2.8) 下载 ZIP，放入 `resourcepacks` 并启用。
+2. 同时安装 **AE2 Light UI Compat 1.2.8** JAR，放入 `mods`。
 3. 移除旧版 JAR，停用旧版合并包及两个来源包，重启客户端。
 
 v1.2.1 起由已安装模组提供 GuideME 手册；v1.2.2 仅为 ExpandedAE 的两张错误页面提供修正覆盖。mekmm 战利品修复位于配套 JAR 中，单独启用 ZIP 不会修改服务端战利品。单人游戏安装客户端 JAR 即可；独立服务器需安装 JAR 才能启用战利品修复。
@@ -24,9 +23,17 @@ v1.2.1 起由已安装模组提供 GuideME 手册；v1.2.2 仅为 ExpandedAE 的
 - `file-provenance.json`：逐文件来源与 SHA-256。
 - `sources/`：来源与改动清单，不包含完整第三方模组 JAR。
 - `docs/`：[文档导航](docs/README.zh-CN.md)、版本说明与核对报告；机器可读的历史报告按版本归入 `docs/verification/`。
-- `package.py`：使用 Python 3 运行 `python package.py`，生成 ZIP 到 `dist/`，无需第三方 Python 库。
+- `package.py`：使用 Python 3.9+ 运行 `python package.py`，生成 ZIP 到 `dist/`，无需第三方 Python 库。
 
 ZIP 只包含 `pack/` 中的内容。`dist/`、日志和编辑器缓存属于本地产物，不提交到 Git。本地保留当前版本 ZIP，旧成品可从 GitHub Releases 下载。根目录 `CREDITS.txt` 指向资源包内完整的署名文件。
+
+## 维护与检查
+
+运行 `python package.py --check`，检查文件清单及 SHA-256 来源记录、资源路径、JSON/元数据（包含重复键）、PNG 块校验和及压缩数据，不生成 ZIP。主动修改资源时，也应同步更新 `file-provenance.json` 及相应来源记录。
+
+使用 `python package.py --output ../.tmp/pack-check.zip` 生成核对用 ZIP，禁止输出到 `pack/` 内。打包先写临时 ZIP，验证成功后才替换目标；失败时保留已有 ZIP。旧版成品仍可从 GitHub Releases 获取。
+
+模型及界面引用核对范围见 [2026-11-19 完整性检查](docs/project-integrity.md)。部分引用由已安装模组及 Forge 提供，仅检查独立文件不能证明兼容所有附属版本。
 
 历史支持范围见 [1.1.2 核对报告](docs/1.1.2-完整核对.md)，v1.2.1 静态核对见 [核对记录](docs/verification/1.2.1/validation.json)。编译和静态核对不代表游戏内画面验收，具体范围见各版本说明。
 
