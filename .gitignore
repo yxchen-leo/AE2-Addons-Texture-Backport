@@ -1,23 +1,18 @@
+# Generated archives and Python caches
 /dist/
 __pycache__/
 *.pyc
-.DS_Store
-Thumbs.db
 
-# Local tools, logs and editor state
+# Local tools, backups, logs and editor state
+/.local-backups/
+/.idea/
+/.vscode/
 *.log
 *.tmp
 *.bak
-/.idea/
-/.vscode/
-.env
-.env.*
-
-# Shared development baseline (2026-11-06)
-/.local-backups/
+*.bak.*
 .env
 .env.*
 !.env.example
-*.log
-*.bak
-*.bak.*
+.DS_Store
+Thumbs.db

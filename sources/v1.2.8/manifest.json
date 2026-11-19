@@ -1,0 +1,16 @@
+{
+  "version": "1.2.8",
+  "files": {
+    "pack.mcmeta": {
+      "source": "Local metadata: 1.2.8 maintenance release; fixed pack identity and display name retained",
+      "sha256": "484d980bc995145078ae49beecaa07e9b52b40f3dfa13c13ed1c761d42751c74"
+    }
+  },
+  "removed_files": {
+    "assets/ae2/lang/zh_cn.etag": {
+      "source": "AE-Light-UI-1.20.1-v3.6.0",
+      "sha256": "316a46f8ee4501a09de512d721a8320ab05cda44a083ed0988229877a214e33b",
+      "reason": "Unreferenced HTTP download-cache token; not a game language resource"
+    }
+  }
+}

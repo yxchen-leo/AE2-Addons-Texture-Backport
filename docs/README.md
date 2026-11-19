@@ -4,6 +4,7 @@
 
 ## Guides and reports
 
+- [Project integrity and packaging checks](project-integrity.md)
 - [1.1.0-侧栏移植](1.1.0-侧栏移植.md)
 - [1.1.1-按钮修正](1.1.1-按钮修正.md)
 - [1.1.2-完整核对](1.1.2-完整核对.md)
@@ -16,6 +17,7 @@
 
 ## Release notes
 
+- [v1.2.8](releases/1.2.8.md)
 - [v1.2.7](releases/1.2.7.md)
 - [v1.2.6](releases/1.2.6.md)
 - [v1.2.4](releases/1.2.4.md)

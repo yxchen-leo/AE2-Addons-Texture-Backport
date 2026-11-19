@@ -1339,10 +1339,6 @@
     "source": "AE-Light-UI-1.20.1-v3.6.0",
     "sha256": "dc0344b96b751b7f1591b4c4385658f97b77591f08616517bda6798e92183f60"
   },
-  "assets/ae2/lang/zh_cn.etag": {
-    "source": "AE-Light-UI-1.20.1-v3.6.0",
-    "sha256": "316a46f8ee4501a09de512d721a8320ab05cda44a083ed0988229877a214e33b"
-  },
   "assets/ae2/lang/zh_cn.json": {
     "source": "AE-Light-UI-1.20.1-v3.6.0",
     "sha256": "cc770fb96fe4d5544b177034964b9cd6822d0481614536fce3e31f0a594a3598"
@@ -17492,8 +17488,8 @@
     "sha256": "926a375ddc9aa8c94ea7385eac7edc43d7ca90ad498b5ae5d11451a061feba46"
   },
   "pack.mcmeta": {
-    "source": "Local pack metadata: fixed display name for companion 1.2.7",
-    "sha256": "92c29a52898d95241c173ee45ef83844e04ae9fa4f9eeba9027de3bc3306d556"
+    "source": "Local metadata: 1.2.8 maintenance release; fixed pack identity and display name retained",
+    "sha256": "484d980bc995145078ae49beecaa07e9b52b40f3dfa13c13ed1c761d42751c74"
   },
   "pack.png": {
     "source": "Existing pack metadata; inventoried in 1.1.2 without byte changes",
